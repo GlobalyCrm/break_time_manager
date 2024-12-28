@@ -1,0 +1,48 @@
+.fixed-table-toolbar{
+    display: flex;
+    flex-direction: row-reverse;
+    justify-content: start;
+    margin-bottom:14px;
+}
+
+.fixed-table-toolbar::after{
+    content: none !important; /* Removes the content */
+}
+.main-content-section-header-options_import, .main-content-section-header-options_create{
+    opacity: 1 !important;
+}
+.fixed-table-toolbar>.search{
+    width:40%  !important;
+}
+.fixed-table-toolbar>.search>.search-input{
+    padding: 26px 0px 25px 30px;
+    height: 50px;
+    border-radius: 10px !important;
+    background-color: #333333;
+    border: 0px;
+    color: white !important;
+}
+.fixed-table-toolbar .keep-open>.btn-default, .fixed-table-toolbar .export>.btn-default{
+    padding: 16px 10px !important;
+    background-color: #333333 !important;
+    border: 0px !important;
+    color:#606368 !important;
+    margin-right: 4px;
+    border-radius: 10px !important;
+}
+.keep-open>ul{
+    color:black;
+}
+.fixed-table-toolbar>.bs-bars{
+    display: flex !important;
+    justify-content: end !important;
+}
+#toolbar{
+    width: 100%;
+}
+.restaurant_tables tbody, .restaurant_tables td, .restaurant_tables tfoot, .restaurant_tables th, .restaurant_tables thead, .restaurant_tables tr{
+    border: 0px !important;
+}
+.restaurant_tables tr{
+    border-radius: 10px !important;
+}

@@ -1,0 +1,73 @@
+#version: '3.8'
+
+services:
+  # Laravel (PHP-FPM) konteyneri
+  app:
+    build:
+      context: .
+      dockerfile: Dockerfile
+    container_name: dating_app
+    restart: unless-stopped
+    working_dir: /var/www
+    volumes:
+      - .:/var/www
+    environment:
+      - DB_CONNECTION=pgsql
+      - DB_HOST=postgres
+      - DB_PORT=5432
+      - DB_DATABASE=db_dating
+      - DB_USERNAME=postgres
+      - DB_PASSWORD=postgres
+    networks:
+      - laravel_network
+
+  # Nginx konteyneri
+  nginx:
+    image: nginx:alpine
+    container_name: laravel_nginx
+    restart: unless-stopped
+    ports:
+      - "8000:80"  # 8000 port orqali kirish
+    volumes:
+      - .:/var/www
+      - ./nginx:/etc/nginx/conf.d
+    depends_on:
+      - app
+    networks:
+      - laravel_network
+
+  # PostgreSQL konteyneri
+  postgres:
+    image: postgres:13
+    container_name: postgres_db
+    restart: unless-stopped
+    environment:
+      POSTGRES_DB: db_dating
+      POSTGRES_USER: postgres
+      POSTGRES_PASSWORD: postgres
+    ports:
+      - "5432:5432"  # PostgreSQL uchun 5432 port ochilgan
+    volumes:
+      - postgres_data:/var/lib/postgresql/data
+    networks:
+      - laravel_network
+
+  # pgAdmin konteyneri
+  pgadmin:
+    image: dpage/pgadmin4
+    container_name: pgadmin
+    restart: unless-stopped
+    environment:
+      PGADMIN_DEFAULT_EMAIL: admin@example.com
+      PGADMIN_DEFAULT_PASSWORD: admin
+    ports:
+      - "5050:80"  # pgAdmin uchun 5050 port ochilgan
+    networks:
+      - laravel_network
+
+networks:
+  laravel_network:
+    driver: bridge
+
+volumes:
+  postgres_data:

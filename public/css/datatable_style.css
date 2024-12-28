@@ -1,0 +1,29 @@
+.dataTables_wrapper>.row:first-child{
+    flex-direction: row-reverse;
+    justify-content: space-between;
+}
+.dataTables_wrapper >.row:first-child>div{
+    display: flex;
+    justify-content: start;
+}
+.dataTables_filter, .dataTables_filter label{
+    width: 100%;
+}
+.dataTables_filter div{
+    position: absolute;
+    margin: -38px 0px 0px 28px;
+    z-index:4;
+}
+.dataTables_filter input{
+    height: 50px;
+    border-radius:10px;
+    gap:10px;
+    background-color:#F2F2F2;
+    border: 0px;
+    width: 90% !important;
+    padding-left: 64px;
+}
+
+.dataTables_filter input:focus{
+    background-color:#F2F2F2;
+}

@@ -1,0 +1,8 @@
+.gitattributes
+.gitignore
+.git
+node_modules
+vendor
+tmp
+.env
+logs

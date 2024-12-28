@@ -1,0 +1,2511 @@
+[
+    {
+        "country": "Uzbekistan",
+        "lat": 41.381166,
+        "long": 64.5735819,
+        "regions": [
+            {
+                "name": "Toshkent shahri",
+                "cities": [
+                    {
+                        "name": "Bektemir tumani",
+                        "lat": 41.223643,
+                        "long": 69.334327
+                    },
+                    {
+                        "name": "Mirzo Ulug‘bek tumani",
+                        "lat": 41.326219,
+                        "long": 69.326916
+                    },
+                    {
+                        "name": "Mirobod tumani",
+                        "lat": 41.292562,
+                        "long": 69.285692
+                    },
+                    {
+                        "name": "Olmazor tumani",
+                        "lat": 41.354356,
+                        "long": 69.223358
+                    },
+                    {
+                        "name": "Sirg‘ali tumani",
+                        "lat": 41.235070,
+                        "long": 69.247361
+                    },
+                    {
+                        "name": "Uchtepa tumani",
+                        "lat": 41.295991,
+                        "long": 69.175200
+                    },
+                    {
+                        "name": "Chilonzor tumani",
+                        "lat": 41.281410,
+                        "long": 69.212668
+                    },
+                    {
+                        "name": "Shayxontohur tumani",
+                        "lat": 41.317653,
+                        "long": 69.230581
+                    },
+                    {
+                        "name": "Yunusobod tumani",
+                        "lat": 41.364664,
+                        "long": 69.287696
+                    },
+                    {
+                        "name": "Yakkasaroy tumani",
+                        "lat": 41.286004,
+                        "long": 69.253748
+                    },
+                    {
+                        "name": "Yashnobod tumani",
+                        "lat": 41.283463,
+                        "long": 69.339798
+                    }
+                ]
+            },
+            {
+                "name": "Andijon viloyati",
+                "lat": 40.73615,
+                "long": 72.43336,
+                "cities": [
+                    {
+                        "name": "Andijon",
+                        "lat": 40.78206000,
+                        "long": 72.34424000
+                    },
+                    {
+                        "name": "Xonabod shahri",
+                        "lat": 39.061425,
+                        "long": 66.697574
+                    },
+                    {
+                        "name": "Andijon tumani",
+                        "lat": 40.80000000,
+                        "long": 72.41667000
+                    },
+                    {
+                        "name": "Asaka",
+                        "lat": 40.64153000,
+                        "long": 72.23868000
+                    },
+                    {
+                        "name": "Asaka tumani",
+                        "lat": 40.66667000,
+                        "long": 72.25000000
+                    },
+                    {
+                        "name": "Baliqchi tumani",
+                        "lat": 40.86667000,
+                        "long": 72.00000000
+                    },
+                    {
+                        "name": "Bo‘z tumani",
+                        "lat": 40.66667000,
+                        "long": 71.91667000
+                    },
+                    {
+                        "name": "Buloqboshi tumani",
+                        "lat": 40.61667000,
+                        "long": 72.46667000
+                    },
+                    {
+                        "name": "Izboskan tumani",
+                        "lat": 40.91667000,
+                        "long": 72.25000000
+                    },
+                    {
+                        "name": "Jalaquduq tumani",
+                        "lat": 40.733920,
+                        "long": 72.635528
+                    },
+                    {
+                        "name": "Xo‘jaobod tumani",
+                        "lat": 40.66667000,
+                        "long": 72.58333000
+                    },
+                    {
+                        "name": "Marhamat",
+                        "lat": 40.48048000,
+                        "long": 72.31388000
+                    },
+                    {
+                        "name": "Marhamat tumani",
+                        "lat": 40.50000000,
+                        "long": 72.31667000
+                    },
+                    {
+                        "name": "Oltinko‘l tumani",
+                        "lat": 40.80000000,
+                        "long": 72.16667000
+                    },
+                    {
+                        "name": "Paxtaobod tumani",
+                        "lat": 40.93333000,
+                        "long": 72.50000000
+                    },
+                    {
+                        "name": "Paxtaobod",
+                        "lat": 40.92936000,
+                        "long": 72.49687000
+                    },
+                    {
+                        "name": "Qo‘rg‘ontepa",
+                        "lat": 40.73192000,
+                        "long": 72.76177000
+                    },
+                    {
+                        "name": "Qo‘rg‘ontepa tumani",
+                        "lat": 40.75000000,
+                        "long": 72.83333000
+                    },
+                    {
+                        "name": "Shahrixon tumani",
+                        "lat": 40.71667000,
+                        "long": 72.06667000
+                    },
+                    {
+                        "name": "Shahrixon",
+                        "lat": 40.71331000,
+                        "long": 72.05706000
+                    },
+                    {
+                        "name": "Ulug‘nor tumani",
+                        "lat": 40.75000000,
+                        "long": 71.70000000
+                    },
+                    {
+                        "name": "Xo‘jaobod",
+                        "lat": 40.66886000,
+                        "long": 72.56002000
+                    }
+                ]
+            },
+            {
+                "name": "Buxoro viloyati",
+                "lat": 40.229366,
+                "long": 63.5470584,
+                "cities": [
+                    {
+                        "name": "Olot tumani",
+                        "lat": 39.251207,
+                        "long": 64.116768
+                    },
+                    {
+                        "name": "Buxoro tumani",
+                        "lat": 39.547177,
+                        "long": 64.431736
+                    },
+                    {
+                        "name": "Gʻijduvon tumani",
+                        "lat": 40.480082,
+                        "long": 64.785483
+                    },
+                    {
+                        "name": "Jondor tumani",
+                        "lat": 39.928717,
+                        "long": 63.668680
+                    },
+                    {
+                        "name": "Kogon tumani",
+                        "lat": 39.753143,
+                        "long": 64.582132
+                    },
+                    {
+                        "name": "Kogon shahri",
+                        "lat": 39.723543,
+                        "long": 64.547178
+                    },
+                    {
+                        "name": "Qorakoʻl tumani",
+                        "lat": 39.785142,
+                        "long": 63.166450
+                    },
+                    {
+                        "name": "Qorovulbozor tumani",
+                        "lat": 39.398799,
+                        "long": 64.772431
+                    },
+                    {
+                        "name": "Peshku tumani",
+                        "lat": 40.591524,
+                        "long": 63.394020
+                    },
+                    {
+                        "name": "Romitan tumani",
+                        "lat": 39.962542,
+                        "long": 64.100069
+                    },
+                    {
+                        "name": "Shofirkon tumani",
+                        "lat": 40.455754,
+                        "long": 64.311011
+                    },
+                    {
+                        "name": "Vobkent tumani",
+                        "lat": 39.980498,
+                        "long": 64.538833
+                    }
+                ]
+            },
+            {
+                "name": "Fargʻona viloyati",
+                "lat": 40.5000,
+                "long": 71.2500,
+                "cities": [
+                    {
+                        "name": "Beshariq tumani",
+                        "lat": 40.438027,
+                        "long": 70.528916
+                    },
+                    {
+                        "name": "Farg‘ona shahri",
+                        "lat": 40.389448,
+                        "long": 71.783135
+                    },
+                    {
+                        "name": "Marg‘ilon shahri",
+                        "lat": 40.469065,
+                        "long": 71.720774
+                    },
+                    {
+                        "name": "Quvasoy shahri",
+                        "lat": 40.296393,
+                        "long": 71.982624
+                    },
+                    {
+                        "name": "Qo‘qon shahri",
+                        "lat": 40.539151,
+                        "long": 70.940425
+                    },
+                    {
+                        "name": "Bog‘dod tumani",
+                        "lat": 40.495830,
+                        "long": 71.219648
+                    },
+                    {
+                        "name": "Buvayda tumani",
+                        "lat": 40.615228,
+                        "long": 71.140965
+                    },
+                    {
+                        "name": "Dang‘ara tumani",
+                        "lat": 40.633106,
+                        "long": 70.865030
+                    },
+                    {
+                        "name": "Yozyovon tumani",
+                        "lat": 40.646348,
+                        "long": 71.658763
+                    },
+                    {
+                        "name": "Quva tumani",
+                        "lat": 40.525580,
+                        "long": 72.022913
+                    },
+                    {
+                        "name": "Qo‘shtepa tumani",
+                        "lat": 40.531330,
+                        "long": 71.612338
+                    },
+                    {
+                        "name": "Oltiariq tumani",
+                        "lat": 40.463302,
+                        "long": 71.456543
+                    },
+                    {
+                        "name": "Rishton tumani",
+                        "lat": 40.368501,
+                        "long": 71.201116
+                    },
+                    {
+                        "name": "So‘x tumani",
+                        "lat": 40.038723,
+                        "long": 71.066674
+                    },
+                    {
+                        "name": "Toshloq tumani",
+                        "lat": 40.513980,
+                        "long": 71.823200
+                    },
+                    {
+                        "name": "O‘zbekiston tumani",
+                        "lat": 40.348050,
+                        "long": 70.876124
+                    },
+                    {
+                        "name": "Uchko‘prik tumani",
+                        "lat": 40.523845,
+                        "long": 71.043660
+                    },
+                    {
+                        "name": "Farg‘ona tumani",
+                        "lat": 40.290016,
+                        "long": 71.758674
+                    },
+                    {
+                        "name": "Furqat tumani",
+                        "lat": 40.509866,
+                        "long": 70.760313
+                    }
+                ]
+            },
+            {
+                "name": "Jizzax viloyati",
+                "lat": 40.33191,
+                "long": 67.4551198,
+                "cities": [
+                    {
+                        "name": "Jizzax shahri",
+                        "lat": 40.120302,
+                        "long": 67.828544
+                    },
+                    {
+                        "name": "Arnasoy tumani",
+                        "lat": 40.569319,
+                        "long": 67.831670
+                    },
+                    {
+                        "name": "Baxmal tumani",
+                        "lat": 39.750439,
+                        "long": 67.864647
+                    },
+                    {
+                        "name": "Do‘stlik tumani",
+                        "lat": 40.542550,
+                        "long": 68.048838
+                    },
+                    {
+                        "name": "Zarbdor tumani",
+                        "lat": 40.156499,
+                        "long": 68.175330
+                    },
+                    {
+                        "name": "Zafarobod tumani",
+                        "lat": 40.358751,
+                        "long": 67.796771
+                    },
+                    {
+                        "name": "Zomin tumani",
+                        "lat": 39.895395,
+                        "long": 68.341806
+                    },
+                    {
+                        "name": "Mirzacho‘l tumani",
+                        "lat": 40.699033,
+                        "long": 68.093763
+                    },
+                    {
+                        "name": "Paxtakor tumani",
+                        "lat": 40.346586,
+                        "long": 68.033665
+                    },
+                    {
+                        "name": "Forish tumani",
+                        "lat": 40.649433,
+                        "long": 67.178460
+                    },
+                    {
+                        "name": "Sharof Rashidov tumani",
+                        "lat": 40.010601,
+                        "long": 67.881491
+                    },
+                    {
+                        "name": "G‘allaorol tumani",
+                        "lat": 40.056059,
+                        "long": 67.399859
+                    },
+                    {
+                        "name": "Yangiobod tumani",
+                        "lat": 40.003196,
+                        "long": 68.766304
+                    }
+                ]
+            },
+            {
+                "name": "Qoraqalpogʻiston",
+                "lat": 43.7738841,
+                "long": 57.6234617,
+                "cities": [
+                    {
+                        "name": "Nukus shahri",
+                        "lat": 42.460341,
+                        "long": 59.617996
+                    },
+                    {
+                        "name": "Amudaryo tumani",
+                        "lat": 42.104719,
+                        "long": 60.071734
+                    },
+                    {
+                        "name": "Beruniy tumani",
+                        "lat": 41.692763,
+                        "long": 60.747749
+                    },
+                    {
+                        "name": "Chimboy tumani",
+                        "lat": 43.102616,
+                        "long": 59.605572
+                    },
+                    {
+                        "name": "Ellikqalʼa tumani",
+                        "lat": 41.843881,
+                        "long": 60.920971
+                    },
+                    {
+                        "name": "Kegeyli tumani",
+                        "lat": 42.759253,
+                        "long": 59.728979
+                    },
+                    {
+                        "name": "Moʻynoq tumani",
+                        "lat": 43.771514,
+                        "long": 59.021003
+                    },
+                    {
+                        "name": "Nukus tumani",
+                        "lat": 42.538940,
+                        "long": 59.524904
+                    },
+                    {
+                        "name": "Qanlikoʻl tumani",
+                        "lat": 42.766203,
+                        "long": 59.087604
+                    },
+                    {
+                        "name": "Qoʻngʻirot tumani",
+                        "lat": 43.048023,
+                        "long": 58.850008
+                    },
+                    {
+                        "name": "Qoraoʻzak tumani",
+                        "lat": 43.022847,
+                        "long": 60.016426
+                    },
+                    {
+                        "name": "Shumanay tumani",
+                        "lat": 42.634753,
+                        "long": 58.934261
+                    },
+                    {
+                        "name": "Taxtakoʻpir tumani",
+                        "lat": 43.159008,
+                        "long": 61.186275
+                    },
+                    {
+                        "name": "Toʻrtkoʻl tumani",
+                        "lat": 41.571313,
+                        "long": 61.413270
+                    },
+                    {
+                        "name": "Xoʻjayli tumani",
+                        "lat": 42.412544,
+                        "long": 59.453057
+                    },
+                    {
+                        "name": "Taxiatosh tumani",
+                        "lat": 42.322428,
+                        "long": 59.512687
+                    },
+                    {
+                        "name": "Boʻzatov tumani",
+                        "lat": 42.962202,
+                        "long": 59.350227
+                    }
+                ]
+            },
+            {
+                "name": "Namangan viloyati",
+                "lat": 41.0036287,
+                "long": 71.2611952,
+                "cities": [
+                    {
+                        "name": "Namangan shahri",
+                        "lat": 41.000085,
+                        "long": 71.672579
+                    },
+                    {
+                        "name": "Kosonsoy tumani",
+                        "lat": 41.182108,
+                        "long": 71.553220
+                    },
+                    {
+                        "name": "Mingbuloq tumani",
+                        "lat": 40.772558,
+                        "long": 71.366191
+                    },
+                    {
+                        "name": "Namangan tumani",
+                        "lat": 40.922597,
+                        "long": 71.654658
+                    },
+                    {
+                        "name": "Norin tumani",
+                        "lat": 40.934316,
+                        "long": 72.013768
+                    },
+                    {
+                        "name": "Pop tumani",
+                        "lat": 41.012198,
+                        "long": 70.780651
+                    },
+                    {
+                        "name": "To‘raqo‘rg‘on tumani",
+                        "lat": 40.956378,
+                        "long": 71.482522
+                    },
+                    {
+                        "name": "Uychi tumani",
+                        "lat": 41.039077,
+                        "long": 71.920298
+                    },
+                    {
+                        "name": "Uchqo‘rg‘on tumani",
+                        "lat": 41.114592,
+                        "long": 72.077593
+                    },
+                    {
+                        "name": "Chortoq tumani",
+                        "lat": 41.129428,
+                        "long": 71.835911
+                    },
+                    {
+                        "name": "Chust tumani",
+                        "lat": 41.050516,
+                        "long": 71.201646
+                    },
+                    {
+                        "name": "Yangiqo‘rg‘on tumani",
+                        "lat": 41.279546,
+                        "long": 71.719381
+                    }
+                ]
+            },
+            {
+                "name": "Navoiy viloyati",
+                "lat": 42.000,
+                "long": 64.0000,
+                "cities": [
+                    {
+                        "name": "Navoiy shahri",
+                        "lat": 41.058907,
+                        "long": 64.622457
+                    },
+                    {
+                        "name": "Zarafshon shahri",
+                        "lat": 41.568824,
+                        "long": 64.202665
+                    },
+                    {
+                        "name": "Konimex tumani",
+                        "lat": 41.058907,
+                        "long": 64.622457
+                    },
+                    {
+                        "name": "Karmana tumani",
+                        "lat": 40.038130,
+                        "long": 65.278461
+                    },
+                    {
+                        "name": "Qiziltepa tumani",
+                        "lat": 40.035485,
+                        "long": 64.847009
+                    },
+                    {
+                        "name": "Xatirchi tumani",
+                        "lat": 40.191456,
+                        "long": 65.943645
+                    },
+                    {
+                        "name": "Navbahor tumani",
+                        "lat": 40.258977,
+                        "long": 65.439654
+                    },
+                    {
+                        "name": "Nurota tumani",
+                        "lat": 40.714975,
+                        "long": 66.045191
+                    },
+                    {
+                        "name": "Tomdi tumani",
+                        "lat": 41.763163,
+                        "long": 64.643460
+                    },
+                    {
+                        "name": "Uchquduq tumani",
+                        "lat": 42.309007,
+                        "long": 63.140174
+                    }
+                ]
+            },
+            {
+                "name": "Qashqadaryo viloyati",
+                "lat": 38.5639397,
+                "long": 65.5311095,
+                "cities": [
+                    {
+                        "name": "Qarshi shahri",
+                        "lat": 39.215982,
+                        "long": 66.530515
+                    },
+                    {
+                        "name": "Shahrisabz shahri",
+                        "lat": 39.060073,
+                        "long": 66.829474
+                    },
+                    {
+                        "name": "Chiroqchi tumani",
+                        "lat": 39.215982,
+                        "long": 66.530515
+                    },
+                    {
+                        "name": "Dehqonobod tumani",
+                        "lat": 38.367516,
+                        "long": 66.629823
+                    },
+                    {
+                        "name": "Gʻuzor tumani",
+                        "lat": 38.540298,
+                        "long": 66.146422
+                    },
+                    {
+                        "name": "Qamashi tumani",
+                        "lat": 38.540298,
+                        "long": 66.146422
+                    },
+                    {
+                        "name": "Qarshi tumani",
+                        "lat": 38.781238,
+                        "long": 65.797013
+                    },
+                    {
+                        "name": "Koson tumani",
+                        "lat": 39.041560,
+                        "long": 65.585352
+                    },
+                    {
+                        "name": "Kasbi tumani",
+                        "lat": 38.893996,
+                        "long": 65.453686
+                    },
+                    {
+                        "name": "Kitob tumani",
+                        "lat": 39.191100,
+                        "long": 67.059793
+                    },
+                    {
+                        "name": "Mirishkor tumani",
+                        "lat": 38.819690,
+                        "long": 64.977902
+                    },
+                    {
+                        "name": "Muborak tumani",
+                        "lat": 39.261236,
+                        "long": 65.156811
+                    },
+                    {
+                        "name": "Nishon tumani",
+                        "lat": 38.519312,
+                        "long": 65.578031
+                    },
+                    {
+                        "name": "Shahrisabz tumani",
+                        "lat": 38.980256,
+                        "long": 67.140812
+                    },
+                    {
+                        "name": "Yakkabogʻ tumani",
+                        "lat": 38.977353,
+                        "long": 66.687890
+                    },
+                    {
+                        "name": "Koʻkdala tumani",
+                        "lat": 39.172950,
+                        "long": 66.180504
+                    }
+                ]
+            },
+            {
+                "name": "Samarqand viloyati",
+                "lat": 39.7337023,
+                "long": 66.1282889,
+                "cities": [
+                    {
+                        "name": "Samarqand shahri",
+                        "lat": 39.654397,
+                        "long": 66.975836
+                    },
+                    {
+                        "name": "Kattaqo‘rg‘on shahri",
+                        "lat": 39.903504,
+                        "long": 66.265035
+                    },
+                    {
+                        "name": "Bulungʻur tumani",
+                        "lat": 39.711916,
+                        "long": 67.326979
+                    },
+                    {
+                        "name": "Ishtixon tumani",
+                        "lat": 40.021425,
+                        "long": 66.526490
+                    },
+                    {
+                        "name": "Jomboy tumani",
+                        "lat": 40.021425,
+                        "long": 66.526490
+                    },
+                    {
+                        "name": "Kattaqoʻrgʻon tumani",
+                        "lat": 40.046822,
+                        "long": 66.261478
+                    },
+                    {
+                        "name": "Qoʻshrabot tumani",
+                        "lat": 40.379515,
+                        "long": 66.533389
+                    },
+                    {
+                        "name": "Narpay tumani",
+                        "lat": 40.379515,
+                        "long": 66.533389
+                    },
+                    {
+                        "name": "Nurobod tumani",
+                        "lat": 39.631006,
+                        "long": 65.993636
+                    },
+                    {
+                        "name": "Oqdaryo tumani",
+                        "lat": 39.837136,
+                        "long": 66.752398
+                    },
+                    {
+                        "name": "Paxtachi tumani",
+                        "lat": 39.885257,
+                        "long": 65.569120
+                    },
+                    {
+                        "name": "Payariq tumani",
+                        "lat": 40.016908,
+                        "long": 66.886589
+                    },
+                    {
+                        "name": "Pastdargʻom tumani",
+                        "lat": 39.660431,
+                        "long": 66.662297
+                    },
+                    {
+                        "name": "Samarqand tumani",
+                        "lat": 39.671595,
+                        "long": 66.894727
+                    },
+                    {
+                        "name": "Toyloq tumani",
+                        "lat": 39.570805,
+                        "long": 67.150172
+                    },
+                    {
+                        "name": "Urgut tumani",
+                        "lat": 39.405588,
+                        "long": 67.145501
+                    }
+                ]
+            },
+            {
+                "name": "Sirdaryo viloyati",
+                "lat": 40.5018473,
+                "long": 68.7426643,
+                "cities": [
+                    {
+                        "name": "Guliston shahri",
+                        "lat": 40.509489,
+                        "long": 68.769089
+                    },
+                    {
+                        "name": "Yangiyer shahri",
+                        "lat": 40.274089,
+                        "long": 68.813655
+                    },
+                    {
+                        "name": "Shirin shahri",
+                        "lat": 40.230259,
+                        "long": 69.127661
+                    },
+                    {
+                        "name": "Boyovut tumani",
+                        "lat": 40.366103,
+                        "long": 68.941144
+                    },
+                    {
+                        "name": "Guliston tumani",
+                        "lat": 40.516668,
+                        "long": 68.914715
+                    },
+                    {
+                        "name": "Mirzaobod tumani",
+                        "lat": 40.451136,
+                        "long": 68.633875
+                    },
+                    {
+                        "name": "Oqoltin tumani",
+                        "lat": 40.533352,
+                        "long": 68.326193
+                    },
+                    {
+                        "name": "Sardoba tumani",
+                        "lat": 40.338235,
+                        "long": 68.308415
+                    },
+                    {
+                        "name": "Sayxunobod tumani",
+                        "lat": 40.657411,
+                        "long": 68.832052
+                    },
+                    {
+                        "name": "Sirdaryo tumani",
+                        "lat": 40.797671,
+                        "long": 68.684073
+                    },
+                    {
+                        "name": "Xovos tumani",
+                        "lat": 40.230734,
+                        "long": 68.713843
+                    }
+                ]
+            },
+            {
+                "name": "Surxondaryo viloyati",
+                "lat": 37.9520843,
+                "long": 67.1265996,
+                "cities": [
+                    {
+                        "name": "Termiz shahri",
+                        "lat": 37.228581,
+                        "long": 67.275451
+                    },
+                    {
+                        "name": "Angor tumani",
+                        "lat": 37.435600,
+                        "long": 67.221094
+                    },
+                    {
+                        "name": "Boysun tumani",
+                        "lat": 37.99944000,
+                        "long": 67.78750000
+                    },
+                    {
+                        "name": "Denov tumani",
+                        "lat": 38.323682,
+                        "long": 67.820837
+                    },
+                    {
+                        "name": "Jarqo‘rg‘on tumani",
+                        "lat": 37.504300,
+                        "long": 67.464421
+                    },
+                    {
+                        "name": "Muzrobod tumani",
+                        "lat": 37.423107,
+                        "long": 66.864104
+                    },
+                    {
+                        "name": "Oltinsoy tumani",
+                        "lat": 38.181924,
+                        "long": 67.733628
+                    },
+                    {
+                        "name": "Sariosiyo tumani",
+                        "lat": 38.732662,
+                        "long": 67.801783
+                    },
+                    {
+                        "name": "Termiz tumani",
+                        "lat": 37.304361,
+                        "long": 67.444595
+                    },
+                    {
+                        "name": "Uzun tumani",
+                        "lat": 38.168273,
+                        "long": 68.182696
+                    },
+                    {
+                        "name": "Sherobod tumani",
+                        "lat": 37.728920,
+                        "long": 66.848725
+                    },
+                    {
+                        "name": "Sho‘rchi tumani",
+                        "lat": 37.954163,
+                        "long": 67.863641
+                    },
+                    {
+                        "name": "Qiziriq tumani",
+                        "lat": 37.648587,
+                        "long": 67.245160
+                    },
+                    {
+                        "name": "Qumqo‘rg‘on tumani",
+                        "lat": 37.825369,
+                        "long": 67.591793
+                    }
+                ]
+            },
+            {
+                "name": "Toshkent viloyati",
+                "lat": 41.0496815,
+                "long": 69.3711365,
+                "cities": [
+                    {
+                        "name": "Nurafshon shahri",
+                        "lat": 41.042709,
+                        "long": 69.357612
+                    },
+                    {
+                        "name": "Angren shahri",
+                        "lat": 41.012661,
+                        "long": 70.085301
+                    },
+                    {
+                        "name": "Bekobod shahri",
+                        "lat": 40.217699,
+                        "long": 69.265804
+                    },
+                    {
+                        "name": "Olmaliq shahri",
+                        "lat": 40.845891,
+                        "long": 69.607110
+                    },
+                    {
+                        "name": "Ohangaron shahri",
+                        "lat": 40.910447,
+                        "long": 69.643680
+                    },
+                    {
+                        "name": "Chirchiq shahri",
+                        "lat": 41.472659,
+                        "long": 69.581229
+                    },
+                    {
+                        "name": "Yangiyo‘l shahri",
+                        "lat": 41.118933,
+                        "long": 69.058544
+                    },
+                    {
+                        "name": "Bekobod tumani",
+                        "lat": 40.391034,
+                        "long": 69.200029
+                    },
+                    {
+                        "name": "Bo‘ka tumani",
+                        "lat": 40.725945,
+                        "long": 69.191109
+                    },
+                    {
+                        "name": "Bo‘stonliq tumani",
+                        "lat": 41.571610,
+                        "long": 69.939352
+                    },
+                    {
+                        "name": "Zangiota tumani",
+                        "lat": 41.260515,
+                        "long": 69.085656
+                    },
+                    {
+                        "name": "Qibray tumani",
+                        "lat": 41.428722,
+                        "long": 69.488361
+                    },
+                    {
+                        "name": "Quyichirchiq tumani",
+                        "lat": 40.934418,
+                        "long": 68.997737
+                    },
+                    {
+                        "name": "Oqqo‘rg‘on tumani",
+                        "lat": 40.819383,
+                        "long": 69.002966
+                    },
+                    {
+                        "name": "Ohangaron tumani",
+                        "lat": 40.980318,
+                        "long": 69.867001
+                    },
+                    {
+                        "name": "Parkent tumani",
+                        "lat": 41.257878,
+                        "long": 69.751999
+                    },
+                    {
+                        "name": "Piskent tumani",
+                        "lat": 40.833850,
+                        "long": 69.482163
+                    },
+                    {
+                        "name": "Toshkent tumani",
+                        "lat": 41.429405,
+                        "long": 69.234515
+                    },
+                    {
+                        "name": "O‘rtachirchiq tumani",
+                        "lat": 41.057031,
+                        "long": 69.307782
+                    },
+                    {
+                        "name": "Chinoz tumani",
+                        "lat": 40.999343,
+                        "long": 68.825926
+                    },
+                    {
+                        "name": "Yuqorichirchiq tumani",
+                        "lat": 41.187374,
+                        "long": 69.498081
+                    },
+                    {
+                        "name": "Yangiyo‘l tumani",
+                        "lat": 41.128545,
+                        "long": 68.995968
+                    }
+                ]
+            },
+            {
+                "name": "Xorazm viloyati",
+                "lat": 41.2902835,
+                "long": 60.5428537,
+                "cities": [
+                    {
+                        "name": "Urganch shahri",
+                        "lat": 41.550458,
+                        "long": 60.631476
+                    },
+                    {
+                        "name": "Xiva shahri",
+                        "lat": 41.550458,
+                        "long": 60.631476
+                    },
+                    {
+                        "name": "Bogʻot tumani",
+                        "lat": 42.962202,
+                        "long": 59.350227
+                    },
+                    {
+                        "name": "Gurlan tumani",
+                        "lat": 41.880465,
+                        "long": 60.354633
+                    },
+                    {
+                        "name": "Xonqa tumani",
+                        "lat": 41.486238,
+                        "long": 60.834450
+                    },
+                    {
+                        "name": "Hazorasp tumani",
+                        "lat": 41.284269,
+                        "long": 61.140964
+                    },
+                    {
+                        "name": "Xiva tumani",
+                        "lat": 41.284269,
+                        "long": 61.140964
+                    },
+                    {
+                        "name": "Qoʻshkoʻpir tumani",
+                        "lat": 41.503981,
+                        "long": 60.261981
+                    },
+                    {
+                        "name": "Shovot tumani",
+                        "lat": 41.691029,
+                        "long": 60.255234
+                    },
+                    {
+                        "name": "Urganch tumani",
+                        "lat": 41.603834,
+                        "long": 60.598660
+                    },
+                    {
+                        "name": "Yangiariq tumani",
+                        "lat": 41.325265,
+                        "long": 60.585814
+                    },
+                    {
+                        "name": "Yangibozor tumani",
+                        "lat": 41.729620,
+                        "long": 60.489380
+                    },
+                    {
+                        "name": "Tuproqqalʼa tumani",
+                        "lat": 41.205986,
+                        "long": 61.286042
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Afghanistan",
+        "lat": 33.93911,
+        "long": 67.709953,
+        "regions": [
+            {
+                "name": "Badakhshan",
+                "lat": 37.1758,
+                "long": 70.5406,
+                "cities": [
+                    {
+                        "name": "Faizabad",
+                        "lat": 37.1998,
+                        "long": 70.4895
+                    },
+                    {
+                        "name": "Shuhada",
+                        "lat": 37.2739,
+                        "long": 70.9623
+                    },
+                    {
+                        "name": "Khash",
+                        "lat": 37.1133,
+                        "long": 70.1528
+                    },
+                    {
+                        "name": "Tishkan",
+                        "lat": 37.3096,
+                        "long": 70.7502
+                    },
+                    {
+                        "name": "Baharak",
+                        "lat": 37.2278,
+                        "long": 70.6906
+                    },
+                    {
+                        "name": "Darayem",
+                        "lat": 37.2442,
+                        "long": 70.6232
+                    },
+                    {
+                        "name": "Khaneshin",
+                        "lat": 37.2906,
+                        "long": 70.1503
+                    },
+                    {
+                        "name": "Yawan",
+                        "lat": 37.3422,
+                        "long": 70.7001
+                    },
+                    {
+                        "name": "Ruzgan",
+                        "lat": 37.0553,
+                        "long": 70.9113
+                    },
+                    {
+                        "name": "Arghanj Khwa",
+                        "lat": 37.3961,
+                        "long": 70.8686
+                    },
+                    {
+                        "name": "Shahrak",
+                        "lat": 37.2946,
+                        "long": 70.6678
+                    },
+                    {
+                        "name": "Zibak",
+                        "lat": 37.5690,
+                        "long": 70.7301
+                    }
+                ]
+            },
+
+            {
+                "name": "Badghis",
+                "lat": 34.9850,
+                "long": 63.5318,
+                "cities": [
+                    {
+                        "name": "Qala-i-Naw",
+                        "lat": 34.9933,
+                        "long": 63.5515
+                    },
+                    {
+                        "name": "Murghab",
+                        "lat": 35.1962,
+                        "long": 63.4870
+                    },
+                    {
+                        "name": "Ghorian",
+                        "lat": 34.9785,
+                        "long": 63.6480
+                    },
+                    {
+                        "name": "Jawand",
+                        "lat": 35.0454,
+                        "long": 63.1923
+                    },
+                    {
+                        "name": "Qadis",
+                        "lat": 34.8942,
+                        "long": 63.6522
+                    },
+                    {
+                        "name": "Laman",
+                        "lat": 34.8795,
+                        "long": 63.2247
+                    },
+                    {
+                        "name": "Aab Kamari",
+                        "lat": 35.0323,
+                        "long": 63.6090
+                    }
+                ]
+            },
+            {
+                "name": "Bamyan",
+                "lat": 34.8238,
+                "long": 67.9524,
+                "cities": [
+                    {
+                        "name": "Bamyan",
+                        "lat": 34.8284,
+                        "long": 67.8412
+                    },
+                    {
+                        "name": "Waras",
+                        "lat": 34.6678,
+                        "long": 67.8834
+                    },
+                    {
+                        "name": "Shibar",
+                        "lat": 34.4872,
+                        "long": 67.7861
+                    },
+                    {
+                        "name": "Jaghori",
+                        "lat": 34.5923,
+                        "long": 67.3680
+                    },
+                    {
+                        "name": "Sayghan",
+                        "lat": 34.6000,
+                        "long": 68.0411
+                    },
+                    {
+                        "name": "Dahaneh Ghor",
+                        "lat": 34.6804,
+                        "long": 67.5697
+                    },
+                    {
+                        "name": "Khanjan",
+                        "lat": 34.7633,
+                        "long": 67.9851
+                    }
+                ]
+            },
+
+            {
+                "name": "Daykundi",
+                "lat": 33.8605,
+                "long": 67.7180,
+                "cities": [
+                    {
+                        "name": "Nili",
+                        "lat": 33.9233,
+                        "long": 67.7300
+                    },
+                    {
+                        "name": "Khidir",
+                        "lat": 33.8661,
+                        "long": 67.9561
+                    },
+                    {
+                        "name": "Ashtarlay",
+                        "lat": 33.8785,
+                        "long": 67.8553
+                    },
+                    {
+                        "name": "Panjab",
+                        "lat": 33.8379,
+                        "long": 67.9913
+                    },
+                    {
+                        "name": "Kebar",
+                        "lat": 33.8935,
+                        "long": 67.6476
+                    },
+                    {
+                        "name": "Tizak",
+                        "lat": 33.9150,
+                        "long": 67.8836
+                    },
+                    {
+                        "name": "Shahrak",
+                        "lat": 33.7892,
+                        "long": 67.9148
+                    }
+                ]
+            },
+            {
+                "name": "Ghor",
+                "lat": 34.4400,
+                "long": 65.2023,
+                "cities": [
+                    {
+                        "name": "Chaghcharan",
+                        "lat": 34.4695,
+                        "long": 65.2547
+                    },
+                    {
+                        "name": "Shahrak",
+                        "lat": 34.3686,
+                        "long": 65.4750
+                    },
+                    {
+                        "name": "Taywara",
+                        "lat": 34.6603,
+                        "long": 65.2169
+                    },
+                    {
+                        "name": "Lalai",
+                        "lat": 34.5604,
+                        "long": 65.4415
+                    },
+                    {
+                        "name": "Dulayna",
+                        "lat": 34.3778,
+                        "long": 65.5117
+                    },
+                    {
+                        "name": "Pasaband",
+                        "lat": 34.2067,
+                        "long": 65.4295
+                    },
+                    {
+                        "name": "Firozkoh",
+                        "lat": 34.5214,
+                        "long": 65.5581
+                    },
+                    {
+                        "name": "Ghorak",
+                        "lat": 34.4094,
+                        "long": 65.6814
+                    }
+                ]
+            },
+
+            {
+                "name": "Helmand",
+                "lat": 31.7005,
+                "long": 64.2904,
+                "cities": [
+                    {
+                        "name": "Lashkar Gah",
+                        "lat": 31.5785,
+                        "long": 64.3684
+                    },
+                    {
+                        "name": "Gereshk",
+                        "lat": 32.0289,
+                        "long": 64.0694
+                    },
+                    {
+                        "name": "Nad Ali",
+                        "lat": 31.8282,
+                        "long": 64.3230
+                    },
+                    {
+                        "name": "Garmser",
+                        "lat": 31.4332,
+                        "long": 64.0305
+                    },
+                    {
+                        "name": "Dishu",
+                        "lat": 31.4486,
+                        "long": 65.2337
+                    },
+                    {
+                        "name": "Kandahar",
+                        "lat": 31.4205,
+                        "long": 65.9045
+                    },
+                    {
+                        "name": "Washir",
+                        "lat": 31.7330,
+                        "long": 64.3722
+                    },
+                    {
+                        "name": "Baghran",
+                        "lat": 32.2086,
+                        "long": 64.1633
+                    },
+                    {
+                        "name": "Helmand",
+                        "lat": 31.7228,
+                        "long": 64.4051
+                    }
+                ]
+            },
+            {
+                "name": "Herat",
+                "lat": 34.3485,
+                "long": 62.2015,
+                "cities": [
+                    {
+                        "name": "Herat",
+                        "lat": 34.3492,
+                        "long": 62.2021
+                    },
+                    {
+                        "name": "Ghorian",
+                        "lat": 34.5834,
+                        "long": 62.5036
+                    },
+                    {
+                        "name": "Farah",
+                        "lat": 32.5400,
+                        "long": 62.0638
+                    },
+                    {
+                        "name": "Zinda Jan",
+                        "lat": 34.3876,
+                        "long": 62.3921
+                    },
+                    {
+                        "name": "Kohsan",
+                        "lat": 34.3245,
+                        "long": 62.1957
+                    },
+                    {
+                        "name": "Shindand",
+                        "lat": 32.1392,
+                        "long": 62.7664
+                    },
+                    {
+                        "name": "Obe",
+                        "lat": 34.4538,
+                        "long": 62.2028
+                    },
+                    {
+                        "name": "Karukh",
+                        "lat": 34.4790,
+                        "long": 62.4219
+                    },
+                    {
+                        "name": "Gulran",
+                        "lat": 34.2906,
+                        "long": 62.9820
+                    },
+                    {
+                        "name": "Pashtun Zarghun",
+                        "lat": 34.4852,
+                        "long": 62.1538
+                    },
+                    {
+                        "name": "Chisht Sharif",
+                        "lat": 34.2826,
+                        "long": 62.3850
+                    },
+                    {
+                        "name": "Farsi",
+                        "lat": 34.4571,
+                        "long": 62.5874
+                    }
+                ]
+            },
+
+            {
+                "name": "Jowzjan",
+                "lat": 36.7283,
+                "long": 65.5973,
+                "cities": [
+                    {
+                        "name": "Sheberghan",
+                        "lat": 36.6631,
+                        "long": 65.5173
+                    },
+                    {
+                        "name": "Koshtepa",
+                        "lat": 36.7000,
+                        "long": 65.4589
+                    },
+                    {
+                        "name": "Darzab",
+                        "lat": 36.9203,
+                        "long": 65.9671
+                    },
+                    {
+                        "name": "Fayzabad",
+                        "lat": 36.8475,
+                        "long": 65.7831
+                    },
+                    {
+                        "name": "Mardyan",
+                        "lat": 36.7100,
+                        "long": 65.3135
+                    },
+                    {
+                        "name": "Gulab",
+                        "lat": 36.7667,
+                        "long": 65.5372
+                    },
+                    {
+                        "name": "Qush Tepa",
+                        "lat": 36.6550,
+                        "long": 65.6792
+                    },
+                    {
+                        "name": "Khwaja Du Koh",
+                        "lat": 36.6618,
+                        "long": 65.8575
+                    }
+                ]
+            },
+
+            {
+                "name": "Kabul",
+                "lat": 34.5320,
+                "long": 69.1657,
+                "cities": [
+                    {
+                        "name": "Kabul",
+                        "lat": 34.5553,
+                        "long": 69.2075
+                    },
+                    {
+                        "name": "Charasiab",
+                        "lat": 34.3582,
+                        "long": 69.4052
+                    },
+                    {
+                        "name": "Kabul",
+                        "lat": 34.5750,
+                        "long": 69.2571
+                    },
+                    {
+                        "name": "Paghman",
+                        "lat": 34.6631,
+                        "long": 69.0992
+                    },
+                    {
+                        "name": "Bagrami",
+                        "lat": 34.5461,
+                        "long": 69.2081
+                    },
+                    {
+                        "name": "Kabul City",
+                        "lat": 34.5430,
+                        "long": 69.1974
+                    },
+                    {
+                        "name": "Shakar Dara",
+                        "lat": 34.7431,
+                        "long": 69.1905
+                    },
+                    {
+                        "name": "Kabul Province",
+                        "lat": 34.6375,
+                        "long": 69.1752
+                    },
+                    {
+                        "name": "Kohdaman",
+                        "lat": 34.6680,
+                        "long": 69.2520
+                    },
+                    {
+                        "name": "Surobi",
+                        "lat": 34.5272,
+                        "long": 69.4495
+                    },
+                    {
+                        "name": "Bagram",
+                        "lat": 34.9701,
+                        "long": 69.2051
+                    },
+                    {
+                        "name": "Sarobi",
+                        "lat": 34.5239,
+                        "long": 69.4180
+                    }
+                ]
+            },
+
+            {
+                "name": "Kandahar",
+                "lat": 31.6280,
+                "long": 65.7410,
+                "cities": [
+                    {
+                        "name": "Kandahar",
+                        "lat": 31.6283,
+                        "long": 65.7364
+                    },
+                    {
+                        "name": "Spin Boldak",
+                        "lat": 31.3562,
+                        "long": 65.8832
+                    },
+                    {
+                        "name": "Shah Wali Kot",
+                        "lat": 31.4651,
+                        "long": 65.6941
+                    },
+                    {
+                        "name": "Dand",
+                        "lat": 31.5132,
+                        "long": 65.7173
+                    },
+                    {
+                        "name": "Zhari",
+                        "lat": 31.4453,
+                        "long": 65.7975
+                    },
+                    {
+                        "name": "Panjwai",
+                        "lat": 31.4475,
+                        "long": 65.6998
+                    },
+                    {
+                        "name": "Arghandab",
+                        "lat": 31.6345,
+                        "long": 65.9115
+                    },
+                    {
+                        "name": "Kandahar",
+                        "lat": 31.6231,
+                        "long": 65.6635
+                    },
+                    {
+                        "name": "Ghorak",
+                        "lat": 31.5027,
+                        "long": 65.7716
+                    },
+                    {
+                        "name": "Khakrez",
+                        "lat": 31.3591,
+                        "long": 65.3941
+                    },
+                    {
+                        "name": "Maiwand",
+                        "lat": 31.1542,
+                        "long": 65.5092
+                    },
+                    {
+                        "name": "Nesh",
+                        "lat": 31.1094,
+                        "long": 65.8602
+                    }
+                ]
+            },
+
+            {
+                "name": "Kapisa",
+                "lat": 35.0000,
+                "long": 69.1951,
+                "cities": [
+                    {
+                        "name": "Mahmud-i-Raqi",
+                        "lat": 35.0340,
+                        "long": 69.2670
+                    },
+                    {
+                        "name": "Tagab",
+                        "lat": 35.0544,
+                        "long": 69.0841
+                    },
+                    {
+                        "name": "Hesa Awal",
+                        "lat": 34.9920,
+                        "long": 69.1412
+                    },
+                    {
+                        "name": "Hesa Duwum",
+                        "lat": 34.9540,
+                        "long": 69.2096
+                    },
+                    {
+                        "name": "Nijrab",
+                        "lat": 34.9983,
+                        "long": 69.2073
+                    },
+                    {
+                        "name": "Khanabad",
+                        "lat": 35.0274,
+                        "long": 69.0812
+                    },
+                    {
+                        "name": "Alasay",
+                        "lat": 35.0633,
+                        "long": 69.3826
+                    }
+                ]
+            },
+            {
+                "name": "Khost",
+                "lat": 33.3347,
+                "long": 69.9295,
+                "cities": [
+                    {
+                        "name": "Khost",
+                        "lat": 33.3351,
+                        "long": 69.9280
+                    },
+                    {
+                        "name": "Mandozai",
+                        "lat": 33.3324,
+                        "long": 70.0662
+                    },
+                    {
+                        "name": "Shamal",
+                        "lat": 33.2860,
+                        "long": 69.9154
+                    },
+                    {
+                        "name": "Bak",
+                        "lat": 33.5011,
+                        "long": 70.0389
+                    },
+                    {
+                        "name": "Gulistan",
+                        "lat": 33.2693,
+                        "long": 69.7528
+                    },
+                    {
+                        "name": "Tani",
+                        "lat": 33.4860,
+                        "long": 69.9406
+                    },
+                    {
+                        "name": "Nadir Shah Kot",
+                        "lat": 33.3872,
+                        "long": 69.7973
+                    },
+                    {
+                        "name": "Khost District",
+                        "lat": 33.2910,
+                        "long": 69.9611
+                    },
+                    {
+                        "name": "Dwa Nawr",
+                        "lat": 33.3492,
+                        "long": 70.0651
+                    }
+                ]
+            },
+
+            {
+                "name": "Kunar",
+                "lat": 34.5353,
+                "long": 70.2353,
+                "cities": [
+                    {
+                        "name": "Asadabad",
+                        "lat": 34.5534,
+                        "long": 70.2211
+                    },
+                    {
+                        "name": "Chapa Dara",
+                        "lat": 34.6771,
+                        "long": 70.4846
+                    },
+                    {
+                        "name": "Khas Kunar",
+                        "lat": 34.6715,
+                        "long": 70.0295
+                    },
+                    {
+                        "name": "Nurgal",
+                        "lat": 34.5072,
+                        "long": 70.2071
+                    },
+                    {
+                        "name": "Watapur",
+                        "lat": 34.4541,
+                        "long": 70.2583
+                    },
+                    {
+                        "name": "Marawara",
+                        "lat": 34.5867,
+                        "long": 70.3954
+                    },
+                    {
+                        "name": "Sorgul",
+                        "lat": 34.5534,
+                        "long": 70.1405
+                    },
+                    {
+                        "name": "Dangam",
+                        "lat": 34.5047,
+                        "long": 70.4062
+                    }
+                ]
+            },
+
+            {
+                "name": "Nangarhar",
+                "lat": 34.4238,
+                "long": 70.4524,
+                "cities": [
+                    {
+                        "name": "Jalalabad",
+                        "lat": 34.4216,
+                        "long": 70.4406
+                    },
+                    {
+                        "name": "Behsud",
+                        "lat": 34.3921,
+                        "long": 70.6019
+                    },
+                    {
+                        "name": "Dara-I-Nur",
+                        "lat": 34.5664,
+                        "long": 70.3926
+                    },
+                    {
+                        "name": "Kama",
+                        "lat": 34.4696,
+                        "long": 70.5541
+                    },
+                    {
+                        "name": "Naziyan",
+                        "lat": 34.4555,
+                        "long": 70.4939
+                    },
+                    {
+                        "name": "Surkh Rod",
+                        "lat": 34.3925,
+                        "long": 70.4976
+                    },
+                    {
+                        "name": "Chaparhar",
+                        "lat": 34.5302,
+                        "long": 70.4312
+                    },
+                    {
+                        "name": "Ghafor Khel",
+                        "lat": 34.4634,
+                        "long": 70.6362
+                    },
+                    {
+                        "name": "Kot",
+                        "lat": 34.4870,
+                        "long": 70.4507
+                    },
+                    {
+                        "name": "Sorkh Rod",
+                        "lat": 34.3576,
+                        "long": 70.4284
+                    }
+                ]
+            },
+
+            {
+                "name": "Paktia",
+                "lat": 33.7490,
+                "long": 69.1854,
+                "cities": [
+                    {
+                        "name": "Gardez",
+                        "lat": 33.6046,
+                        "long": 69.2648
+                    },
+                    {
+                        "name": "Khost",
+                        "lat": 33.3347,
+                        "long": 69.9295
+                    },
+                    {
+                        "name": "Zadran",
+                        "lat": 33.6550,
+                        "long": 69.3940
+                    },
+                    {
+                        "name": "Shwak",
+                        "lat": 33.7588,
+                        "long": 69.4521
+                    },
+                    {
+                        "name": "Jani Khel",
+                        "lat": 33.8290,
+                        "long": 69.1550
+                    },
+                    {
+                        "name": "Azozai",
+                        "lat": 33.6312,
+                        "long": 69.3306
+                    },
+                    {
+                        "name": "Paktia Khel",
+                        "lat": 33.6638,
+                        "long": 69.1965
+                    },
+                    {
+                        "name": "Barmal",
+                        "lat": 33.7763,
+                        "long": 69.2646
+                    },
+                    {
+                        "name": "Musa Khel",
+                        "lat": 33.6446,
+                        "long": 69.3453
+                    }
+                ]
+            },
+
+            {
+                "name": "Paktika",
+                "lat": 32.6115,
+                "long": 68.6289,
+                "cities": [
+                    {
+                        "name": "Sharana",
+                        "lat": 32.7281,
+                        "long": 68.8043
+                    },
+                    {
+                        "name": "Geyan",
+                        "lat": 32.7262,
+                        "long": 68.8121
+                    },
+                    {
+                        "name": "Urgun",
+                        "lat": 32.7589,
+                        "long": 68.6530
+                    },
+                    {
+                        "name": "Barmal",
+                        "lat": 32.6520,
+                        "long": 68.4511
+                    },
+                    {
+                        "name": "Yusuf Khel",
+                        "lat": 32.5855,
+                        "long": 68.6723
+                    },
+                    {
+                        "name": "Zarghun Shar",
+                        "lat": 32.6724,
+                        "long": 68.9823
+                    },
+                    {
+                        "name": "Laja Mangal",
+                        "lat": 32.4703,
+                        "long": 68.6215
+                    },
+                    {
+                        "name": "Mansar",
+                        "lat": 32.4715,
+                        "long": 68.4967
+                    },
+                    {
+                        "name": "Sayed Karam",
+                        "lat": 32.7972,
+                        "long": 68.6094
+                    },
+                    {
+                        "name": "Sharana",
+                        "lat": 32.7281,
+                        "long": 68.8043
+                    }
+                ]
+            },
+
+            {
+                "name": "Samangan",
+                "lat": 35.2005,
+                "long": 68.9840,
+                "cities": [
+                    {
+                        "name": "Aybak",
+                        "lat": 35.2005,
+                        "long": 68.9840
+                    },
+                    {
+                        "name": "Kohistan",
+                        "lat": 35.3333,
+                        "long": 68.8750
+                    },
+                    {
+                        "name": "Dar-e-Suf Bala",
+                        "lat": 35.3390,
+                        "long": 68.7720
+                    },
+                    {
+                        "name": "Dar-e-Suf Payin",
+                        "lat": 35.3230,
+                        "long": 68.7640
+                    },
+                    {
+                        "name": "Samangan",
+                        "lat": 35.2340,
+                        "long": 68.8200
+                    },
+                    {
+                        "name": "Khalazai",
+                        "lat": 35.1840,
+                        "long": 68.8960
+                    },
+                    {
+                        "name": "Rohani",
+                        "lat": 35.2005,
+                        "long": 68.9300
+                    },
+                    {
+                        "name": "Bazarak",
+                        "lat": 35.2320,
+                        "long": 68.9590
+                    },
+                    {
+                        "name": "Zar-i-Koh",
+                        "lat": 35.1300,
+                        "long": 68.8980
+                    }
+                ]
+            },
+
+            {
+                "name": "Sar-e Pol",
+                "lat": 36.2100,
+                "long": 65.2400,
+                "cities": [
+                    {
+                        "name": "Sar-e Pol",
+                        "lat": 36.2100,
+                        "long": 65.2400
+                    },
+                    {
+                        "name": "Sayedabad",
+                        "lat": 36.2215,
+                        "long": 65.1748
+                    },
+                    {
+                        "name": "Kohistan",
+                        "lat": 36.2300,
+                        "long": 65.1300
+                    },
+                    {
+                        "name": "Gurzivan",
+                        "lat": 36.1830,
+                        "long": 65.3080
+                    },
+                    {
+                        "name": "Bala Morghab",
+                        "lat": 36.1715,
+                        "long": 65.2223
+                    },
+                    {
+                        "name": "Sancharak",
+                        "lat": 36.1900,
+                        "long": 65.1850
+                    },
+                    {
+                        "name": "Sayyad",
+                        "lat": 36.2200,
+                        "long": 65.2600
+                    },
+                    {
+                        "name": "Bamyan",
+                        "lat": 36.2000,
+                        "long": 65.3000
+                    }
+                ]
+            },
+
+            {
+                "name": "Takhar",
+                "lat": 36.7154,
+                "long": 69.5344,
+                "cities": [
+                    {
+                        "name": "Taloqan",
+                        "lat": 36.7071,
+                        "long": 69.5362
+                    },
+                    {
+                        "name": "Khanabad",
+                        "lat": 36.6714,
+                        "long": 69.4792
+                    },
+                    {
+                        "name": "Darqad",
+                        "lat": 36.6176,
+                        "long": 69.5415
+                    },
+                    {
+                        "name": "Chal",
+                        "lat": 36.8000,
+                        "long": 69.7000
+                    },
+                    {
+                        "name": "Banghi",
+                        "lat": 36.5788,
+                        "long": 69.6963
+                    },
+                    {
+                        "name": "Kunduz",
+                        "lat": 36.7480,
+                        "long": 69.2750
+                    },
+                    {
+                        "name": "Yangi Qala",
+                        "lat": 36.5300,
+                        "long": 69.2400
+                    },
+                    {
+                        "name": "Dushi",
+                        "lat": 36.7600,
+                        "long": 69.4300
+                    },
+                    {
+                        "name": "Khanabad",
+                        "lat": 36.6400,
+                        "long": 69.5800
+                    }
+                ]
+            },
+            {
+                "name": "Urozgan",
+                "lat": 32.7806,
+                "long": 65.5395,
+                "cities": [
+                    {
+                        "name": "Tarin Kot",
+                        "lat": 32.7794,
+                        "long": 65.5466
+                    },
+                    {
+                        "name": "Chora",
+                        "lat": 32.8142,
+                        "long": 65.5943
+                    },
+                    {
+                        "name": "Khas Urozgan",
+                        "lat": 32.6900,
+                        "long": 65.6500
+                    },
+                    {
+                        "name": "Dehrawud",
+                        "lat": 32.6464,
+                        "long": 65.3503
+                    },
+                    {
+                        "name": "Sangin",
+                        "lat": 32.6532,
+                        "long": 65.5090
+                    },
+                    {
+                        "name": "Tirinkot",
+                        "lat": 32.7880,
+                        "long": 65.5220
+                    }
+                ]
+            },
+            {
+                "name": "Wardak",
+                "lat": 34.0421,
+                "long": 68.9784,
+                "cities": [
+                    {
+                        "name": "Maidan Shar",
+                        "lat": 34.0560,
+                        "long": 68.9592
+                    },
+                    {
+                        "name": "Jaghatu",
+                        "lat": 34.0635,
+                        "long": 68.9078
+                    },
+                    {
+                        "name": "Saydabad",
+                        "lat": 34.0705,
+                        "long": 68.8745
+                    },
+                    {
+                        "name": "Khalazai",
+                        "lat": 34.0280,
+                        "long": 68.9400
+                    },
+                    {
+                        "name": "Nirkh",
+                        "lat": 34.0340,
+                        "long": 68.9250
+                    },
+                    {
+                        "name": "Bihsud",
+                        "lat": 34.0463,
+                        "long": 68.8735
+                    },
+                    {
+                        "name": "Sayedabad",
+                        "lat": 34.0900,
+                        "long": 68.9963
+                    }
+                ]
+            },
+            {
+                "name": "Zabul",
+                "lat": 32.1286,
+                "long": 66.8695,
+                "cities": [
+                    {
+                        "name": "Qalat",
+                        "lat": 32.1289,
+                        "long": 66.8680
+                    },
+                    {
+                        "name": "Shahr-e Safa",
+                        "lat": 32.0431,
+                        "long": 66.9730
+                    },
+                    {
+                        "name": "Kandahar",
+                        "lat": 31.6280,
+                        "long": 65.7420
+                    },
+                    {
+                        "name": "Arghandab",
+                        "lat": 31.7360,
+                        "long": 65.8540
+                    },
+                    {
+                        "name": "Mizan",
+                        "lat": 32.0300,
+                        "long": 66.4000
+                    },
+                    {
+                        "name": "Daichopan",
+                        "lat": 31.9150,
+                        "long": 66.6140
+                    },
+                    {
+                        "name": "Naw Bahar",
+                        "lat": 32.0200,
+                        "long": 67.1850
+                    },
+                    {
+                        "name": "Shinkay",
+                        "lat": 32.2030,
+                        "long": 67.1390
+                    }
+                ]
+            }
+        ]
+    }
+]
+
+
+
+
+"Afghanistan",
+"Albania",
+"Algeria",
+"Andorra",
+"Angola",
+"Antigua and Barbuda",
+"Argentina",
+"Armenia",
+"Australia",
+"Austria",
+"Azerbaijan",
+"The Bahamas",
+"Bahrain",
+"Bangladesh",
+"Barbados",
+"Belarus",
+"Belgium",
+"Belize",
+"Benin",
+"Bhutan",
+"Bolivia",
+"Bosnia and Herzegovina",
+"Botswana",
+"Brazil",
+"Brunei",
+"Bulgaria",
+"Burkina Faso",
+"Burundi",
+"Cabo Verde",
+"Cambodia",
+"Cameroon",
+"Canada",
+"Central African Republic",
+"Chad",
+"Chile",
+"China",
+"Colombia",
+"Comoros",
+"Congo, Democratic Republic of the",
+"Congo, Republic of the",
+"Costa Rica",
+"Côte d’Ivoire",
+"Croatia",
+"Cuba",
+"Cyprus",
+"Czech Republic",
+
+"Denmark",
+"Djibouti",
+"Dominica",
+"Dominican Republic",
+
+"East Timor (Timor-Leste)",
+"Ecuador",
+"Egypt",
+"El Salvador",
+"Equatorial Guinea",
+"Eritrea",
+"Estonia",
+"Eswatini",
+"Ethiopia",
+
+Fiji
+Finland
+France
+
+Gabon
+The Gambia
+Georgia
+Germany
+Ghana
+Greece
+Grenada
+Guatemala
+Guinea
+Guinea-Bissau
+Guyana
+
+Haiti
+Honduras
+Hungary
+
+Iceland
+India
+Indonesia
+Iran
+Iraq
+Ireland
+Israel
+Italy
+
+Jamaica
+Japan
+Jordan
+
+Kazakhstan
+Kenya
+Kiribati
+Korea, North
+Korea, South
+Kosovo
+Kuwait
+Kyrgyzstan
+
+Laos
+Latvia
+Lebanon
+Lesotho
+Liberia
+Libya
+Liechtenstein
+Lithuania
+Luxembourg
+
+Madagascar
+Malawi
+Malaysia
+Maldives
+Mali
+Malta
+Marshall Islands
+Mauritania
+Mauritius
+Mexico
+Micronesia, Federated States of
+Moldova
+Monaco
+Mongolia
+Montenegro
+Morocco
+Mozambique
+Myanmar (Burma)
+
+Namibia
+Nauru
+Nepal
+Netherlands
+New Zealand
+Nicaragua
+Niger
+Nigeria
+North Macedonia
+Norway
+
+Oman
+
+Pakistan
+Palau
+Panama
+Papua New Guinea
+Paraguay
+Peru
+Philippines
+Poland
+Portugal
+
+Qatar
+
+Romania
+Russia
+Rwanda
+
+Saint Kitts and Nevis
+Saint Lucia
+Saint Vincent and the Grenadines
+Samoa
+San Marino
+Sao Tome and Principe
+Saudi Arabia
+Senegal
+Serbia
+Seychelles
+Sierra Leone
+Singapore
+Slovakia
+Slovenia
+Solomon Islands
+Somalia
+South Africa
+Spain
+Sri Lanka
+Sudan
+Sudan, South
+Suriname
+Sweden
+Switzerland
+Syria
+
+Taiwan
+Tajikistan
+Tanzania
+Thailand
+Togo
+Tonga
+Trinidad and Tobago
+Tunisia
+Turkey
+Turkmenistan
+Tuvalu
+
+Uganda
+Ukraine
+United Arab Emirates
+United Kingdom
+United States
+Uruguay
+Uzbekistan
+
+Vanuatu
+Vatican City
+Venezuela
+Vietnam
+
+Yemen
+
+Zambia
+Zimbabwe

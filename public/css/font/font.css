@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Stem';
+    src: url('/global/src/assets/css/font/stem/Stem-Bold.otf') format('otf'),
+    url('/global/src/assets/css/font/stem/Stem-BoldItalic.otf') format('otf');
+    url('/stem/Stem-ExtraLight.otf') format('otf');
+    url('/stem/Stem-ExtraLightItalic.otf') format('otf');
+    url('/stem/Stem-Hairline.otf') format('otf');
+    url('/stem/Stem-Italic.otf') format('otf');
+    url('/stem/Stem-Light.otf') format('otf');
+    url('/stem/Stem-LightItalic.otf') format('otf');
+    url('/stem/Stem-Medium.otf') format('otf');
+    url('/stem/Stem-MediumItalic.otf') format('otf');
+    url('/stem/Stem-Regular.otf') format('otf');
+    url('/stem/Stem-Thin.otf') format('otf');
+    font-weight: normal;
+    font-style: normal;
+}

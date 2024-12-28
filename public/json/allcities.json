@@ -1,0 +1,5402 @@
+[
+    {
+        "country":"Uzbekistan",
+        "regions":[
+            {
+                "region": "Toshkent shahri",
+                "cities": [
+                    {"name": "Bektemir tumani"},
+                    {"name": "Mirzo Ulug‘bek tumani"},
+                    {"name": "Mirobod tumani"},
+                    {"name": "Olmazor tumani"},
+                    {"name": "Sirg‘ali tumani"},
+                    {"name": "Uchtepa tumani"},
+                    {"name": "Chilonzor tumani"},
+                    {"name": "Shayxontohur tumani"},
+                    {"name": "Yunusobod tumani"},
+                    {"name": "Yakkasaroy tumani"},
+                    {"name": "Yashnobod tumani"}
+                ]
+            },
+            {
+                "region": "Andijon viloyati",
+                "cities": [
+                    {"name": "Andijon"},
+                    {"name": "Xonabod shahri"},
+                    {"name": "Andijon tumani"},
+                    {"name": "Asaka"},
+                    {"name": "Asaka tumani"},
+                    {"name": "Baliqchi tumani"},
+                    {"name": "Bo‘z tumani"},
+                    {"name": "Buloqboshi tumani"},
+                    {"name": "Izboskan tumani"},
+                    {"name": "Jalaquduq tumani"},
+                    {"name": "Xo‘jaobod tumani"},
+                    {"name": "Marhamat"},
+                    {"name": "Marhamat tumani" },
+                    {"name": "Oltinko‘l tumani"},
+                    {"name": "Paxtaobod tumani"},
+                    {"name": "Paxtaobod"},
+                    {"name": "Qo‘rg‘ontepa"},
+                    {"name": "Qo‘rg‘ontepa tumani"},
+                    {"name": "Shahrixon tumani"},
+                    {"name": "Shahrixon"},
+                    {"name": "Ulug‘nor tumani" },
+                    {"name": "Xo‘jaobod"}
+                ]
+            },
+            {
+                "region": "Buxoro viloyati",
+                "cities": [
+                    {"name": "Olot tumani"},
+                    {"name": "Buxoro tumani" },
+                    {"name": "Gʻijduvon tumani" },
+                    {"name": "Jondor tumani"},
+                    {"name": "Kogon tumani"},
+                    {"name": "Kogon shahri" },
+                    {"name": "Qorakoʻl tumani"},
+                    {"name": "Qorovulbozor tumani" },
+                    {"name": "Peshku tumani"},
+                    {"name": "Romitan tumani"},
+                    {"name": "Shofirkon tumani"},
+                    {"name": "Vobkent tumani"}
+                ]
+            },
+            {
+                "region": "Fargʻona viloyati",
+                "cities": [
+                    {"name": "Beshariq tumani" },
+                    {"name": "Farg‘ona shahri"},
+                    {"name": "Marg‘ilon shahri"},
+                    {"name": "Quvasoy shahri"},
+                    {"name": "Qo‘qon shahri"},
+                    {"name": "Bog‘dod tumani"},
+                    {"name": "Buvayda tumani"},
+                    {"name": "Dang‘ara tumani"},
+                    {"name": "Yozyovon tumani"},
+                    {"name": "Quva tumani"},
+                    {"name": "Qo‘shtepa tumani"},
+                    {"name": "Oltiariq tumani"},
+                    {"name": "Rishton tumani"},
+                    {"name": "So‘x tumani"},
+                    {"name": "Toshloq tumani"},
+                    {"name": "O‘zbekiston tumani"},
+                    {"name": "Uchko‘prik tumani"},
+                    {"name": "Farg‘ona tumani"},
+                    {"name": "Furqat tumani"}
+                ]
+            },
+            {
+                "region": "Jizzax viloyati",
+                "cities": [
+                    {"name": "Jizzax shahri"},
+                    {"name": "Arnasoy tumani" },
+                    {"name": "Baxmal tumani"},
+                    {"name": "Do‘stlik tumani"},
+                    {"name": "Zarbdor tumani"},
+                    {"name": "Zomin tumani" },
+                    {"name": "Mirzacho‘l tumani"},
+                    {"name": "Paxtakor tumani"},
+                    {"name": "Forish tumani" },
+                    {"name": "Sharof Rashidov tumani" },
+                    {"name": "G‘allaorol tumani"},
+                    {"name": "Yangiobod tumani" }
+                ]
+            },
+            {
+                "region": "Qoraqalpogʻiston",
+                "cities": [
+                    {"name": "Nukus shahri"},
+                    {"name": "Amudaryo tumani" },
+                    {"name": "Beruniy tumani"},
+                    {"name": "Chimboy tumani"},
+                    {"name": "Ellikqalʼa tumani"},
+                    {"name": "Kegeyli tumani"},
+                    {"name": "Moʻynoq tumani"},
+                    {"name": "Nukus tumani"},
+                    {"name": "Qanlikoʻl tumani" },
+                    {"name": "Qoʻngʻirot tumani"},
+                    {"name": "Qoraoʻzak tumani"},
+                    {"name": "Shumanay tumani"},
+                    {"name": "Taxtakoʻpir tumani"},
+                    {"name": "Toʻrtkoʻl tumani" },
+                    {"name": "Xoʻjayli tumani" },
+                    {"name": "Taxiatosh tumani" },
+                    {"name": "Boʻzatov tumani"}
+                ]
+            },
+            {
+                "region": "Namangan viloyati",
+                "cities": [
+                    {"name": "Namangan shahri" },
+                    {"name": "Kosonsoy tumani" },
+                    {"name": "Mingbuloq tumani"},
+                    {"name": "Namangan tumani"},
+                    {"name": "Norin tumani"},
+                    {"name": "Pop tumani"},
+                    {"name": "To‘raqo‘rg‘on tumani"},
+                    {"name": "Uychi tumani"},
+                    {"name": "Uchqo‘rg‘on tumani"},
+                    {"name": "Chortoq tumani"},
+                    {"name": "Chust tumani"},
+                    {"name": "Yangiqo‘rg‘on tumani" }
+                ]
+            },
+            {
+                "region": "Navoiy viloyati",
+                "cities": [
+                    {"name": "Navoiy shahri"},
+                    {"name": "Zarafshon shahri"},
+                    {"name": "Konimex tumani"},
+                    {"name": "Karmana tumani"},
+                    {"name": "Qiziltepa tumani"},
+                    {"name": "Xatirchi tumani" },
+                    {"name": "Navbahor tumani"},
+                    {"name": "Nurota tumani"},
+                    {"name": "Tomdi tumani"},
+                    {"name": "Uchquduq tumani"}
+                ]
+            },
+            {
+                "region": "Qashqadaryo viloyati",
+                "cities": [
+                    {"name": "Qarshi shahri"},
+                    {"name": "Shahrisabz shahri"},
+                    {"name": "Chiroqchi tumani"},
+                    {"name": "Dehqonobod tumani"},
+                    {"name": "Gʻuzor tumani"},
+                    {"name": "Qamashi tumani" },
+                    {"name": "Qarshi tumani"},
+                    {"name": "Koson tumani"},
+                    {"name": "Kasbi tumani"},
+                    {"name": "Kitob tumani"},
+                    {"name": "Mirishkor tumani"},
+                    {"name": "Muborak tumani"},
+                    {"name": "Nishon tumani"},
+                    {"name": "Shahrisabz tumani" },
+                    {"name": "Yakkabogʻ tumani"},
+                    {"name": "Koʻkdala tumani"}
+                ]
+            },
+            {
+                "region": "Samarqand viloyati",
+                "cities": [
+                    {"name": "Samarqand shahri" },
+                    {"name": "Kattaqo‘rg‘on shahri"},
+                    {"name": "Bulungʻur tumani"},
+                    {"name": "Ishtixon tumani"},
+                    {"name": "Jomboy tumani"},
+                    {"name": "Kattaqoʻrgʻon tumani"},
+                    {"name": "Qoʻshrabot tumani"},
+                    {"name": "Narpay tumani"},
+                    {"name": "Nurobod tumani"},
+                    {"name": "Oqdaryo tumani"},
+                    {"name": "Paxtachi tumani"},
+                    {"name": "Payariq tumani" },
+                    {"name": "Pastdargʻom tumani"},
+                    {"name": "Samarqand tumani"},
+                    {"name": "Toyloq tumani"},
+                    {"name": "Urgut tumani"}
+                ]
+            },
+            {
+                "region": "Sirdaryo viloyati",
+                "cities": [
+                    {"name": "Guliston shahri"},
+                    {"name": "Yangiyer shahri"},
+                    {"name": "Shirin shahri"},
+                    {"name": "Boyovut tumani"},
+                    {"name": "Guliston tumani"},
+                    {"name": "Mirzaobod tumani"},
+                    {"name": "Oqoltin tumani"},
+                    {"name": "Sardoba tumani"},
+                    {"name": "Sayxunobod tumani"},
+                    {"name": "Sirdaryo tumani"},
+                    {"name": "Xovos tumani"}
+                ]
+            },
+            {
+                "region": "Surxondaryo viloyati",
+                "cities": [
+                    {"name": "Termiz shahri" },
+                    {"name": "Angor tumani" },
+                    {"name": "Boysun tumani"},
+                    {"name": "Denov tumani"},
+                    {"name": "Jarqo‘rg‘on tumani"},
+                    {"name": "Muzrobod tumani"},
+                    {"name": "Oltinsoy tumani"},
+                    {"name": "Sariosiyo tumani"},
+                    {"name": "Termiz tumani"},
+                    {"name": "Uzun tumani"},
+                    {"name": "Sherobod tumani"},
+                    {"name": "Sho‘rchi tumani"},
+                    {"name": "Qiziriq tumani"},
+                    {"name": "Qumqo‘rg‘on tumani"}
+                ]
+            },
+            {
+                "region": "Toshkent viloyati",
+                "cities": [
+                    {"name": "Nurafshon shahri"},
+                    {"name": "Angren shahri"},
+                    {"name": "Bekobod shahri"},
+                    {"name": "Olmaliq shahri"},
+                    {"name": "Ohangaron shahri"},
+                    {"name": "Chirchiq shahri"},
+                    {"name": "Yangiyo‘l shahri"},
+                    {"name": "Bekobod tumani"},
+                    {"name": "Bo‘ka tumani"},
+                    {"name": "Bo‘stonliq tumani"},
+                    {"name": "Zangiota tumani"},
+                    {"name": "Qibray tumani"},
+                    {"name": "Quyichirchiq tumani"},
+                    {"name": "Oqqo‘rg‘on tumani"},
+                    {"name": "Ohangaron tumani"},
+                    {"name": "Parkent tumani"},
+                    {"name": "Piskent tumani"},
+                    {"name": "Toshkent tumani"},
+                    {"name": "O‘rtachirchiq tumani"},
+                    {"name": "Chinoz tumani"},
+                    {"name": "Yuqorichirchiq tumani"},
+                    {"name": "Yangiyo‘l tumani"}
+                ]
+            },
+            {
+                "region": "Xorazm viloyati",
+                "cities": [
+                    {"name": "Urganch shahri"},
+                    {"name": "Xiva shahri"},
+                    {"name": "Bogʻot tumani"},
+                    {"name": "Gurlan tumani"},
+                    {"name": "Xonqa tumani"},
+                    {"name": "Hazorasp tumani"},
+                    {"name": "Xiva tumani"},
+                    {"name": "Qoʻshkoʻpir tumani"},
+                    {"name": "Shovot tumani"},
+                    {"name": "Urganch tumani"},
+                    {"name": "Yangiariq tumani"},
+                    {"name": "Yangibozor tumani"},
+                    {"name": "Tuproqqalʼa tumani"}
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Afghanistan",
+        "regions": [
+            {
+                "region": "Badakhshan",
+                "cities": [
+                    {"name": "Faizabad"},
+                    {"name": "Shuhada"},
+                    {"name": "Argo"},
+                    {"name": "Baharak"},
+                    {"name": "Darayim"},
+                    {"name": "Jaram"},
+                    {"name": "Khash"},
+                    {"name": "Kofab"},
+                    {"name": "Roshani"},
+                    {"name": "Shahr-e-Bazargan"}
+                ]
+            },
+            {
+                "region": "Badghis",
+                "cities": [
+                    {"name": "Qala-i-Naw"},
+                    {"name": "Murghab"},
+                    {"name": "Ghazni"},
+                    {"name": "Balamurghab"},
+                    {"name": "Javan"},
+                    {"name": "Qadis"}
+                ]
+            },
+            {
+                "region": "Bamyan",
+                "cities": [
+                    {"name": "Bamyan"},
+                    {"name": "Waras"},
+                    {"name": "Saighan"},
+                    {"name": "Yakawlang"},
+                    {"name": "Panjab"},
+                    {"name": "Kahmard"}
+                ]
+            },
+            {
+                "region": "Daykundi",
+                "cities": [
+                    {"name": "Nili"},
+                    {"name": "Khidir"},
+                    {"name": "Aqcha"},
+                    {"name": "Dhana"},
+                    {"name": "Gizab"},
+                    {"name": "Kijran"}
+                ]
+            },
+            {
+                "region": "Ghor",
+                "cities": [
+                    {"name": "Chaghcharan"},
+                    {"name": "Taywara"},
+                    {"name": "Dulayna"},
+                    {"name": "Lal wa Sarjangal"},
+                    {"name": "Pasaband"},
+                    {"name": "Shahrak"}
+                ]
+            },
+            {
+                "region": "Helmand",
+                "cities": [
+                    {"name": "Lashkar Gah"},
+                    {"name": "Gereshk"},
+                    {"name": "Nad Ali"},
+                    {"name": "Dishu"},
+                    {"name": "Nahr-e Saraj"},
+                    {"name": "Sangin"}
+                ]
+            },
+            {
+                "region": "Herat",
+                "cities": [
+                    {"name": "Herat"},
+                    {"name": "Ghorian"},
+                    {"name": "Guzara"},
+                    {"name": "Shindand"},
+                    {"name": "Kushki"},
+                    {"name": "Zinda Jan"}
+                ]
+            },
+            {
+                "region": "Jowzjan",
+                "cities": [
+                    {"name": "Shiberghan"},
+                    {"name": "Qush Tepa"},
+                    {"name": "Khan Ahsan"},
+                    {"name": "Darzab"},
+                    {"name": "Mardian"},
+                    {"name": "Karakol"}
+                ]
+            },
+            {
+                "region": "Kabul",
+                "cities": [
+                    {"name": "Kabul"},
+                    {"name": "Kabul"},
+                    {"name": "Bagram"},
+                    {"name": "Shakardara"},
+                    {"name": "Ghazni"},
+                    {"name": "Kohdaman"}
+                ]
+            },
+            {
+                "region": "Kandahar",
+                "cities": [
+                    {"name": "Kandahar"},
+                    {"name": "Spin Boldak"},
+                    {"name": "Arghandab"},
+                    {"name": "Shah Wali Kot"},
+                    {"name": "Dand"},
+                    {"name": "Musa Qala"}
+                ]
+            },
+            {
+                "region": "Kapisa",
+                "cities": [
+                    {"name": "Mahmud-i-Raqi"},
+                    {"name": "Tagab"},
+                    {"name": "Hesa-i-Awal"},
+                    {"name": "Hesa-i-Duwum"},
+                    {"name": "Nijrab"},
+                    {"name": "Kohistan"}
+                ]
+            },
+            {
+                "region": "Khost",
+                "cities": [
+                    {"name": "Khost"},
+                    {"name": "Ghulam Khan"},
+                    {"name": "Mandozai"},
+                    {"name": "Sabari"},
+                    {"name": "Tani"},
+                    {"name": "Nadir Shah Kot"}
+                ]
+            },
+            {
+                "region": "Kunar",
+                "cities": [
+                    {"name": "Asadabad"},
+                    {"name": "Nurgal"},
+                    {"name": "Chapa Dara"},
+                    {"name": "Surobi"},
+                    {"name": "Dara I Noor"},
+                    {"name": "Ghaziabad"}
+                ]
+            },
+            {
+                "region": "Nangarhar",
+                "cities": [
+                    {"name": "Jalalabad"},
+                    {"name": "Behsud"},
+                    {"name": "Pachir Aw Agam"},
+                    {"name": "Naziyan"},
+                    {"name": "Shinwar"},
+                    {"name": "Surkh Rod"}
+                ]
+            },
+            {
+                "region": "Paktia",
+                "cities": [
+                    {"name": "Gardez"},
+                    {"name": "Zarghun Shah"},
+                    {"name": "Dand Wa Patan"},
+                    {"name": "Ghani Khel"},
+                    {"name": "Barmal"},
+                    {"name": "Maka"}
+                ]
+            },
+            {
+                "region": "Paktika",
+                "cities": [
+                    {"name": "Sharana"},
+                    {"name": "Yusuf Khel"},
+                    {"name": "Waza Khwa"},
+                    {"name": "Gayan"},
+                    {"name": "Urgun"},
+                    {"name": "Zerok"}
+                ]
+            },
+            {
+                "region": "Samangan",
+                "cities": [
+                    {"name": "Aibak"},
+                    {"name": "Dahan-i-Ghori"},
+                    {"name": "Kohistan"},
+                    {"name": "Khost"},
+                    {"name": "Kohistan"},
+                    {"name": "Shibar"}
+                ]
+            },
+            {
+                "region": "Sar-e Pol",
+                "cities": [
+                    {"name": "Sar-e Pol"},
+                    {"name": "Sayyad"},
+                    {"name": "Kohistan"},
+                    {"name": "Balghisar"},
+                    {"name": "Dahaneh"},
+                    {"name": "Zarqa"}
+                ]
+            },
+            {
+                "region": "Takhar",
+                "cities": [
+                    {"name": "Taloqan"},
+                    {"name": "Dashti Qala"},
+                    {"name": "Khanabad"},
+                    {"name": "Yangi Qala"},
+                    {"name": "Bangi"},
+                    {"name": "Rostaq"}
+                ]
+            },
+            {
+                "region": "Urozgan",
+                "cities": [
+                    {"name": "Tirin Kot"},
+                    {"name": "Deh Rawood"},
+                    {"name": "Chora"},
+                    {"name": "Khas Urozgan"},
+                    {"name": "Dihrawud"},
+                    {"name": "Ghurzang"}
+                ]
+            },
+            {
+                "region": "Wardak",
+                "cities": [
+                    {"name": "Maidan Shar"},
+                    {"name": "Jaghatu"},
+                    {"name": "Khwaja Omari"},
+                    {"name": "Nekah"},
+                    {"name": "Sayyidabad"},
+                    {"name": "Sharana"}
+                ]
+            },
+            {
+                "region": "Zabul",
+                "cities": [
+                    {"name": "Qalat"},
+                    {"name": "Shahr-e Safa"},
+                    {"name": "Mizan"},
+                    {"name": "Arghandab"},
+                    {"name": "Nahr-e Saraj"},
+                    {"name": "Dishu"}
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Albania",
+        "regions": [
+            {
+                "region": "Shkodër",
+                "cities": [
+                    {
+                        "name": "Shkodër"
+                    },
+                    {
+                        "name": "Vau i Dejës"
+                    },
+                    {
+                        "name": "Pult"
+                    },
+                    {
+                        "name": "Malësi e Madhe"
+                    },
+                    {
+                        "name": "Fushë-Arrëz"
+                    },
+                    {
+                        "name": "Bajzë"
+                    }
+                ]
+            },
+            {
+                "region": "Durrës",
+                "cities": [
+                    {
+                        "name": "Durrës"
+                    },
+                    {
+                        "name": "Shijak"
+                    },
+                    {
+                        "name": "Krujë"
+                    },
+                    {
+                        "name": "Fushë-Krujë"
+                    },
+                    {
+                        "name": "Kamzë"
+                    },
+                    {
+                        "name": "Rrashbull"
+                    }
+                ]
+            },
+            {
+                "region": "Tirana",
+                "cities": [
+                    {
+                        "name": "Tirana"
+                    },
+                    {
+                        "name": "Kavajë"
+                    },
+                    {
+                        "name": "Dajç"
+                    },
+                    {
+                        "name": "Vora"
+                    },
+                    {
+                        "name": "Petrelë"
+                    },
+                    {
+                        "name": "Kamëz"
+                    }
+                ]
+            },
+            {
+                "region": "Fier",
+                "cities": [
+                    {
+                        "name": "Fier"
+                    },
+                    {
+                        "name": "Vlorë"
+                    },
+                    {
+                        "name": "Divjakë"
+                    },
+                    {
+                        "name": "Patos"
+                    },
+                    {
+                        "name": "Lushnjë"
+                    },
+                    {
+                        "name": "Kumanovo"
+                    }
+                ]
+            },
+            {
+                "region": "Vlorë",
+                "cities": [
+                    {
+                        "name": "Vlorë"
+                    },
+                    {
+                        "name": "Sarandë"
+                    },
+                    {
+                        "name": "Fier"
+                    },
+                    {
+                        "name": "Himarë"
+                    },
+                    {
+                        "name": "Borsh"
+                    },
+                    {
+                        "name": "Ksamil"
+                    }
+                ]
+            },
+            {
+                "region": "Elbasan",
+                "cities": [
+                    {
+                        "name": "Elbasan"
+                    },
+                    {
+                        "name": "Librazhdi"
+                    },
+                    {
+                        "name": "Peqin"
+                    },
+                    {
+                        "name": "Belsh"
+                    },
+                    {
+                        "name": "Përmet"
+                    },
+                    {
+                        "name": "Cakran"
+                    }
+                ]
+            },
+            {
+                "region": "Berat",
+                "cities": [
+                    {
+                        "name": "Berat"
+                    },
+                    {
+                        "name": "Kuçovë"
+                    },
+                    {
+                        "name": "Poliçan"
+                    },
+                    {
+                        "name": "Çakran"
+                    },
+                    {
+                        "name": "Skrapar"
+                    },
+                    {
+                        "name": "Ura Vajze"
+                    }
+                ]
+            },
+            {
+                "region": "Korçë",
+                "cities": [
+                    {
+                        "name": "Korçë"
+                    },
+                    {
+                        "name": "Pogradec"
+                    },
+                    {
+                        "name": "Devoll"
+                    },
+                    {
+                        "name": "Erseke"
+                    },
+                    {
+                        "name": "Bilisht"
+                    },
+                    {
+                        "name": "Vithkuq"
+                    }
+                ]
+            },
+            {
+                "region": "Gjirokastër",
+                "cities": [
+                    {
+                        "name": "Gjirokastër"
+                    },
+                    {
+                        "name": "Dropull"
+                    },
+                    {
+                        "name": "Memaliaj"
+                    },
+                    {
+                        "name": "Tepelenë"
+                    },
+                    {
+                        "name": "Sarakë"
+                    },
+                    {
+                        "name": "Këlcyrë"
+                    }
+                ]
+            },
+            {
+                "region": "Shëngjin",
+                "cities": [
+                    {
+                        "name": "Shëngjin"
+                    },
+                    {
+                        "name": "Lezhë"
+                    },
+                    {
+                        "name": "Përmet"
+                    },
+                    {
+                        "name": "Krujë"
+                    },
+                    {
+                        "name": "Kurbin"
+                    },
+                    {
+                        "name": "Mali i Robit"
+                    }
+                ]
+            },
+            {
+                "region": "Kukës",
+                "cities": [
+                    {
+                        "name": "Kukës"
+                    },
+                    {
+                        "name": "Has"
+                    },
+                    {
+                        "name": "Përmet"
+                    },
+                    {
+                        "name": "Bajram Curri"
+                    },
+                    {
+                        "name": "Krumë"
+                    },
+                    {
+                        "name": "Fushë-Arrëz"
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Algeria",
+        "regions": [
+            {
+                "region": "Algiers",
+                "cities": [
+                    {"name": "Algiers"},
+                    {"name": "El Madania"},
+                    {"name": "Belouizdad"},
+                    {"name": "El Harrach"},
+                    {"name": "Bir Mourad Raïs"},
+                    {"name": "Kouba"}
+                ]
+            },
+            {
+                "region": "Oran",
+                "cities": [
+                    {"name": "Oran"},
+                    {"name": "El-Bahia"},
+                    {"name": "Aïn El Turk"},
+                    {"name": "Es Senia"},
+                    {"name": "Arzew"},
+                    {"name": "Bir El Djir"}
+                ]
+            },
+            {
+                "region": "Constantine",
+                "cities": [
+                    {"name": "Constantine"},
+                    {"name": "El Khroub"},
+                    {"name": "Aïn Abid"},
+                    {"name": "Hamma Bouziane"},
+                    {"name": "Khoudja"},
+                    {"name": "Moulay Slissen"}
+                ]
+            },
+            {
+                "region": "Tizi Ouzou",
+                "cities": [
+                    {"name": "Tizi Ouzou"},
+                    {"name": "Akbou"},
+                    {"name": "Larbaa Nath Irathen"},
+                    {"name": "Ouaguenoun"},
+                    {"name": "Imsouhal"},
+                    {"name": "Beni Douala"}
+                ]
+            },
+            {
+                "region": "Annaba",
+                "cities": [
+                    {"name": "Annaba"},
+                    {"name": "El Hadjar"},
+                    {"name": "Sidi Amar"},
+                    {"name": "Bordj El Kiffan"},
+                    {"name": "Berrahal"},
+                    {"name": "Aïn Achir"}
+                ]
+            },
+            {
+                "region": "Blida",
+                "cities": [
+                    {"name": "Blida"},
+                    {"name": "Chréa"},
+                    {"name": "El Affroun"},
+                    {"name": "Bir Mourad Raïs"},
+                    {"name": "Boufarik"},
+                    {"name": "La Saline"}
+                ]
+            },
+            {
+                "region": "Béjaïa",
+                "cities": [
+                    {"name": "Béjaïa"},
+                    {"name": "Beni Mansour"},
+                    {"name": "Seddouk"},
+                    {"name": "Tazmalt"},
+                    {"name": "El Kseur"},
+                    {"name": "Tichy"}
+                ]
+            },
+            {
+                "region": "Sétif",
+                "cities": [
+                    {"name": "Sétif"},
+                    {"name": "El Eulma"},
+                    {"name": "Bordj Bou Arreridj"},
+                    {"name": "Aïn El Kebira"},
+                    {"name": "Aïn Arnat"},
+                    {"name": "Bir El Arch"}
+                ]
+            },
+            {
+                "region": "Tlemcen",
+                "cities": [
+                    {"name": "Tlemcen"},
+                    {"name": "El Maghreb"},
+                    {"name": "Ghazaouet"},
+                    {"name": "Hennaya"},
+                    {"name": "Sidi Bel Abbes"},
+                    {"name": "Mansourah"}
+                ]
+            },
+            {
+                "region": "Ouargla",
+                "cities": [
+                    {"name": "Ouargla"},
+                    {"name": "Touggourt"},
+                    {"name": "El Oued"},
+                    {"name": "Hassi Messaoud"},
+                    {"name": "Niger"},
+                    {"name": "Hassi Ben Abdellah"}
+                ]
+            }
+        ]
+},
+
+    {
+        "country": "Andorra",
+        "regions": [
+            {
+                "region": "Andorra la Vella",
+                "cities": [
+                    {"name": "Andorra la Vella"},
+                    {"name": "Escaldes-Engordany"}
+                ]
+            },
+            {
+                "region": "Encamp",
+                "cities": [
+                    {"name": "Encamp"},
+                    {"name": "El Pas de la Casa"},
+                    {"name": "Les Bons"}
+                ]
+            },
+            {
+                "region": "Canillo",
+                "cities": [
+                    {"name": "Canillo"},
+                    {"name": "El Tarter"},
+                    {"name": "Soldeu"}
+                ]
+            },
+            {
+                "region": "La Massana",
+                "cities": [
+                    {"name": "La Massana"},
+                    {"name": "Arinsal"},
+                    {"name": "Ordino"}
+                ]
+            },
+            {
+                "region": "Ordino",
+                "cities": [
+                    {"name": "Ordino"},
+                    {"name": "La Cortinada"},
+                    {"name": "Ansalonga"}
+                ]
+            },
+            {
+                "region": "Sant Julià de Lòria",
+                "cities": [
+                    {"name": "Sant Julià de Lòria"},
+                    {"name": "Aldosa"},
+                    {"name": "Fontaneda"}
+                ]
+            },
+            {
+                "region": "Escaldes-Engordany",
+                "cities": [
+                    {"name": "Escaldes-Engordany"},
+                    {"name": "Les Escaldes"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Angola",
+        "regions": [
+            {
+                "region": "Luanda",
+                "cities": [
+                    {"name": "Luanda"},
+                    {"name": "Cazenga"},
+                    {"name": "Viana"},
+                    {"name": "Belas"},
+                    {"name": "Talatona"},
+                    {"name": "Icolo e Bengo"},
+                    {"name": "Quissama"},
+                    {"name": "Cacuaco"}
+                ]
+            },
+            {
+                "region": "Huambo",
+                "cities": [
+                    {"name": "Huambo"},
+                    {"name": "Caála"},
+                    {"name": "Londuimbali"},
+                    {"name": "Bailundo"},
+                    {"name": "Chicala-Cholohanga"},
+                    {"name": "Ecunha"},
+                    {"name": "Tchicala Tchivela"},
+                    {"name": "Cafunfo"}
+                ]
+            },
+            {
+                "region": "Namibe",
+                "cities": [
+                    {"name": "Moçâmedes"},
+                    {"name": "Tômbwa"},
+                    {"name": "Namibe"},
+                    {"name": "Cabo Ledo"},
+                    {"name": "Jamba"},
+                    {"name": "Mucope"}
+                ]
+            },
+            {
+                "region": "Benguela",
+                "cities": [
+                    {"name": "Benguela"},
+                    {"name": "Catumbela"},
+                    {"name": "Balombo"},
+                    {"name": "Caimbambo"},
+                    {"name": "Ganda"},
+                    {"name": "Cubal"},
+                    {"name": "Chicala"},
+                    {"name": "Chilata"}
+                ]
+            },
+            {
+                "region": "Kwanza Sul",
+                "cities": [
+                    {"name": "Sumbe"},
+                    {"name": "Cabo Ledo"},
+                    {"name": "Cela"},
+                    {"name": "Luso"},
+                    {"name": "Quibala"},
+                    {"name": "Samba Cajú"},
+                    {"name": "Kaza do Sul"}
+                ]
+            },
+            {
+                "region": "Malanje",
+                "cities": [
+                    {"name": "Malanje"},
+                    {"name": "Kiwaba Nzoji"},
+                    {"name": "Cangandala"},
+                    {"name": "Luquembo"},
+                    {"name": "Mucari"},
+                    {"name": "Ngonga"},
+                    {"name": "Mundundo"}
+                ]
+            },
+            {
+                "region": "Cuanza Norte",
+                "cities": [
+                    {"name": "N'dalatando"},
+                    {"name": "Quiculungo"},
+                    {"name": "Bolongongo"},
+                    {"name": "Lucala"},
+                    {"name": "Cambulo"},
+                    {"name": "N'dala"}
+                ]
+            },
+            {
+                "region": "Lunda Sul",
+                "cities": [
+                    {"name": "Saurimo"},
+                    {"name": "Cacolo"},
+                    {"name": "Muconda"},
+                    {"name": "Capenda Camulemba"},
+                    {"name": "Chitato"},
+                    {"name": "Dala"}
+                ]
+            },
+            {
+                "region": "Lunda Norte",
+                "cities": [
+                    {"name": "Dundo"},
+                    {"name": "Caungula"},
+                    {"name": "Capenda Camulemba"},
+                    {"name": "Chitato"},
+                    {"name": "Luachimo"},
+                    {"name": "Xá Muteba"}
+                ]
+            },
+            {
+                "region": "Uíge",
+                "cities": [
+                    {"name": "Uíge"},
+                    {"name": "Banga"},
+                    {"name": "Negage"},
+                    {"name": "Quimbele"},
+                    {"name": "Cangola"},
+                    {"name": "Mucaba"}
+                ]
+            },
+            {
+                "region": "Zaire",
+                "cities": [
+                    {"name": "Mbanza-Kongo"},
+                    {"name": "Soyo"},
+                    {"name": "Nkiende"},
+                    {"name": "N'zeto"},
+                    {"name": "Cuimba"},
+                    {"name": "Tomboco"}
+                ]
+            },
+            {
+                "region": "Cuanza Sul",
+                "cities": [
+                    {"name": "Sumbe"},
+                    {"name": "Quibala"},
+                    {"name": "Cabo Ledo"},
+                    {"name": "Cela"},
+                    {"name": "Luso"},
+                    {"name": "Samba Cajú"}
+                ]
+            },
+            {
+                "region": "Huíla",
+                "cities": [
+                    {"name": "Lubango"},
+                    {"name": "Jamba"},
+                    {"name": "Chibia"},
+                    {"name": "Caconda"},
+                    {"name": "Matala"},
+                    {"name": "Quipungo"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Antigua and Barbuda",
+        "regions": [
+            {
+                "region": "Antigua",
+                "cities": [
+                    {"name": "St. John's"},
+                    {"name": "All Saints"},
+                    {"name": "Liberta"},
+                    {"name": "Freetown"},
+                    {"name": "Bendals"},
+                    {"name": "Parham"},
+                    {"name": "Gray's Farm"},
+                    {"name": "Potters"},
+                    {"name": "St. George"},
+                    {"name": "Cedar Grove"}
+                ]
+            },
+            {
+                "region": "Barbuda",
+                "cities": [
+                    {"name": "Codrington"},
+                    {"name": "Barbuda"},
+                    {"name": "Palmetto Point"},
+                    {"name": "Two Foot Bay"},
+                    {"name": "Christians"},
+                    {"name": "Blackman"},
+                    {"name": "The Highlands"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Argentina",
+        "regions": [
+            {
+                "region": "Buenos Aires",
+                "cities": [
+                    {"name": "La Plata"},
+                    {"name": "Mar del Plata"},
+                    {"name": "Bahía Blanca"},
+                    {"name": "Avellaneda"},
+                    {"name": "Lanús"},
+                    {"name": "Quilmes"},
+                    {"name": "Lomas de Zamora"},
+                    {"name": "Tigre"},
+                    {"name": "Zárate"}
+                ]
+            },
+            {
+                "region": "Catamarca",
+                "cities": [
+                    {"name": "San Fernando del Valle de Catamarca"},
+                    {"name": "Belén"},
+                    {"name": "Fiambalá"},
+                    {"name": "Antofagasta de la Sierra"},
+                    {"name": "Las Peñas"}
+                ]
+            },
+            {
+                "region": "Chaco",
+                "cities": [
+                    {"name": "Resistencia"},
+                    {"name": "Barranqueras"},
+                    {"name": "Castelli"},
+                    {"name": "Juan José Castelli"},
+                    {"name": "Las Breñas"}
+                ]
+            },
+            {
+                "region": "Chubut",
+                "cities": [
+                    {"name": "Rawson"},
+                    {"name": "Trelew"},
+                    {"name": "Comodoro Rivadavia"},
+                    {"name": "Puerto Madryn"},
+                    {"name": "Esquel"}
+                ]
+            },
+            {
+                "region": "Córdoba",
+                "cities": [
+                    {"name": "Córdoba"},
+                    {"name": "Río Cuarto"},
+                    {"name": "Villa María"},
+                    {"name": "San Francisco"},
+                    {"name": "Maldonado"}
+                ]
+            },
+            {
+                "region": "Corrientes",
+                "cities": [
+                    {"name": "Corrientes"},
+                    {"name": "Goya"},
+                    {"name": "Mercedes"},
+                    {"name": "Esquina"},
+                    {"name": "Saladas"}
+                ]
+            },
+            {
+                "region": "Entre Ríos",
+                "cities": [
+                    {"name": "Paraná"},
+                    {"name": "Concordia"},
+                    {"name": "Gualeguaychú"},
+                    {"name": "Colón"},
+                    {"name": "Villaguay"}
+                ]
+            },
+            {
+                "region": "Formosa",
+                "cities": [
+                    {"name": "Formosa"},
+                    {"name": "Clorinda"},
+                    {"name": "Pirané"},
+                    {"name": "General José de San Martín"},
+                    {"name": "Las Lomitas"}
+                ]
+            },
+            {
+                "region": "Jujuy",
+                "cities": [
+                    {"name": "San Salvador de Jujuy"},
+                    {"name": "Perico"},
+                    {"name": "Palpalá"},
+                    {"name": "Libertador General San Martín"},
+                    {"name": "Humahuaca"}
+                ]
+            },
+            {
+                "region": "La Pampa",
+                "cities": [
+                    {"name": "Santa Rosa"},
+                    {"name": "General Pico"},
+                    {"name": "Intendente Alvear"},
+                    {"name": "Macachín"},
+                    {"name": "Realicó"}
+                ]
+            },
+            {
+                "region": "La Rioja",
+                "cities": [
+                    {"name": "La Rioja"},
+                    {"name": "Chilecito"},
+                    {"name": "Villa Unión"},
+                    {"name": "Famatina"},
+                    {"name": "Sanagasta"}
+                ]
+            },
+            {
+                "region": "Mendoza",
+                "cities": [
+                    {"name": "Mendoza"},
+                    {"name": "San Rafael"},
+                    {"name": "Godoy Cruz"},
+                    {"name": "Maipú"},
+                    {"name": "Las Heras"}
+                ]
+            },
+            {
+                "region": "Misiones",
+                "cities": [
+                    {"name": "Posadas"},
+                    {"name": "Oberá"},
+                    {"name": "Puerto Iguazú"},
+                    {"name": "Eldorado"},
+                    {"name": "San Vicente"}
+                ]
+            },
+            {
+                "region": "Neuquén",
+                "cities": [
+                    {"name": "Neuquén"},
+                    {"name": "San Martín de los Andes"},
+                    {"name": "Plottier"},
+                    {"name": "Cutral Có"},
+                    {"name": "Centenario"}
+                ]
+            },
+            {
+                "region": "Río Negro",
+                "cities": [
+                    {"name": "Viedma"},
+                    {"name": "General Roca"},
+                    {"name": "Cipolletti"},
+                    {"name": "Allen"},
+                    {"name": "Bariloche"}
+                ]
+            },
+            {
+                "region": "Salta",
+                "cities": [
+                    {"name": "Salta"},
+                    {"name": "Orán"},
+                    {"name": "Tartagal"},
+                    {"name": "Rosario de la Frontera"},
+                    {"name": "General Güemes"}
+                ]
+            },
+            {
+                "region": "San Juan",
+                "cities": [
+                    {"name": "San Juan"},
+                    {"name": "Rawson"},
+                    {"name": "Chimbas"},
+                    {"name": "Rivadavia"},
+                    {"name": "Ullum"}
+                ]
+            },
+            {
+                "region": "San Luis",
+                "cities": [
+                    {"name": "San Luis"},
+                    {"name": "Villa Mercedes"},
+                    {"name": "La Punta"},
+                    {"name": "Justo Daract"},
+                    {"name": "Merlo"}
+                ]
+            },
+            {
+                "region": "Santa Cruz",
+                "cities": [
+                    {"name": "Río Gallegos"},
+                    {"name": "El Calafate"},
+                    {"name": "Caleta Olivia"},
+                    {"name": "Pico Truncado"},
+                    {"name": "Puerto Deseado"}
+                ]
+            },
+            {
+                "region": "Santa Fe",
+                "cities": [
+                    {"name": "Santa Fe"},
+                    {"name": "Rosario"},
+                    {"name": "Venado Tuerto"},
+                    {"name": "Rafaela"},
+                    {"name": "Reconquista"}
+                ]
+            },
+            {
+                "region": "Santiago del Estero",
+                "cities": [
+                    {"name": "Santiago del Estero"},
+                    {"name": "Termas de Río Hondo"},
+                    {"name": "La Banda"},
+                    {"name": "Frías"},
+                    {"name": "Quimilí"}
+                ]
+            },
+            {
+                "region": "Tierra del Fuego",
+                "cities": [
+                    {"name": "Ushuaia"},
+                    {"name": "Rio Grande"},
+                    {"name": "Tolhuin"},
+                    {"name": "Punta Arenas"}
+                ]
+            },
+            {
+                "region": "Tucumán",
+                "cities": [
+                    {"name": "San Miguel de Tucumán"},
+                    {"name": "Tafí Viejo"},
+                    {"name": "Concepción"},
+                    {"name": "Yerba Buena"},
+                    {"name": "Simoca"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Armenia",
+        "regions": [
+            {
+                "region": "Aragatsotn",
+                "cities": [
+                    {"name": "Ashtarak"},
+                    {"name": "Ararat"},
+                    {"name": "Oshakan"},
+                    {"name": "Byurakan"},
+                    {"name": "Talinn"}
+                ]
+            },
+            {
+                "region": "Ararat",
+                "cities": [
+                    {"name": "Artashat"},
+                    {"name": "Ararat"},
+                    {"name": "Masis"},
+                    {"name": "Vedi"},
+                    {"name": "Echmiadzin"}
+                ]
+            },
+            {
+                "region": "Armavir",
+                "cities": [
+                    {"name": "Armavir"},
+                    {"name": "Artik"},
+                    {"name": "Gyumri"},
+                    {"name": "Maralik"},
+                    {"name": "Vagharshapat"}
+                ]
+            },
+            {
+                "region": "Gegharkunik",
+                "cities": [
+                    {"name": "Gavar"},
+                    {"name": "Sevan"},
+                    {"name": "Vardenis"},
+                    {"name": "Martuni"},
+                    {"name": "Tsovinar"}
+                ]
+            },
+            {
+                "region": "Kotayk",
+                "cities": [
+                    {"name": "Hrazdan"},
+                    {"name": "Abovyan"},
+                    {"name": "Charentsavan"},
+                    {"name": "Yeghvard"},
+                    {"name": "Kotayk"}
+                ]
+            },
+            {
+                "region": "Lori",
+                "cities": [
+                    {"name": "Vanadzor"},
+                    {"name": "Spitak"},
+                    {"name": "Alaverdi"},
+                    {"name": "Lori Berd"},
+                    {"name": "Dsegh"}
+                ]
+            },
+            {
+                "region": "Shirak",
+                "cities": [
+                    {"name": "Gyumri"},
+                    {"name": "Shirak"},
+                    {"name": "Akhtala"},
+                    {"name": "Maralik"},
+                    {"name": "Gavar"}
+                ]
+            },
+            {
+                "region": "Syunik",
+                "cities": [
+                    {"name": "Kapan"},
+                    {"name": "Goris"},
+                    {"name": "Sisian"},
+                    {"name": "Teghut"},
+                    {"name": "Zangezur"}
+                ]
+            },
+            {
+                "region": "Vayots Dzor",
+                "cities": [
+                    {"name": "Yeghegnadzor"},
+                    {"name": "Vayk"},
+                    {"name": "Areni"},
+                    {"name": "Artabuynk"},
+                    {"name": "Shatin"}
+                ]
+            },
+            {
+                "region": "Yerevan",
+                "cities": [
+                    {"name": "Yerevan"},
+                    {"name": "Ararat"},
+                    {"name": "Kotayk"},
+                    {"name": "Nork-Marash"},
+                    {"name": "Erebuni"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Australia",
+        "regions": [
+            {
+                "region": "New South Wales",
+                "cities": [
+                    {"name": "Sydney"},
+                    {"name": "Newcastle"},
+                    {"name": "Wollongong"},
+                    {"name": "Central Coast"},
+                    {"name": "Maitland"},
+                    {"name": "Coffs Harbour"}
+                ]
+            },
+            {
+                "region": "Victoria",
+                "cities": [
+                    {"name": "Melbourne"},
+                    {"name": "Geelong"},
+                    {"name": "Ballarat"},
+                    {"name": "Bendigo"},
+                    {"name": "Mildura"},
+                    {"name": "Shepparton"}
+                ]
+            },
+            {
+                "region": "Queensland",
+                "cities": [
+                    {"name": "Brisbane"},
+                    {"name": "Gold Coast"},
+                    {"name": "Sunshine Coast"},
+                    {"name": "Cairns"},
+                    {"name": "Townsville"},
+                    {"name": "Toowoomba"}
+                ]
+            },
+            {
+                "region": "Western Australia",
+                "cities": [
+                    {"name": "Perth"},
+                    {"name": "Bunbury"},
+                    {"name": "Mandurah"},
+                    {"name": "Kalgoorlie"},
+                    {"name": "Geraldton"},
+                    {"name": "Albany"}
+                ]
+            },
+            {
+                "region": "South Australia",
+                "cities": [
+                    {"name": "Adelaide"},
+                    {"name": "Mount Gambier"},
+                    {"name": "Murray Bridge"},
+                    {"name": "Whyalla"},
+                    {"name": "Port Lincoln"},
+                    {"name": "Victor Harbor"}
+                ]
+            },
+            {
+                "region": "Tasmania",
+                "cities": [
+                    {"name": "Hobart"},
+                    {"name": "Launceston"},
+                    {"name": "Devonport"},
+                    {"name": "Burnie"},
+                    {"name": "Kingston"},
+                    {"name": "Bicheno"}
+                ]
+            },
+            {
+                "region": "Australian Capital Territory",
+                "cities": [
+                    {"name": "Canberra"},
+                    {"name": "Queanbeyan"},
+                    {"name": "Gungahlin"},
+                    {"name": "Belconnen"},
+                    {"name": "Woden Valley"},
+                    {"name": "Tuggeranong"}
+                ]
+            },
+            {
+                "region": "Northern Territory",
+                "cities": [
+                    {"name": "Darwin"},
+                    {"name": "Alice Springs"},
+                    {"name": "Katherine"},
+                    {"name": "Gove"},
+                    {"name": "Tennant Creek"},
+                    {"name": "Humpty Doo"}
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Austria",
+        "regions": [
+            {
+                "region": "Burgenland",
+                "cities": [
+                    {"name": "Eisenstadt"},
+                    {"name": "Mattersburg"},
+                    {"name": "Neusiedl am See"},
+                    {"name": "Oberpullendorf"},
+                    {"name": "Güssing"}
+                ]
+            },
+            {
+                "region": "Carinthia",
+                "cities": [
+                    {"name": "Klagenfurt"},
+                    {"name": "Villach"},
+                    {"name": "Feldkirchen"},
+                    {"name": "St. Veit an der Glan"},
+                    {"name": "Hermagor"}
+                ]
+            },
+            {
+                "region": "Lower Austria",
+                "cities": [
+                    {"name": "St. Pölten"},
+                    {"name": "Melk"},
+                    {"name": "Waidhofen an der Ybbs"},
+                    {"name": "Tulln"},
+                    {"name": "Krems an der Donau"}
+                ]
+            },
+            {
+                "region": "Upper Austria",
+                "cities": [
+                    {"name": "Linz"},
+                    {"name": "Wels"},
+                    {"name": "Steyr"},
+                    {"name": "Vöcklabruck"},
+                    {"name": "Bad Ischl"}
+                ]
+            },
+            {
+                "region": "Salzburg",
+                "cities": [
+                    {"name": "Salzburg"},
+                    {"name": "Hallein"},
+                    {"name": "Bischofshofen"},
+                    {"name": "Tamsweg"},
+                    {"name": "Neumarkt am Wallersee"}
+                ]
+            },
+            {
+                "region": "Styria",
+                "cities": [
+                    {"name": "Graz"},
+                    {"name": "Leoben"},
+                    {"name": "Kapfenberg"},
+                    {"name": "Feldbach"},
+                    {"name": "Bruck an der Mur"}
+                ]
+            },
+            {
+                "region": "Tyrol",
+                "cities": [
+                    {"name": "Innsbruck"},
+                    {"name": "Hall in Tirol"},
+                    {"name": "Kufstein"},
+                    {"name": "Landeck"},
+                    {"name": "Rum"}
+                ]
+            },
+            {
+                "region": "Vorarlberg",
+                "cities": [
+                    {"name": "Bregenz"},
+                    {"name": "Feldkirch"},
+                    {"name": "Dornbirn"},
+                    {"name": "Lauterach"},
+                    {"name": "Bludenz"}
+                ]
+            },
+            {
+                "region": "Vienna",
+                "cities": [
+                    {"name": "Vienna"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Azerbaijan",
+        "regions": [
+            {
+                "region": "Baku",
+                "cities": [
+                    {"name": "Baku"},
+                    {"name": "Sumqayit"},
+                    {"name": "Ganja"},
+                    {"name": "Lankaran"},
+                    {"name": "Mingachevir"}
+                ]
+            },
+            {
+                "region": "Ganja-Gazakh",
+                "cities": [
+                    {"name": "Ganja"},
+                    {"name": "Gazakh"},
+                    {"name": "Shamkir"},
+                    {"name": "Tovuz"},
+                    {"name": "Goygol"}
+                ]
+            },
+            {
+                "region": "Lankaran",
+                "cities": [
+                    {"name": "Lankaran"},
+                    {"name": "Masally"},
+                    {"name": "Astara"},
+                    {"name": "Lerik"},
+                    {"name": "Bilasuvar"}
+                ]
+            },
+            {
+                "region": "Aran",
+                "cities": [
+                    {"name": "Mingachevir"},
+                    {"name": "Yevlakh"},
+                    {"name": "Ujar"},
+                    {"name": "Goranboy"},
+                    {"name": "Zardab"}
+                ]
+            },
+            {
+                "region": "Shaki-Zagatala",
+                "cities": [
+                    {"name": "Shaki"},
+                    {"name": "Zagatala"},
+                    {"name": "Oguz"},
+                    {"name": "Gakh"},
+                    {"name": "Qusari"}
+                ]
+            },
+            {
+                "region": "Nakhchivan",
+                "cities": [
+                    {"name": "Nakhchivan"},
+                    {"name": "Sharur"},
+                    {"name": "Babek"},
+                    {"name": "Ordubad"},
+                    {"name": "Sadarak"}
+                ]
+            },
+            {
+                "region": "Quba-Khachmaz",
+                "cities": [
+                    {"name": "Quba"},
+                    {"name": "Khachmaz"},
+                    {"name": "Qusar"},
+                    {"name": "Gusar"},
+                    {"name": "Shabran"}
+                ]
+            },
+            {
+                "region": "Goychay",
+                "cities": [
+                    {"name": "Goychay"},
+                    {"name": "Yevlakh"},
+                    {"name": "Aghsu"},
+                    {"name": "Goygol"},
+                    {"name": "Aghdash"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "The Bahamas",
+        "islands": [
+            {
+                "island": "New Providence",
+                "settlements": [
+                    {"name": "Nassau"},
+                    {"name": "Paradise Island"},
+                    {"name": "Cable Beach"},
+                    {"name": "Clifton"},
+                    {"name": "Lyford Cay"}
+                ]
+            },
+            {
+                "island": "Grand Bahama",
+                "settlements": [
+                    {"name": "Freeport"},
+                    {"name": "Lucaya"},
+                    {"name": "West End"},
+                    {"name": "Eight Mile Rock"},
+                    {"name": "Pinder's Point"}
+                ]
+            },
+            {
+                "island": "Abaco",
+                "settlements": [
+                    {"name": "Marsh Harbour"},
+                    {"name": "Hope Town"},
+                    {"name": "Treasure Cay"},
+                    {"name": "Lubbers Quarters"},
+                    {"name": "Green Turtle Cay"}
+                ]
+            },
+            {
+                "island": "Eleuthera",
+                "settlements": [
+                    {"name": "Governor's Harbour"},
+                    {"name": "James Cistern"},
+                    {"name": "Rock Sound"},
+                    {"name": "Harbour Island"},
+                    {"name": "Spanish Wells"}
+                ]
+            },
+            {
+                "island": "Exuma",
+                "settlements": [
+                    {"name": "George Town"},
+                    {"name": "Rolleville"},
+                    {"name": "Barreterre"},
+                    {"name": "Black Point"},
+                    {"name": "Little Exuma"}
+                ]
+            },
+            {
+                "island": "Long Island",
+                "settlements": [
+                    {"name": "Salt Pond"},
+                    {"name": "Deadman's Cay"},
+                    {"name": "Long Island"},
+                    {"name": "Galliot Cay"},
+                    {"name": "Simms"}
+                ]
+            },
+            {
+                "island": "Bimini",
+                "settlements": [
+                    {"name": "Alice Town"},
+                    {"name": "Pork Key"},
+                    {"name": "North Bimini"},
+                    {"name": "South Bimini"},
+                    {"name": "Bailey Town"}
+                ]
+            },
+            {
+                "island": "Cat Island",
+                "settlements": [
+                    {"name": "Arthur's Town"},
+                    {"name": "Cat Island"},
+                    {"name": "San Salvador"},
+                    {"name": "Germans"},
+                    {"name": "Orange Creek"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Bahrain",
+        "islands": [
+            {
+                "island": "Bahrain Island",
+                "settlements": [
+                    {"name": "Manama"},
+                    {"name": "Muharraq"},
+                    {"name": "Riffa"},
+                    {"name": "Sitra"},
+                    {"name": "Durrat Al Bahrain"},
+                    {"name": "Hamala"},
+                    {"name": "A'ali"},
+                    {"name": "Bani Jamra"},
+                    {"name": "Diraz"},
+                    {"name": "Salmaniya"}
+                ]
+            },
+            {
+                "island": "Muharraq Island",
+                "settlements": [
+                    {"name": "Muharraq"},
+                    {"name": "Arad"},
+                    {"name": "Al Hidd"},
+                    {"name": "Busaiteen"},
+                    {"name": "Bu Quwah"}
+                ]
+            },
+            {
+                "island": "Sitra Island",
+                "settlements": [
+                    {"name": "Sitra"},
+                    {"name": "Al Qudaybiya"},
+                    {"name": "Al Maqsha"},
+                    {"name": "Al Hidd"},
+                    {"name": "Maqsha"}
+                ]
+            },
+            {
+                "island": "Hawar Islands",
+                "settlements": [
+                    {"name": "Hawar"},
+                    {"name": "Hawar Island Village"}
+                ]
+            },
+            {
+                "island": "Jazirat Al Wasaṭīyah",
+                "settlements": [
+                    {"name": "Al Wasaṭīyah"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Bangladesh",
+        "divisions": [
+            {
+                "division": "Dhaka Division",
+                "districts": [
+                    {"name": "Dhaka"},
+                    {"name": "Faridpur"},
+                    {"name": "Gazipur"},
+                    {"name": "Gopalganj"},
+                    {"name": "Kishoreganj"},
+                    {"name": "Madaripur"},
+                    {"name": "Manikganj"},
+                    {"name": "Munshiganj"},
+                    {"name": "Narayanganj"},
+                    {"name": "Narsingdi"},
+                    {"name": "Shariatpur"},
+                    {"name": "Tangail"}
+                ]
+            },
+            {
+                "division": "Chattogram Division",
+                "districts": [
+                    {"name": "Bandarban"},
+                    {"name": "Brahmanbaria"},
+                    {"name": "Chandpur"},
+                    {"name": "Chattogram"},
+                    {"name": "Cox's Bazar"},
+                    {"name": "Cumilla"},
+                    {"name": "Feni"},
+                    {"name": "Khagrachari"},
+                    {"name": "Lakshmipur"},
+                    {"name": "Noakhali"},
+                    {"name": "Rangamati"}
+                ]
+            },
+            {
+                "division": "Khulna Division",
+                "districts": [
+                    {"name": "Bagerhat"},
+                    {"name": "Chuadanga"},
+                    {"name": "Jashore"},
+                    {"name": "Jhenaidah"},
+                    {"name": "Khulna"},
+                    {"name": "Magura"},
+                    {"name": "Meherpur"},
+                    {"name": "Narail"},
+                    {"name": "Satkhira"}
+                ]
+            },
+            {
+                "division": "Rajshahi Division",
+                "districts": [
+                    {"name": "Bogra"},
+                    {"name": "Chapainawabganj"},
+                    {"name": "Joypurhat"},
+                    {"name": "Naogaon"},
+                    {"name": "Natore"},
+                    {"name": "Pabna"},
+                    {"name": "Rajshahi"},
+                    {"name": "Sirajganj"}
+                ]
+            },
+            {
+                "division": "Barisal Division",
+                "districts": [
+                    {"name": "Barisal"},
+                    {"name": "Bholah"},
+                    {"name": "Jhalokati"},
+                    {"name": "Patuakhali"},
+                    {"name": "Pirojpur"}
+                ]
+            },
+            {
+                "division": "Sylhet Division",
+                "districts": [
+                    {"name": "Habiganj"},
+                    {"name": "Moulvibazar"},
+                    {"name": "Sunamganj"},
+                    {"name": "Sylhet"}
+                ]
+            },
+            {
+                "division": "Rangpur Division",
+                "districts": [
+                    {"name": "Dinajpur"},
+                    {"name": "Garinim"},
+                    {"name": "Kurigram"},
+                    {"name": "Lalmonirhat"},
+                    {"name": "Nilphamari"},
+                    {"name": "Panchagarh"},
+                    {"name": "Rangpur"},
+                    {"name": "Thakurgaon"}
+                ]
+            },
+            {
+                "division": "Mymensingh Division",
+                "districts": [
+                    {"name": "Jamalpur"},
+                    {"name": "Mymensingh"},
+                    {"name": "Netrokona"},
+                    {"name": "Sherpur"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Barbados",
+        "parishes": [
+            {"name": "Christ Church"},
+            {"name": "St. Andrew"},
+            {"name": "St. George"},
+            {"name": "St. James"},
+            {"name": "St. John"},
+            {"name": "St. Joseph"},
+            {"name": "St. Lucy"},
+            {"name": "St. Michael"},
+            {"name": "St. Peter"},
+            {"name": "St. Philip"},
+            {"name": "St. Thomas"},
+            {"name": "Bridgetown"}
+        ]
+    },
+
+    {
+        "country": "Belarus",
+        "regions": [
+            {
+                "name": "Brest Region",
+                "cities": [
+                    {"name": "Brest"},
+                    {"name": "Pinsk"},
+                    {"name": "Baranavichy"},
+                    {"name": "Brest District"},
+                    {"name": "Drahichyn"},
+                    {"name": "Zhabinka"},
+                    {"name": "Luninets"},
+                    {"name": "Pruzhany"},
+                    {"name": "Stolin"}
+                ]
+            },
+            {
+                "name": "Grodno Region",
+                "cities": [
+                    {"name": "Grodno"},
+                    {"name": "Lida"},
+                    {"name": "Berestovitsa"},
+                    {"name": "Novogrudok"},
+                    {"name": "Svislach"},
+                    {"name": "Shchuchyn"},
+                    {"name": "Zelva"},
+                    {"name": "Grodno District"}
+                ]
+            },
+            {
+                "name": "Minsk Region",
+                "cities": [
+                    {"name": "Minsk"},
+                    {"name": "Zhodzina"},
+                    {"name": "Barysaŭ"},
+                    {"name": "Minsk District"},
+                    {"name": "Kletsk"},
+                    {"name": "Slutsk"},
+                    {"name": "Chervyen"},
+                    {"name": "Krupki"},
+                    {"name": "Fanipol"}
+                ]
+            },
+            {
+                "name": "Mogilev Region",
+                "cities": [
+                    {"name": "Mogilev"},
+                    {"name": "Bobruisk"},
+                    {"name": "Bykhaw"},
+                    {"name": "Mogilev District"},
+                    {"name": "Krichev"},
+                    {"name": "Shklow"},
+                    {"name": "Osipovichy"},
+                    {"name": "Kostyukovichi"}
+                ]
+            },
+            {
+                "name": "Vitebsk Region",
+                "cities": [
+                    {"name": "Vitebsk"},
+                    {"name": "Polotsk"},
+                    {"name": "Orsha"},
+                    {"name": "Vitebsk District"},
+                    {"name": "Navapolatsk"},
+                    {"name": "Shumilina"},
+                    {"name": "Glubokoye"},
+                    {"name": "Rossony"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Belgium",
+        "regions": [
+            {
+                "name": "Brussels-Capital Region",
+                "cities": [
+                    {"name": "Brussels"},
+                    {"name": "Anderlecht"},
+                    {"name": "Bruxelles-ville"},
+                    {"name": "Schaerbeek"},
+                    {"name": "Saint-Gilles"},
+                    {"name": "Ixelles"},
+                    {"name": "Molenbeek-Saint-Jean"},
+                    {"name": "Uccle"},
+                    {"name": "Etterbeek"},
+                    {"name": "Saint-Josse-ten-Noode"}
+                ]
+            },
+            {
+                "name": "Flanders",
+                "cities": [
+                    {"name": "Antwerp"},
+                    {"name": "Ghent"},
+                    {"name": "Bruges"},
+                    {"name": "Leuven"},
+                    {"name": "Mechelen"},
+                    {"name": "Kortrijk"},
+                    {"name": "Ostend"},
+                    {"name": "Tielt"},
+                    {"name": "Roeselare"},
+                    {"name": "Turnhout"}
+                ]
+            },
+            {
+                "name": "Wallonia",
+                "cities": [
+                    {"name": "Liège"},
+                    {"name": "Namur"},
+                    {"name": "Charleroi"},
+                    {"name": "Mons"},
+                    {"name": "La Louvière"},
+                    {"name": "Tournai"},
+                    {"name": "Seraing"},
+                    {"name": "Verviers"},
+                    {"name": "Huy"},
+                    {"name": "Binche"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Belize",
+        "regions": [
+            {
+                "name": "Belize District",
+                "cities": [
+                    {"name": "Belize City"},
+                    {"name": "Ladyville"},
+                    {"name": "Hattieville"},
+                    {"name": "Caye Caulker"},
+                    {"name": "San Pedro"}
+                ]
+            },
+            {
+                "name": "Cayo District",
+                "cities": [
+                    {"name": "San Ignacio"},
+                    {"name": "Belmopan"},
+                    {"name": "Santa Elena"},
+                    {"name": "Benque Viejo del Carmen"},
+                    {"name": "Bullet Tree Falls"}
+                ]
+            },
+            {
+                "name": "Corozal District",
+                "cities": [
+                    {"name": "Corozal Town"},
+                    {"name": "Consejo"},
+                    {"name": "Sarteneja"},
+                    {"name": "Chunox"},
+                    {"name": "Patchakan"}
+                ]
+            },
+            {
+                "name": "Orange Walk District",
+                "cities": [
+                    {"name": "Orange Walk Town"},
+                    {"name": "Chunox"},
+                    {"name": "San Felipe"},
+                    {"name": "La Union"},
+                    {"name": "San Jose"}
+                ]
+            },
+            {
+                "name": "Stann Creek District",
+                "cities": [
+                    {"name": "Dangriga"},
+                    {"name": "Hopkins"},
+                    {"name": "Maya Center"},
+                    {"name": "Sierra Vista"},
+                    {"name": "Placencia"}
+                ]
+            },
+            {
+                "name": "Toledo District",
+                "cities": [
+                    {"name": "Punta Gorda"},
+                    {"name": "Mopan"},
+                    {"name": "San Antonio"},
+                    {"name": "Crique Sarco"},
+                    {"name": "Santa Elena"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Benin",
+        "regions": [
+            {
+                "name": "Atlantique Department",
+                "cities": [
+                    {"name": "Cotonou"},
+                    {"name": "Ouidah"},
+                    {"name": "Seme-Kpodji"},
+                    {"name": "Abomey-Calavi"},
+                    {"name": "Allada"}
+                ]
+            },
+            {
+                "name": "Littoral Department",
+                "cities": [
+                    {"name": "Cotonou"},
+                    {"name": "Porto-Novo"}
+                ]
+            },
+            {
+                "name": "Zou Department",
+                "cities": [
+                    {"name": "Zagnanado"},
+                    {"name": "Abomey"},
+                    {"name": "Savalou"},
+                    {"name": "Covè"},
+                    {"name": "Comé"}
+                ]
+            },
+            {
+                "name": "Collines Department",
+                "cities": [
+                    {"name": "Dassa-Zoumé"},
+                    {"name": "Savalou"},
+                    {"name": "Savè"},
+                    {"name": "Bantè"}
+                ]
+            },
+            {
+                "name": "Donga Department",
+                "cities": [
+                    {"name": "Djougou"},
+                    {"name": "Nikki"},
+                    {"name": "Copargo"},
+                    {"name": "Ouaké"}
+                ]
+            },
+            {
+                "name": "Alibori Department",
+                "cities": [
+                    {"name": "Kandi"},
+                    {"name": "Banikoara"},
+                    {"name": "Kouandé"},
+                    {"name": "Ségbana"}
+                ]
+            },
+            {
+                "name": "Plateau Department",
+                "cities": [
+                    {"name": "Pobé"},
+                    {"name": "Adja-Ouèrè"},
+                    {"name": "Zangnanado"},
+                    {"name": "Kétou"}
+                ]
+            },
+            {
+                "name": "Mono Department",
+                "cities": [
+                    {"name": "Aplahoué"},
+                    {"name": "Comé"},
+                    {"name": "Dogbo"},
+                    {"name": "Grand-Popo"}
+                ]
+            },
+            {
+                "name": "Ouémé Department",
+                "cities": [
+                    {"name": "Porto-Novo"},
+                    {"name": "Akpro-Missérété"},
+                    {"name": "Sakété"},
+                    {"name": "Adjohoun"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Bhutan",
+        "regions": [
+            {
+                "name": "Thimphu District",
+                "cities": [
+                    {"name": "Thimphu"}
+                ]
+            },
+            {
+                "name": "Paro District",
+                "cities": [
+                    {"name": "Paro"},
+                    {"name": "Drukgyel Dzong"},
+                    {"name": "Pachhu"}
+                ]
+            },
+            {
+                "name": "Punakha District",
+                "cities": [
+                    {"name": "Punakha"},
+                    {"name": "Wangdue Phodrang"},
+                    {"name": "Sopsokha"}
+                ]
+            },
+            {
+                "name": "Bumthang District",
+                "cities": [
+                    {"name": "Jakar"},
+                    {"name": "Tang"},
+                    {"name": "Ura"}
+                ]
+            },
+            {
+                "name": "Trongsa District",
+                "cities": [
+                    {"name": "Trongsa"},
+                    {"name": "Chume"},
+                    {"name": "Nubding"}
+                ]
+            },
+            {
+                "name": "Zhemgang District",
+                "cities": [
+                    {"name": "Zhemgang"},
+                    {"name": "Nanglam"},
+                    {"name": "Bumthang"}
+                ]
+            },
+            {
+                "name": "Wangdue Phodrang District",
+                "cities": [
+                    {"name": "Wangdue Phodrang"},
+                    {"name": "Rudam"},
+                    {"name": "Dopshari"}
+                ]
+            },
+            {
+                "name": "Trashigang District",
+                "cities": [
+                    {"name": "Trashigang"},
+                    {"name": "Merak"},
+                    {"name": "Bajo"}
+                ]
+            },
+            {
+                "name": "Samdrup Jongkhar District",
+                "cities": [
+                    {"name": "Samdrup Jongkhar"},
+                    {"name": "Jomotshangkha"},
+                    {"name": "Dewathang"}
+                ]
+            },
+            {
+                "name": "Lhuentse District",
+                "cities": [
+                    {"name": "Lhuentse"},
+                    {"name": "Khandup"},
+                    {"name": "Drepung"}
+                ]
+            },
+            {
+                "name": "Dagana District",
+                "cities": [
+                    {"name": "Dagana"},
+                    {"name": "Tsangkha"},
+                    {"name": "Daga"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Bolivia",
+        "regions": [
+            {
+                "name": "La Paz",
+                "cities": [
+                    {"name": "La Paz"},
+                    {"name": "El Alto"},
+                    {"name": "Viacha"},
+                    {"name": "Achocalla"},
+                    {"name": "Laja"}
+                ]
+            },
+            {
+                "name": "Santa Cruz",
+                "cities": [
+                    {"name": "Santa Cruz de la Sierra"},
+                    {"name": "Montero"},
+                    {"name": "Cotoca"},
+                    {"name": "Warnes"},
+                    {"name": "Porongo"}
+                ]
+            },
+            {
+                "name": "Cochabamba",
+                "cities": [
+                    {"name": "Cochabamba"},
+                    {"name": "Quillacollo"},
+                    {"name": "Vinto"},
+                    {"name": "Tiquipaya"},
+                    {"name": "Sacaba"}
+                ]
+            },
+            {
+                "name": "Potosí",
+                "cities": [
+                    {"name": "Potosí"},
+                    {"name": "Sucre"},
+                    {"name": "Tinguipaya"},
+                    {"name": "Yocalla"},
+                    {"name": "Cerro Rico"}
+                ]
+            },
+            {
+                "name": "Oruro",
+                "cities": [
+                    {"name": "Oruro"},
+                    {"name": "Huanuni"},
+                    {"name": "Santiago de Huata"},
+                    {"name": "Pocona"},
+                    {"name": "Machacamarca"}
+                ]
+            },
+            {
+                "name": "Tarija",
+                "cities": [
+                    {"name": "Tarija"},
+                    {"name": "Villazón"},
+                    {"name": "Bermejo"},
+                    {"name": "San Lorenzo"},
+                    {"name": "Padcaya"}
+                ]
+            },
+            {
+                "name": "Beni",
+                "cities": [
+                    {"name": "Trinidad"},
+                    {"name": "Riberalta"},
+                    {"name": "Guayaramerín"},
+                    {"name": "San Javier"},
+                    {"name": "Paucar"},
+                    {"name": "Yacuma"}
+                ]
+            },
+            {
+                "name": "Pando",
+                "cities": [
+                    {"name": "Cobija"},
+                    {"name": "Porvenir"},
+                    {"name": "Filadelfia"},
+                    {"name": "Bella Vista"},
+                    {"name": "Llorente"}
+                ]
+            },
+            {
+                "name": "Chuquisaca",
+                "cities": [
+                    {"name": "Sucre"},
+                    {"name": "Yamparáez"},
+                    {"name": "Culpina"},
+                    {"name": "Padilla"},
+                    {"name": "Tarabuco"}
+                ]
+            },
+            {
+                "name": "La Paz (Dept.)",
+                "cities": [
+                    {"name": "La Paz"},
+                    {"name": "El Alto"},
+                    {"name": "Viacha"},
+                    {"name": "Laja"},
+                    {"name": "Achocalla"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Bosnia and Herzegovina",
+        "regions": [
+            {
+                "name": "Federation of Bosnia and Herzegovina",
+                "cities": [
+                    {"name": "Sarajevo"},
+                    {"name": "Mostar"},
+                    {"name": "Zenica"},
+                    {"name": "Tuzla"},
+                    {"name": "Bihać"},
+                    {"name": "Goražde"},
+                    {"name": "Livno"},
+                    {"name": "Bugojno"},
+                    {"name": "Travnik"},
+                    {"name": "Jajce"}
+                ]
+            },
+            {
+                "name": "Republika Srpska",
+                "cities": [
+                    {"name": "Banja Luka"},
+                    {"name": "Prijedor"},
+                    {"name": "Doboj"},
+                    {"name": "Bijeljina"},
+                    {"name": "Trebinje"},
+                    {"name": "Zvornik"},
+                    {"name": "Brčko"},
+                    {"name": "Pale"},
+                    {"name": "Srebrenica"},
+                    {"name": "Han Pijesak"}
+                ]
+            },
+            {
+                "name": "Brčko District",
+                "cities": [
+                    {"name": "Brčko"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Botswana",
+        "regions": [
+            {
+                "name": "Gaborone",
+                "cities": [
+                    {"name": "Gaborone"}
+                ]
+            },
+            {
+                "name": "Francistown",
+                "cities": [
+                    {"name": "Francistown"}
+                ]
+            },
+            {
+                "name": "Maun",
+                "cities": [
+                    {"name": "Maun"}
+                ]
+            },
+            {
+                "name": "Selibe-Phikwe",
+                "cities": [
+                    {"name": "Selibe-Phikwe"}
+                ]
+            },
+            {
+                "name": "Kasane",
+                "cities": [
+                    {"name": "Kasane"}
+                ]
+            },
+            {
+                "name": "Palapye",
+                "cities": [
+                    {"name": "Palapye"}
+                ]
+            },
+            {
+                "name": "Jwaneng",
+                "cities": [
+                    {"name": "Jwaneng"}
+                ]
+            },
+            {
+                "name": "Tshabong",
+                "cities": [
+                    {"name": "Tshabong"}
+                ]
+            },
+            {
+                "name": "Lobatse",
+                "cities": [
+                    {"name": "Lobatse"}
+                ]
+            },
+            {
+                "name": "Molepolole",
+                "cities": [
+                    {"name": "Molepolole"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Brazil",
+        "regions": [
+            {
+                "name": "Acre",
+                "cities": [
+                    {"name": "Rio Branco"},
+                    {"name": "Cruzeiro do Sul"},
+                    {"name": "Sena Madureira"},
+                    {"name": "Tarauacá"},
+                    {"name": "Feijó"}
+                ]
+            },
+            {
+                "name": "Alagoas",
+                "cities": [
+                    {"name": "Maceió"},
+                    {"name": "Arapiraca"},
+                    {"name": "Palmeira dos Índios"},
+                    {"name": "Rio Largo"},
+                    {"name": "Penedo"}
+                ]
+            },
+            {
+                "name": "Amapá",
+                "cities": [
+                    {"name": "Macapá"},
+                    {"name": "Santana"},
+                    {"name": "Laranjal do Jari"},
+                    {"name": "Tartarugalzinho"},
+                    {"name": "Ferreira Gomes"}
+                ]
+            },
+            {
+                "name": "Amazonas",
+                "cities": [
+                    {"name": "Manaus"},
+                    {"name": "Tabatinga"},
+                    {"name": "Tefé"},
+                    {"name": "Itacoatiara"},
+                    {"name": "Manacapuru"}
+                ]
+            },
+            {
+                "name": "Bahia",
+                "cities": [
+                    {"name": "Salvador"},
+                    {"name": "Feira de Santana"},
+                    {"name": "Vitória da Conquista"},
+                    {"name": "Camaçari"},
+                    {"name": "Ilhéus"}
+                ]
+            },
+            {
+                "name": "Ceará",
+                "cities": [
+                    {"name": "Fortaleza"},
+                    {"name": "Caucaia"},
+                    {"name": "Juazeiro do Norte"},
+                    {"name": "Crato"},
+                    {"name": "Sobral"}
+                ]
+            },
+            {
+                "name": "Distrito Federal",
+                "cities": [
+                    {"name": "Brasília"}
+                ]
+            },
+            {
+                "name": "Espírito Santo",
+                "cities": [
+                    {"name": "Vitória"},
+                    {"name": "Vila Velha"},
+                    {"name": "Serra"},
+                    {"name": "Cariacica"},
+                    {"name": "Guarapari"}
+                ]
+            },
+            {
+                "name": "Goiás",
+                "cities": [
+                    {"name": "Goiânia"},
+                    {"name": "Aparecida de Goiânia"},
+                    {"name": "Anápolis"},
+                    {"name": "Rio Verde"},
+                    {"name": "Goiatuba"}
+                ]
+            },
+            {
+                "name": "Maranhão",
+                "cities": [
+                    {"name": "São Luís"},
+                    {"name": "Imperatriz"},
+                    {"name": "Caxias"},
+                    {"name": "Timon"},
+                    {"name": "Codó"}
+                ]
+            },
+            {
+                "name": "Mato Grosso",
+                "cities": [
+                    {"name": "Cuiabá"},
+                    {"name": "Várzea Grande"},
+                    {"name": "Rondonópolis"},
+                    {"name": "Sinop"},
+                    {"name": "Tangará da Serra"}
+                ]
+            },
+            {
+                "name": "Mato Grosso do Sul",
+                "cities": [
+                    {"name": "Campo Grande"},
+                    {"name": "Dourados"},
+                    {"name": "Três Lagoas"},
+                    {"name": "Corumbá"},
+                    {"name": "Ponta Porã"}
+                ]
+            },
+            {
+                "name": "Minas Gerais",
+                "cities": [
+                    {"name": "Belo Horizonte"},
+                    {"name": "Uberlândia"},
+                    {"name": "Contagem"},
+                    {"name": "Betim"},
+                    {"name": "Juiz de Fora"}
+                ]
+            },
+            {
+                "name": "Pará",
+                "cities": [
+                    {"name": "Belém"},
+                    {"name": "Ananindeua"},
+                    {"name": "Santarém"},
+                    {"name": "Marabá"},
+                    {"name": "Parauapebas"}
+                ]
+            },
+            {
+                "name": "Paraíba",
+                "cities": [
+                    {"name": "João Pessoa"},
+                    {"name": "Campina Grande"},
+                    {"name": "Patos"},
+                    {"name": "Santa Rita"},
+                    {"name": "Bayeux"}
+                ]
+            },
+            {
+                "name": "Paraná",
+                "cities": [
+                    {"name": "Curitiba"},
+                    {"name": "Londrina"},
+                    {"name": "Maringá"},
+                    {"name": "Ponta Grossa"},
+                    {"name": "Cascavel"}
+                ]
+            },
+            {
+                "name": "Pernambuco",
+                "cities": [
+                    {"name": "Recife"},
+                    {"name": "Olinda"},
+                    {"name": "Jaboatão dos Guararapes"},
+                    {"name": "Caruaru"},
+                    {"name": "Petrolina"}
+                ]
+            },
+            {
+                "name": "Piauí",
+                "cities": [
+                    {"name": "Teresina"},
+                    {"name": "Parnaíba"},
+                    {"name": "Picos"},
+                    {"name": "Floriano"},
+                    {"name": "Bom Jesus"}
+                ]
+            },
+            {
+                "name": "Rio de Janeiro",
+                "cities": [
+                    {"name": "Rio de Janeiro"},
+                    {"name": "Niterói"},
+                    {"name": "Duque de Caxias"},
+                    {"name": "Nova Iguaçu"},
+                    {"name": "São Gonçalo"}
+                ]
+            },
+            {
+                "name": "Rio Grande do Norte",
+                "cities": [
+                    {"name": "Natal"},
+                    {"name": "Mossoró"},
+                    {"name": "Parnamirim"},
+                    {"name": "Caicó"},
+                    {"name": "Currais Novos"}
+                ]
+            },
+            {
+                "name": "Rio Grande do Sul",
+                "cities": [
+                    {"name": "Porto Alegre"},
+                    {"name": "Caxias do Sul"},
+                    {"name": "Pelotas"},
+                    {"name": "Santa Maria"},
+                    {"name": "Gravataí"}
+                ]
+            },
+            {
+                "name": "Rondônia",
+                "cities": [
+                    {"name": "Porto Velho"},
+                    {"name": "Ji-Paraná"},
+                    {"name": "Humaitá"},
+                    {"name": "Rolim de Moura"},
+                    {"name": "Cacoal"}
+                ]
+            },
+            {
+                "name": "Roraima",
+                "cities": [
+                    {"name": "Boa Vista"},
+                    {"name": "Rorainópolis"},
+                    {"name": "Caracaraí"},
+                    {"name": "Mucajaí"},
+                    {"name": "Normandia"}
+                ]
+            },
+            {
+                "name": "Santa Catarina",
+                "cities": [
+                    {"name": "Florianópolis"},
+                    {"name": "Joinville"},
+                    {"name": "Blumenau"},
+                    {"name": "Chapecó"},
+                    {"name": "Criciúma"}
+                ]
+            },
+            {
+                "name": "São Paulo",
+                "cities": [
+                    {"name": "São Paulo"},
+                    {"name": "Guarulhos"},
+                    {"name": "Campinas"},
+                    {"name": "São Bernardo do Campo"},
+                    {"name": "São José dos Campos"}
+                ]
+            },
+            {
+                "name": "Sergipe",
+                "cities": [
+                    {"name": "Aracaju"},
+                    {"name": "Lagarto"},
+                    {"name": "Itabaiana"},
+                    {"name": "Nossa Senhora do Socorro"},
+                    {"name": "Estância"}
+                ]
+            },
+            {
+                "name": "Tocantins",
+                "cities": [
+                    {"name": "Palmas"},
+                    {"name": "Araguaína"},
+                    {"name": "Gurupi"},
+                    {"name": "Porto Nacional"},
+                    {"name": "Paraíso do Tocantins"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Brunei",
+        "regions": [
+            {
+                "name": "Brunei-Muara",
+                "cities": [
+                    {"name": "Bandar Seri Begawan"}
+                ]
+            },
+            {
+                "name": "Belait",
+                "cities": [
+                    {"name": "Kuala Belait"}
+                ]
+            },
+            {
+                "name": "Tutong",
+                "cities": [
+                    {"name": "Tutong"}
+                ]
+            },
+            {
+                "name": "Temburong",
+                "cities": [
+                    {"name": "Bangar"}
+                ]
+            },
+            {
+                "name": "Lumut",
+                "cities": [
+                    {"name": "Lumut"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Bulgaria",
+        "regions": [
+            {
+                "name": "Sofia City",
+                "cities": [
+                    {"name": "Sofia"}
+                ]
+            },
+            {
+                "name": "Sofia Province",
+                "cities": [
+                    {"name": "Sofiya"},
+                    {"name": "Samokov"},
+                    {"name": "Kostinbrod"},
+                    {"name": "Bozhurishte"},
+                    {"name": "Elin Pelin"},
+                    {"name": "Gorna Malina"},
+                    {"name": "Dragoman"},
+                    {"name": "Botevgrad"},
+                    {"name": "Svoge"}
+                ]
+            },
+            {
+                "name": "Plovdiv Province",
+                "cities": [
+                    {"name": "Plovdiv"},
+                    {"name": "Asenovgrad"},
+                    {"name": "Koprivshtitsa"},
+                    {"name": "Kazanlak"},
+                    {"name": "Peshtera"},
+                    {"name": "Hissarya"}
+                ]
+            },
+            {
+                "name": "Varna Province",
+                "cities": [
+                    {"name": "Varna"},
+                    {"name": "Devnya"},
+                    {"name": "Vetrino"},
+                    {"name": "Aksakovo"}
+                ]
+            },
+            {
+                "name": "Burgas Province",
+                "cities": [
+                    {"name": "Burgas"},
+                    {"name": "Pomorie"},
+                    {"name": "Sozopol"},
+                    {"name": "Sredets"},
+                    {"name": "Nesebar"}
+                ]
+            },
+            {
+                "name": "Ruse Province",
+                "cities": [
+                    {"name": "Ruse"},
+                    {"name": "Bela Slatina"},
+                    {"name": "Ivanovo"},
+                    {"name": "Dve Mogili"},
+                    {"name": "Slivo Pole"}
+                ]
+            },
+            {
+                "name": "Stara Zagora Province",
+                "cities": [
+                    {"name": "Stara Zagora"},
+                    {"name": "Kazalik"},
+                    {"name": "Chirpan"},
+                    {"name": "Gurkino"}
+                ]
+            },
+            {
+                "name": "Pleven Province",
+                "cities": [
+                    {"name": "Pleven"},
+                    {"name": "Cherven Bryag"},
+                    {"name": "Nikopol"}
+                ]
+            },
+            {
+                "name": "Dobrich Province",
+                "cities": [
+                    {"name": "Dobrich"},
+                    {"name": "Balchik"},
+                    {"name": "Kavarna"}
+                ]
+            },
+            {
+                "name": "Gabrovo Province",
+                "cities": [
+                    {"name": "Gabrovo"},
+                    {"name": "Dryanovo"},
+                    {"name": "Sevlievo"}
+                ]
+            },
+            {
+                "name": "Targovishte Province",
+                "cities": [
+                    {"name": "Targovishte"},
+                    {"name": "Popovo"},
+                    {"name": "Omurtag"}
+                ]
+            },
+            {
+                "name": "Haskovo Province",
+                "cities": [
+                    {"name": "Haskovo"},
+                    {"name": "Dimitrovgrad"},
+                    {"name": "Harmanli"}
+                ]
+            },
+            {
+                "name": "Kardzhali Province",
+                "cities": [
+                    {"name": "Kardzhali"},
+                    {"name": "Krumovgrad"},
+                    {"name": "Momchilgrad"}
+                ]
+            },
+            {
+                "name": "Yambol Province",
+                "cities": [
+                    {"name": "Yambol"},
+                    {"name": "Elhovo"},
+                    {"name": "Straldzha"}
+                ]
+            },
+            {
+                "name": "Silistra Province",
+                "cities": [
+                    {"name": "Silistra"},
+                    {"name": "Alfatar"},
+                    {"name": "Dulovo"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Burkina Faso",
+        "regions": [
+            {
+                "name": "Boucle du Mouhoun",
+                "cities": [
+                    {"name": "Dédougou"},
+                    {"name": "Nouna"},
+                    {"name": "Zangassoré"},
+                    {"name": "Sourou"},
+                    {"name": "Tougan"}
+                ]
+            },
+            {
+                "name": "Cascades",
+                "cities": [
+                    {"name": "Hautes-Bassins"},
+                    {"name": "Banfora"},
+                    {"name": "Manga"},
+                    {"name": "Sikasso"},
+                    {"name": "Douna"}
+                ]
+            },
+            {
+                "name": "Centre",
+                "cities": [
+                    {"name": "Ouagadougou"},
+                    {"name": "Kadiogo"},
+                    {"name": "Ziniaré"},
+                    {"name": "Tao"},
+                    {"name": "Gourcy"}
+                ]
+            },
+            {
+                "name": "Centre-Est",
+                "cities": [
+                    {"name": "Tenkodogo"},
+                    {"name": "Boulsa"},
+                    {"name": "Pô"},
+                    {"name": "Koupéla"},
+                    {"name": "Zorgho"}
+                ]
+            },
+            {
+                "name": "Centre-Nord",
+                "cities": [
+                    {"name": "Kaya"},
+                    {"name": "Koupéla"},
+                    {"name": "Tenkodogo"},
+                    {"name": "Ouahigouya"}
+                ]
+            },
+            {
+                "name": "Centre-Ouest",
+                "cities": [
+                    {"name": "Dédougou"},
+                    {"name": "Nouna"},
+                    {"name": "Tougan"}
+                ]
+            },
+            {
+                "name": "Est",
+                "cities": [
+                    {"name": "Fada N'Gourma"},
+                    {"name": "Manga"},
+                    {"name": "Mouhoun"},
+                    {"name": "Mangodara"}
+                ]
+            },
+            {
+                "name": "Hauts-Bassins",
+                "cities": [
+                    {"name": "Bobo-Dioulasso"},
+                    {"name": "Orodara"},
+                    {"name": "Sikasso"},
+                    {"name": "Kongoussi"}
+                ]
+            },
+            {
+                "name": "Nord",
+                "cities": [
+                    {"name": "Ouahigouya"},
+                    {"name": "Yatenga"},
+                    {"name": "Gorom-Gorom"}
+                ]
+            },
+            {
+                "name": "Plateau-Central",
+                "cities": [
+                    {"name": "Ziniaré"},
+                    {"name": "Kouka"},
+                    {"name": "Pissila"}
+                ]
+            },
+            {
+                "name": "Sahel",
+                "cities": [
+                    {"name": "Dori"},
+                    {"name": "Sebba"},
+                    {"name": "Ouahigouya"},
+                    {"name": "Kongoussi"}
+                ]
+            },
+            {
+                "name": "Sud-Ouest",
+                "cities": [
+                    {"name": "Gaoua"},
+                    {"name": "Léo"},
+                    {"name": "Orodara"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Burundi",
+        "regions": [
+            {
+                "name": "Bujumbura Mairie",
+                "cities": [
+                    {"name": "Bujumbura"}
+                ]
+            },
+            {
+                "name": "Bujumbura Rural",
+                "cities": [
+                    {"name": "Isale"},
+                    {"name": "Mugera"},
+                    {"name": "Kabezi"},
+                    {"name": "Mpanda"},
+                    {"name": "Mutimbuzi"},
+                    {"name": "Nyabiraba"},
+                    {"name": "Rugombo"},
+                    {"name": "Tenga"}
+                ]
+            },
+            {
+                "name": "Gitega",
+                "cities": [
+                    {"name": "Gitega"}
+                ]
+            },
+            {
+                "name": "Makamba",
+                "cities": [
+                    {"name": "Makamba"}
+                ]
+            },
+            {
+                "name": "Muramvya",
+                "cities": [
+                    {"name": "Muramvya"}
+                ]
+            },
+            {
+                "name": "Ngozi",
+                "cities": [
+                    {"name": "Ngozi"}
+                ]
+            },
+            {
+                "name": "Rumonge",
+                "cities": [
+                    {"name": "Rumonge"}
+                ]
+            },
+            {
+                "name": "Karusi",
+                "cities": [
+                    {"name": "Karusi"}
+                ]
+            },
+            {
+                "name": "Kayanza",
+                "cities": [
+                    {"name": "Kayanza"}
+                ]
+            },
+            {
+                "name": "Cankuzo",
+                "cities": [
+                    {"name": "Cankuzo"}
+                ]
+            },
+            {
+                "name": "Rutana",
+                "cities": [
+                    {"name": "Rutana"}
+                ]
+            },
+            {
+                "name": "Bururi",
+                "cities": [
+                    {"name": "Bururi"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Cabo Verde",
+        "regions": [
+            {
+                "name": "Santiago",
+                "cities": [
+                    {"name": "Praia"},
+                    {"name": "Assomada"},
+                    {"name": "Ribeira Brava"},
+                    {"name": "São Domingos"},
+                    {"name": "Tarrafal"}
+                ]
+            },
+            {
+                "name": "São Vicente",
+                "cities": [
+                    {"name": "Mindelo"},
+                    {"name": "São Vicente"}
+                ]
+            },
+            {
+                "name": "Sal",
+                "cities": [
+                    {"name": "Espargos"},
+                    {"name": "Santa Maria"}
+                ]
+            },
+            {
+                "name": "Boa Vista",
+                "cities": [
+                    {"name": "Sal Rei"},
+                    {"name": "Rabil"},
+                    {"name": "Boa Vista"}
+                ]
+            },
+            {
+                "name": "Fogo",
+                "cities": [
+                    {"name": "São Filipe"},
+                    {"name": "Mosteiros"},
+                    {"name": "Santa Catarina do Fogo"}
+                ]
+            },
+            {
+                "name": "Brava",
+                "cities": [
+                    {"name": "Nova Sintra"},
+                    {"name": "Brava"}
+                ]
+            },
+            {
+                "name": "Sao Nicolau",
+                "cities": [
+                    {"name": "Ribera Brava"},
+                    {"name": "São Nicolau"}
+                ]
+            },
+            {
+                "name": "Praia",
+                "cities": [
+                    {"name": "Praia"},
+                    {"name": "Achada de Santo Antonio"},
+                    {"name": "Quebra Canela"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Cambodia",
+        "regions": [
+            {
+                "name": "Phnom Penh",
+                "cities": [
+                    {"name": "Phnom Penh"}
+                ]
+            },
+            {
+                "name": "Battambang",
+                "cities": [
+                    {"name": "Battambang"},
+                    {"name": "Banan"},
+                    {"name": "Sangke"},
+                    {"name": "Ratanak Mondol"},
+                    {"name": "Bong Don"},
+                    {"name": "Aek Phnum"},
+                    {"name": "Koas Krala"}
+                ]
+            },
+            {
+                "name": "Siem Reap",
+                "cities": [
+                    {"name": "Siem Reap"},
+                    {"name": "Angkor"},
+                    {"name": "Sangkat Siem Reap"},
+                    {"name": "Chreav"},
+                    {"name": "Banteay Srei"}
+                ]
+            },
+            {
+                "name": "Kandal",
+                "cities": [
+                    {"name": "Kandal"},
+                    {"name": "Takhmao"},
+                    {"name": "Saang"},
+                    {"name": "Lvea Aem"},
+                    {"name": "Muk Kampoul"}
+                ]
+            },
+            {
+                "name": "Preah Sihanouk",
+                "cities": [
+                    {"name": "Sihanoukville"},
+                    {"name": "Koh Rong"},
+                    {"name": "Prey Nob"}
+                ]
+            },
+            {
+                "name": "Kampong Cham",
+                "cities": [
+                    {"name": "Kampong Cham"},
+                    {"name": "Chhlang"},
+                    {"name": "Kang Meas"},
+                    {"name": "Batheay"},
+                    {"name": "Kampong Siem"}
+                ]
+            },
+            {
+                "name": "Kampot",
+                "cities": [
+                    {"name": "Kampot"},
+                    {"name": "Teuk Chhou"},
+                    {"name": "Chhuk"},
+                    {"name": "Dang Tong"}
+                ]
+            },
+            {
+                "name": "Takeo",
+                "cities": [
+                    {"name": "Takeo"},
+                    {"name": "Bati"},
+                    {"name": "Samraong"}
+                ]
+            },
+            {
+                "name": "Pursat",
+                "cities": [
+                    {"name": "Pursat"},
+                    {"name": "Krakor"},
+                    {"name": "Kompong Luong"}
+                ]
+            },
+            {
+                "name": "Banteay Meanchey",
+                "cities": [
+                    {"name": "Sisophon"},
+                    {"name": "Poipet"},
+                    {"name": "Malai"},
+                    {"name": "Phnom Sruoch"}
+                ]
+            },
+            {
+                "name": "Oddar Meanchey",
+                "cities": [
+                    {"name": "Samraong"}
+                ]
+            },
+            {
+                "name": "Preah Vihear",
+                "cities": [
+                    {"name": "Preah Vihear"},
+                    {"name": "Choam Khsant"},
+                    {"name": "Sangkom Thmei"}
+                ]
+            },
+            {
+                "name": "Stung Treng",
+                "cities": [
+                    {"name": "Stung Treng"},
+                    {"name": "Siem Bok"},
+                    {"name": "Thalaborivath"}
+                ]
+            },
+            {
+                "name": "Ratanakiri",
+                "cities": [
+                    {"name": "Banlung"},
+                    {"name": "O'reang"},
+                    {"name": "Lumphat"}
+                ]
+            },
+            {
+                "name": "Mondulkiri",
+                "cities": [
+                    {"name": "Sen Monorom"}
+                ]
+            },
+            {
+                "name": "Kratie",
+                "cities": [
+                    {"name": "Kratie"},
+                    {"name": "Chhlong"},
+                    {"name": "Snuol"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Cameroon",
+        "regions": [
+            {
+                "name": "Adamaoua",
+                "cities": [
+                    {"name": "Ngaoundéré"},
+                    {"name": "Bélabo"},
+                    {"name": "Meiganga"},
+                    {"name": "Tignère"},
+                    {"name": "Dja"}
+                ]
+            },
+            {
+                "name": "Centre",
+                "cities": [
+                    {"name": "Yaoundé"},
+                    {"name": "Essos"},
+                    {"name": "Biyem-Assi"},
+                    {"name": "Nkolbisson"},
+                    {"name": "Mfoundi"}
+                ]
+            },
+            {
+                "name": "East",
+                "cities": [
+                    {"name": "Bertoua"},
+                    {"name": "Ngoura"},
+                    {"name": "Belabo"},
+                    {"name": "Yoko"}
+                ]
+            },
+            {
+                "name": "Littoral",
+                "cities": [
+                    {"name": "Douala"},
+                    {"name": "Edea"},
+                    {"name": "Loum"},
+                    {"name": "Bonabéri"},
+                    {"name": "Yassa"}
+                ]
+            },
+            {
+                "name": "North",
+                "cities": [
+                    {"name": "Maroua"},
+                    {"name": "Mokolo"},
+                    {"name": "Koza"},
+                    {"name": "Mora"}
+                ]
+            },
+            {
+                "name": "Northwest",
+                "cities": [
+                    {"name": "Bamenda"},
+                    {"name": "Bafut"},
+                    {"name": "Wum"},
+                    {"name": "Limbe"},
+                    {"name": "Donga-Mantung"}
+                ]
+            },
+            {
+                "name": "South",
+                "cities": [
+                    {"name": "Ebolowa"},
+                    {"name": "Mbalmayo"},
+                    {"name": "Bengbis"},
+                    {"name": "Obala"}
+                ]
+            },
+            {
+                "name": "Southwest",
+                "cities": [
+                    {"name": "Buea"},
+                    {"name": "Limbe"},
+                    {"name": "Tiko"},
+                    {"name": "Muyuka"},
+                    {"name": "Banga Bakoko"}
+                ]
+            },
+            {
+                "name": "West",
+                "cities": [
+                    {"name": "Dschang"},
+                    {"name": "Bafoussam"},
+                    {"name": "Dschang"},
+                    {"name": "Santchou"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Canada",
+        "regions": [
+            {
+                "name": "Alberta",
+                "cities": [
+                    {"name": "Edmonton"},
+                    {"name": "Calgary"},
+                    {"name": "Red Deer"},
+                    {"name": "Lethbridge"},
+                    {"name": "St. Albert"}
+                ]
+            },
+            {
+                "name": "British Columbia",
+                "cities": [
+                    {"name": "Victoria"},
+                    {"name": "Vancouver"},
+                    {"name": "Surrey"},
+                    {"name": "Burnaby"},
+                    {"name": "Richmond"}
+                ]
+            },
+            {
+                "name": "Manitoba",
+                "cities": [
+                    {"name": "Winnipeg"},
+                    {"name": "Brandon"},
+                    {"name": "Steinbach"},
+                    {"name": "Thompson"},
+                    {"name": "Selkirk"}
+                ]
+            },
+            {
+                "name": "New Brunswick",
+                "cities": [
+                    {"name": "Fredericton"},
+                    {"name": "Moncton"},
+                    {"name": "Saint John"},
+                    {"name": "Edmundston"},
+                    {"name": "Miramichi"}
+                ]
+            },
+            {
+                "name": "Newfoundland and Labrador",
+                "cities": [
+                    {"name": "St. John's"},
+                    {"name": "Mount Pearl"},
+                    {"name": "Corner Brook"},
+                    {"name": "Gander"},
+                    {"name": "Grand Falls-Windsor"}
+                ]
+            },
+            {
+                "name": "Nova Scotia",
+                "cities": [
+                    {"name": "Halifax"},
+                    {"name": "Sydney"},
+                    {"name": "Dartmouth"},
+                    {"name": "Truro"},
+                    {"name": "New Glasgow"}
+                ]
+            },
+            {
+                "name": "Ontario",
+                "cities": [
+                    {"name": "Toronto"},
+                    {"name": "Ottawa"},
+                    {"name": "Mississauga"},
+                    {"name": "Brampton"},
+                    {"name": "Hamilton"}
+                ]
+            },
+            {
+                "name": "Prince Edward Island",
+                "cities": [
+                    {"name": "Charlottetown"},
+                    {"name": "Summerside"},
+                    {"name": "Montague"},
+                    {"name": "Souris"},
+                    {"name": "Stratford"}
+                ]
+            },
+            {
+                "name": "Quebec",
+                "cities": [
+                    {"name": "Quebec City"},
+                    {"name": "Montreal"},
+                    {"name": "Laval"},
+                    {"name": "Gatineau"},
+                    {"name": "Longueuil"}
+                ]
+            },
+            {
+                "name": "Saskatchewan",
+                "cities": [
+                    {"name": "Regina"},
+                    {"name": "Saskatoon"},
+                    {"name": "Prince Albert"},
+                    {"name": "Moose Jaw"},
+                    {"name": "Swift Current"}
+                ]
+            },
+            {
+                "name": "Yukon",
+                "cities": [
+                    {"name": "Whitehorse"},
+                    {"name": "Dawson City"},
+                    {"name": "Haines Junction"}
+                ]
+            },
+            {
+                "name": "Northwest Territories",
+                "cities": [
+                    {"name": "Yellowknife"},
+                    {"name": "Hay River"},
+                    {"name": "Inuvik"},
+                    {"name": "Fort Smith"}
+                ]
+            },
+            {
+                "name": "Nunavut",
+                "cities": [
+                    {"name": "Iqaluit"},
+                    {"name": "Rankin Inlet"},
+                    {"name": "Arviat"},
+                    {"name": "Baker Lake"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Central African Republic",
+        "regions": [
+            {
+                "region": "Bangui",
+                "cities": [
+                    {"name": "Bangui"}
+                ]
+            },
+            {
+                "region": "Bamingui-Bangoran",
+                "cities": [
+                    {"name": "Bamingui"},
+                    {"name": "Bangoran"},
+                    {"name": "Boganangone"},
+                    {"name": "Bria"}
+                ]
+            },
+            {
+                "region": "Basse-Kotto",
+                "cities": [
+                    {"name": "Mobaye"},
+                    {"name": "Kotto"},
+                    {"name": "Basse-Kotto"}
+                ]
+            },
+            {
+                "region": "Haut-Mbomou",
+                "cities": [
+                    {"name": "Bangassou"},
+                    {"name": "Nola"},
+                    {"name": "Haut-Mbomou"}
+                ]
+            },
+            {
+                "region": "Haut-Kotto",
+                "cities": [
+                    {"name": "Bria"},
+                    {"name": "Alindao"},
+                    {"name": "Bocanda"},
+                    {"name": "Haut-Kotto"}
+                ]
+            },
+            {
+                "region": "Lobaye",
+                "cities": [
+                    {"name": "Mbaïki"},
+                    {"name": "Boda"},
+                    {"name": "Lobaye"}
+                ]
+            },
+            {
+                "region": "Ombella-Mpoko",
+                "cities": [
+                    {"name": "Berberati"},
+                    {"name": "Mambéré-Kadéï"},
+                    {"name": "Ombella-Mpoko"}
+                ]
+            },
+            {
+                "region": "Sangha-Mbaéré",
+                "cities": [
+                    {"name": "Boda"},
+                    {"name": "Nola"},
+                    {"name": "Sangha-Mbaéré"}
+                ]
+            },
+            {
+                "region": "Mambere-Kadei",
+                "cities": [
+                    {"name": "Bokoro"},
+                    {"name": "Sibut"},
+                    {"name": "Mambere-Kadei"}
+                ]
+            },
+            {
+                "region": "Nana-Mambéré",
+                "cities": [
+                    {"name": "Bouar"},
+                    {"name": "Nana-Bakassa"},
+                    {"name": "Nana-Mambéré"}
+                ]
+            },
+            {
+                "region": "Nana-Gribizi",
+                "cities": [
+                    {"name": "Kaga-Bandoro"},
+                    {"name": "Nana-Gribizi"},
+                    {"name": "Banda"},
+                    {"name": "Gribizi"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Chad",
+        "regions": [
+            {
+                "region": "Batanga",
+                "cities": [
+                    {"name": "N'Djamena"},
+                    {"name": "Brahimi"},
+                    {"name": "Moundou"}
+                ]
+            },
+            {
+                "region": "Chari-Baguirmi",
+                "cities": [
+                    {"name": "Mao"},
+                    {"name": "Kelo"},
+                    {"name": "Dourbali"}
+                ]
+            },
+            {
+                "region": "Guéra",
+                "cities": [
+                    {"name": "Mongou"},
+                    {"name": "Sahr"},
+                    {"name": "Goz Beida"}
+                ]
+            },
+            {
+                "region": "Hadjer-Lamis",
+                "cities": [
+                    {"name": "Bokoro"},
+                    {"name": "Mokolo"},
+                    {"name": "Mangalme"}
+                ]
+            },
+            {
+                "region": "Kanem",
+                "cities": [
+                    {"name": "Chad"},
+                    {"name": "Monguno"},
+                    {"name": "Bongor"}
+                ]
+            },
+            {
+                "region": "Lac",
+                "cities": [
+                    {"name": "Bol"},
+                    {"name": "Chad"},
+                    {"name": "Kangala"}
+                ]
+            },
+            {
+                "region": "Logone Occidental",
+                "cities": [
+                    {"name": "Lai"},
+                    {"name": "Sahr"},
+                    {"name": "Moundou"}
+                ]
+            },
+            {
+                "region": "Logone Oriental",
+                "cities": [
+                    {"name": "Gounou"},
+                    {"name": "Kelo"},
+                    {"name": "N'Djamena"}
+                ]
+            },
+            {
+                "region": "May-Kebbi Est",
+                "cities": [
+                    {"name": "Kouba"},
+                    {"name": "Mongou"},
+                    {"name": "Sahr"}
+                ]
+            },
+            {
+                "region": "May-Kebbi Ouest",
+                "cities": [
+                    {"name": "Goré"},
+                    {"name": "Doba"},
+                    {"name": "Mongou"}
+                ]
+            },
+            {
+                "region": "Moyen-Chari",
+                "cities": [
+                    {"name": "Sarh"},
+                    {"name": "Chad"},
+                    {"name": "Mongou"}
+                ]
+            },
+            {
+                "region": "N'Djamena",
+                "cities": [
+                    {"name": "N'Djamena"}
+                ]
+            },
+            {
+                "region": "Tandjilé",
+                "cities": [
+                    {"name": "Bongor"},
+                    {"name": "Lai"},
+                    {"name": "Doba"}
+                ]
+            },
+            {
+                "region": "Wadi Fira",
+                "cities": [
+                    {"name": "Abéché"},
+                    {"name": "Bokoro"},
+                    {"name": "Kebbi"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Chile",
+        "regions": [
+            {
+                "region": "Arica y Parinacota",
+                "cities": [
+                    {"name": "Arica"},
+                    {"name": "Putre"},
+                    {"name": "Camarones"}
+                ]
+            },
+            {
+                "region": "Tarapacá",
+                "cities": [
+                    {"name": "Iquique"},
+                    {"name": "Alto Hospicio"},
+                    {"name": "Pozo Almonte"},
+                    {"name": "Camiña"}
+                ]
+            },
+            {
+                "region": "Antofagasta",
+                "cities": [
+                    {"name": "Antofagasta"},
+                    {"name": "Calama"},
+                    {"name": "Tocopilla"},
+                    {"name": "San Pedro de Atacama"}
+                ]
+            },
+            {
+                "region": "Atacama",
+                "cities": [
+                    {"name": "Copiapó"},
+                    {"name": "Vallenar"},
+                    {"name": "Caldera"},
+                    {"name": "Tierra Amarilla"}
+                ]
+            },
+            {
+                "region": "Coquimbo",
+                "cities": [
+                    {"name": "La Serena"},
+                    {"name": "Coquimbo"},
+                    {"name": "Ovalle"},
+                    {"name": "Vicuña"}
+                ]
+            },
+            {
+                "region": "Valparaíso",
+                "cities": [
+                    {"name": "Valparaíso"},
+                    {"name": "Viña del Mar"},
+                    {"name": "Quilpué"},
+                    {"name": "Villa Alemana"}
+                ]
+            },
+            {
+                "region": "Metropolitana de Santiago",
+                "cities": [
+                    {"name": "Santiago"},
+                    {"name": "Puente Alto"},
+                    {"name": "Maipú"},
+                    {"name": "Las Condes"}
+                ]
+            },
+            {
+                "region": "O'Higgins",
+                "cities": [
+                    {"name": "Rancagua"},
+                    {"name": "Machalí"},
+                    {"name": "Pichilemu"},
+                    {"name": "San Vicente"}
+                ]
+            },
+            {
+                "region": "Maule",
+                "cities": [
+                    {"name": "Talca"},
+                    {"name": "Curicó"},
+                    {"name": "Linares"},
+                    {"name": "Cauquenes"}
+                ]
+            },
+            {
+                "region": "Ñuble",
+                "cities": [
+                    {"name": "Chillán"},
+                    {"name": "El Carmen"},
+                    {"name": "Pemuco"},
+                    {"name": "Bulnes"}
+                ]
+            },
+            {
+                "region": "Biobío",
+                "cities": [
+                    {"name": "Concepción"},
+                    {"name": "Talcahuano"},
+                    {"name": "Los Ángeles"},
+                    {"name": "Coronel"}
+                ]
+            },
+            {
+                "region": "La Araucanía",
+                "cities": [
+                    {"name": "Temuco"},
+                    {"name": "Pucón"},
+                    {"name": "Villarrica"},
+                    {"name": "Freire"}
+                ]
+            },
+            {
+                "region": "Los Ríos",
+                "cities": [
+                    {"name": "Valdivia"},
+                    {"name": "La Unión"},
+                    {"name": "Río Bueno"},
+                    {"name": "Paillaco"}
+                ]
+            },
+            {
+                "region": "Los Lagos",
+                "cities": [
+                    {"name": "Puerto Montt"},
+                    {"name": "Osorno"},
+                    {"name": "Puerto Varas"},
+                    {"name": "Frutillar"}
+                ]
+            },
+            {
+                "region": "Aysén",
+                "cities": [
+                    {"name": "Coyhaique"},
+                    {"name": "Chile Chico"},
+                    {"name": "Puerto Aysén"},
+                    {"name": "Lago Verde"}
+                ]
+            },
+            {
+                "region": "Magallanes y de la Antártica Chilena",
+                "cities": [
+                    {"name": "Punta Arenas"},
+                    {"name": "Puerto Natales"},
+                    {"name": "Porvenir"},
+                    {"name": "Cabo de Hornos"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "China",
+        "regions": [
+            {
+                "region": "Anhui",
+                "cities": [
+                    {"name": "Hefei"},
+                    {"name": "Wuhu"},
+                    {"name": "Bengbu"},
+                    {"name": "Ma'anshan"},
+                    {"name": "Huangshan"},
+                    {"name": "Xuancheng"},
+                    {"name": "Chuzhou"},
+                    {"name": "Fuyang"},
+                    {"name": "Lu'an"},
+                    {"name": "Anqing"},
+                    {"name": "Tongling"},
+                    {"name": "Suzhou"}
+                ]
+            },
+            {
+                "region": "Beijing",
+                "cities": [
+                    {"name": "Beijing"}
+                ]
+            },
+            {
+                "region": "Chongqing",
+                "cities": [
+                    {"name": "Chongqing"}
+                ]
+            },
+            {
+                "region": "Fujian",
+                "cities": [
+                    {"name": "Fuzhou"},
+                    {"name": "Xiamen"},
+                    {"name": "Quanzhou"},
+                    {"name": "Zhangzhou"},
+                    {"name": "Ningde"},
+                    {"name": "Putian"},
+                    {"name": "Sanming"},
+                    {"name": "Longyan"},
+                    {"name": "Xianyou"}
+                ]
+            },
+            {
+                "region": "Gansu",
+                "cities": [
+                    {"name": "Lanzhou"},
+                    {"name": "Jiayuguan"},
+                    {"name": "Baiyin"},
+                    {"name": "Tianshui"},
+                    {"name": "Wuwei"},
+                    {"name": "Zhangye"},
+                    {"name": "Dingxi"},
+                    {"name": "Longnan"},
+                    {"name": "Jiuquan"}
+                ]
+            },
+            {
+                "region": "Guangdong",
+                "cities": [
+                    {"name": "Guangzhou"},
+                    {"name": "Shenzhen"},
+                    {"name": "Dongguan"},
+                    {"name": "Foshan"},
+                    {"name": "Zhongshan"},
+                    {"name": "Zhuhai"},
+                    {"name": "Shaoguan"},
+                    {"name": "Meizhou"},
+                    {"name": "Huizhou"},
+                    {"name": "Yangjiang"}
+                ]
+            },
+            {
+                "region": "Guangxi",
+                "cities": [
+                    {"name": "Nanning"},
+                    {"name": "Guilin"},
+                    {"name": "Liuzhou"},
+                    {"name": "Beihai"},
+                    {"name": "Yulin"},
+                    {"name": "Hezhou"},
+                    {"name": "Laibin"},
+                    {"name": "Wuzhou"},
+                    {"name": "Qinzhou"}
+                ]
+            },
+            {
+                "region": "Guizhou",
+                "cities": [
+                    {"name": "Guiyang"},
+                    {"name": "Zunyi"},
+                    {"name": "Anshun"},
+                    {"name": "Bijie"},
+                    {"name": "Qianxinan"},
+                    {"name": "Tongren"},
+                    {"name": "Liupanshui"}
+                ]
+            },
+            {
+                "region": "Hainan",
+                "cities": [
+                    {"name": "Haikou"},
+                    {"name": "Sanya"},
+                    {"name": "Danzhou"},
+                    {"name": "Qionghai"},
+                    {"name": "Wenchang"},
+                    {"name": "Wuzhishan"},
+                    {"name": "Dongfang"},
+                    {"name": "Chaozhou"}
+                ]
+            },
+            {
+                "region": "Hebei",
+                "cities": [
+                    {"name": "Shijiazhuang"},
+                    {"name": "Tangshan"},
+                    {"name": "Handan"},
+                    {"name": "Xingtai"},
+                    {"name": "Baoding"},
+                    {"name": "Zhangjiakou"},
+                    {"name": "Hengshui"},
+                    {"name": "Langfang"},
+                    {"name": "Cangzhou"}
+                ]
+            },
+            {
+                "region": "Heilongjiang",
+                "cities": [
+                    {"name": "Harbin"},
+                    {"name": "Qiqihar"},
+                    {"name": "Daqing"},
+                    {"name": "Yichun"},
+                    {"name": "Jiamusi"},
+                    {"name": "Heihe"},
+                    {"name": "Suihua"},
+                    {"name": "Mudanjiang"}
+                ]
+            },
+            {
+                "region": "Henan",
+                "cities": [
+                    {"name": "Zhengzhou"},
+                    {"name": "Kaifeng"},
+                    {"name": "Luoyang"},
+                    {"name": "Anyang"},
+                    {"name": "Xinxiang"},
+                    {"name": "Puyang"},
+                    {"name": "Xuchang"},
+                    {"name": "Jiaozuo"},
+                    {"name": "Pingdingshan"},
+                    {"name": "Zhoukou"}
+                ]
+            },
+            {
+                "region": "Hubei",
+                "cities": [
+                    {"name": "Wuhan"},
+                    {"name": "Huangshi"},
+                    {"name": "Shiyan"},
+                    {"name": "Yichang"},
+                    {"name": "Xiangyang"},
+                    {"name": "Jingzhou"},
+                    {"name": "Ezhou"},
+                    {"name": "Xiaogan"},
+                    {"name": "Huanggang"}
+                ]
+            },
+            {
+                "region": "Hunan",
+                "cities": [
+                    {"name": "Changsha"},
+                    {"name": "Zhuzhou"},
+                    {"name": "Xiangtan"},
+                    {"name": "Yiyang"},
+                    {"name": "Chenzhou"},
+                    {"name": "Hengyang"},
+                    {"name": "Shaoyang"},
+                    {"name": "Changde"},
+                    {"name": "Loudi"}
+                ]
+            },
+            {
+                "region": "Jiangsu",
+                "cities": [
+                    {"name": "Nanjing"},
+                    {"name": "Suzhou"},
+                    {"name": "Wuxi"},
+                    {"name": "Xuzhou"},
+                    {"name": "Changzhou"},
+                    {"name": "Nantong"},
+                    {"name": "Lianyungang"},
+                    {"name": "Yangzhou"},
+                    {"name": "Zhenjiang"}
+                ]
+            },
+            {
+                "region": "Jiangxi",
+                "cities": [
+                    {"name": "Nanchang"},
+                    {"name": "Jiujiang"},
+                    {"name": "Pingxiang"},
+                    {"name": "Xinyu"},
+                    {"name": "Yichun"},
+                    {"name": "Ganzhou"},
+                    {"name": "Shangrao"}
+                ]
+            },
+            {
+                "region": "Jilin",
+                "cities": [
+                    {"name": "Changchun"},
+                    {"name": "Jilin"},
+                    {"name": "Yanbian"},
+                    {"name": "Siping"},
+                    {"name": "Liaoyuan"},
+                    {"name": "Tonghua"},
+                    {"name": "Baicheng"}
+                ]
+            },
+            {
+                "region": "Liaoning",
+                "cities": [
+                    {"name": "Shenyang"},
+                    {"name": "Dalian"},
+                    {"name": "Anshan"},
+                    {"name": "Fushun"},
+                    {"name": "Benxi"},
+                    {"name": "Dandong"},
+                    {"name": "Jinzhou"},
+                    {"name": "Yingkou"},
+                    {"name": "Liaoyang"}
+                ]
+            },
+            {
+                "region": "Ningxia",
+                "cities": [
+                    {"name": "Yinchuan"},
+                    {"name": "Shizuishan"},
+                    {"name": "Wuzhong"},
+                    {"name": "Guyuan"}
+                ]
+            },
+            {
+                "region": "Qinghai",
+                "cities": [
+                    {"name": "Xining"},
+                    {"name": "Haidong"},
+                    {"name": "Hainan"},
+                    {"name": "Guoluo"},
+                    {"name": "Yushu"},
+                    {"name": "Tsolho"}
+                ]
+            },
+            {
+                "region": "Shaanxi",
+                "cities": [
+                    {"name": "Xi'an"},
+                    {"name": "Xianyang"},
+                    {"name": "Weinan"},
+                    {"name": "Baoji"},
+                    {"name": "Tongchuan"},
+                    {"name": "Yan'an"},
+                    {"name": "Shangluo"}
+                ]
+            },
+            {
+                "region": "Shandong",
+                "cities": [
+                    {"name": "Jinan"},
+                    {"name": "Qingdao"},
+                    {"name": "Zibo"},
+                    {"name": "Weifang"},
+                    {"name": "Yantai"},
+                    {"name": "Laiwu"},
+                    {"name": "Rizhao"},
+                    {"name": "Dezhou"}
+                ]
+            },
+            {
+                "region": "Shanghai",
+                "cities": [
+                    {"name": "Shanghai"}
+                ]
+            },
+            {
+                "region": "Shanxi",
+                "cities": [
+                    {"name": "Taiyuan"},
+                    {"name": "Datong"},
+                    {"name": "Yangquan"},
+                    {"name": "Changzhi"},
+                    {"name": "Jincheng"},
+                    {"name": "Shuozhou"},
+                    {"name": "Xinzhou"},
+                    {"name": "Shanxi"},
+                    {"name": "Lüliang"},
+                    {"name": "Shanxi"}
+                ]
+            },
+            {
+                "region": "Sichuan",
+                "cities": [
+                    {"name": "Chengdu"},
+                    {"name": "Mianyang"},
+                    {"name": "Deyang"},
+                    {"name": "Nanchong"},
+                    {"name": "Luzhou"},
+                    {"name": "Yibin"},
+                    {"name": "Zigong"},
+                    {"name": "Suining"},
+                    {"name": "Guang'an"},
+                    {"name": "Neijiang"},
+                    {"name": "Xichang"}
+                ]
+            },
+            {
+                "region": "Tianjin",
+                "cities": [
+                    {"name": "Tianjin"}
+                ]
+            },
+            {
+                "region": "Tibet",
+                "cities": [
+                    {"name": "Lhasa"},
+                    {"name": "Shigatse"},
+                    {"name": "Nyingchi"},
+                    {"name": "Ngari"},
+                    {"name": "Chamdo"},
+                    {"name": "Lhokha"}
+                ]
+            },
+            {
+                "region": "Xinjiang",
+                "cities": [
+                    {"name": "Ürümqi"},
+                    {"name": "Karamay"},
+                    {"name": "Ili"},
+                    {"name": "Tacheng"},
+                    {"name": "Hami"},
+                    {"name": "Turpan"},
+                    {"name": "Bortala"},
+                    {"name": "Aksu"},
+                    {"name": "Kizilsu"},
+                    {"name": "Yili"}
+                ]
+            },
+            {
+                "region": "Yunnan",
+                "cities": [
+                    {"name": "Kunming"},
+                    {"name": "Qujing"},
+                    {"name": "Yuxi"},
+                    {"name": "Baoshan"},
+                    {"name": "Lijiang"},
+                    {"name": "Dali"},
+                    {"name": "Zhaotong"},
+                    {"name": "Honghe"},
+                    {"name": "Wenshan"},
+                    {"name": "Nujiang"}
+                ]
+            },
+            {
+                "region": "Zhejiang",
+                "cities": [
+                    {"name": "Hangzhou"},
+                    {"name": "Ningbo"},
+                    {"name": "Wenzhou"},
+                    {"name": "Shaoxing"},
+                    {"name": "Huzhou"},
+                    {"name": "Jiaxing"},
+                    {"name": "Zhoushan"},
+                    {"name": "Lishui"}
+                ]
+            }
+        ]
+    },
+    {
+        "country": "Colombia",
+        "regions": [
+            {
+                "region": "Amazonas",
+                "cities": [
+                    {
+                        "name": "Leticia"
+                    },
+                    {
+                        "name": "Puerto Nariño"
+                    },
+                    {
+                        "name": "Tarapacá"
+                    }
+                ]
+            },
+            {
+                "region": "Antioquia",
+                "cities": [
+                    {
+                        "name": "Medellín"
+                    },
+                    {
+                        "name": "Bello"
+                    },
+                    {
+                        "name": "Itagüí"
+                    },
+                    {
+                        "name": "Envigado"
+                    },
+                    {
+                        "name": "Sabaneta"
+                    },
+                    {
+                        "name": "Caldas"
+                    },
+                    {
+                        "name": "La Estrella"
+                    },
+                    {
+                        "name": "Copacabana"
+                    },
+                    {
+                        "name": "Barbosa"
+                    },
+                    {
+                        "name": "Briceno"
+                    },
+                    {
+                        "name": "Carolina del Príncipe"
+                    },
+                    {
+                        "name": "El Santuario"
+                    },
+                    {
+                        "name": "Girardota"
+                    },
+                    {
+                        "name": "Guarne"
+                    },
+                    {
+                        "name": "Jardín"
+                    },
+                    {
+                        "name": "Rionegro"
+                    },
+                    {
+                        "name": "Sonsón"
+                    },
+                    {
+                        "name": "Yarumal"
+                    }
+                ]
+            },
+            {
+                "region": "Arauca",
+                "cities": [
+                    {
+                        "name": "Arauca"
+                    },
+                    {
+                        "name": "Arauquita"
+                    },
+                    {
+                        "name": "Cravo Norte"
+                    },
+                    {
+                        "name": "Fortul"
+                    },
+                    {
+                        "name": "Saravena"
+                    },
+                    {
+                        "name": "Tame"
+                    }
+                ]
+            },
+            {
+                "region": "Atlántico",
+                "cities": [
+                    {
+                        "name": "Barranquilla"
+                    },
+                    {
+                        "name": "Soledad"
+                    },
+                    {
+                        "name": "Malambo"
+                    },
+                    {
+                        "name": "Puerto Colombia"
+                    },
+                    {
+                        "name": "Baranoa"
+                    },
+                    {
+                        "name": "Sabanalarga"
+                    },
+                    {
+                        "name": "Galapa"
+                    },
+                    {
+                        "name": "Juan de Acosta"
+                    },
+                    {
+                        "name": "Piohacha"
+                    },
+                    {
+                        "name": "Santo Tomás"
+                    },
+                    {
+                        "name": "Candelaria"
+                    },
+                    {
+                        "name": "Luruaco"
+                    },
+                    {
+                        "name": "Repelón"
+                    },
+                    {
+                        "name": "Polonuevo"
+                    }
+                ]
+            },
+            {
+                "region": "Bolívar",
+                "cities": [
+                    {
+                        "name": "Cartagena"
+                    },
+                    {
+                        "name": "Magangué"
+                    },
+                    {
+                        "name": "Turbaco"
+                    },
+                    {
+                        "name": "Arjona"
+                    },
+                    {
+                        "name": "Margarita"
+                    },
+                    {
+                        "name": "San Jacinto"
+                    },
+                    {
+                        "name": "Simpocá"
+                    },
+                    {
+                        "name": "Clemencia"
+                    },
+                    {
+                        "name": "Córdoba"
+                    },
+                    {
+                        "name": "El Carmen de Bolívar"
+                    }
+                ]
+            },
+            {
+                "region": "Boyacá",
+                "cities": [
+                    {
+                        "name": "Tunja"
+                    },
+                    {
+                        "name": "Duitama"
+                    },
+                    {
+                        "name": "Sogamoso"
+                    },
+                    {
+                        "name": "Paipa"
+                    },
+                    {
+                        "name": "Chiquinquirá"
+                    },
+                    {
+                        "name": "Samacá"
+                    },
+                    {
+                        "name": "Oicatá"
+                    },
+                    {
+                        "name": "Nobsa"
+                    },
+                    {
+                        "name": "Tibasosa"
+                    }
+                ]
+            },
+            {
+                "region": "Caldas",
+                "cities": [
+                    {
+                        "name": "Manizales"
+                    },
+                    {
+                        "name": "Villamaría"
+                    },
+                    {
+                        "name": "Chinchiná"
+                    },
+                    {
+                        "name": "Pácora"
+                    },
+                    {
+                        "name": "La Dorada"
+                    },
+                    {
+                        "name": "Riosucio"
+                    },
+                    {
+                        "name": "San Félix"
+                    },
+                    {
+                        "name": "Samaná"
+                    }
+                ]
+            },
+            {
+                "region": "Caquetá",
+                "cities": [
+                    {
+                        "name": "Florencia"
+                    },
+                    {
+                        "name": "San Vicente del Caguán"
+                    },
+                    {
+                        "name": "El Doncello"
+                    },
+                    {
+                        "name": "El Paujil"
+                    },
+                    {
+                        "name": "La Montañita"
+                    },
+                    {
+                        "name": "Solano"
+                    }
+                ]
+            },
+            {
+                "region": "Casanare",
+                "cities": [
+                    {
+                        "name": "Yopal"
+                    },
+                    {
+                        "name": "Aguazul"
+                    },
+                    {
+                        "name": "Hato Corozal"
+                    },
+                    {
+                        "name": "Tauramena"
+                    },
+                    {
+                        "name": "Paz de Ariporo"
+                    },
+                    {
+                        "name": "Chámeza"
+                    },
+                    {
+                        "name": "Sácama"
+                    },
+                    {
+                        "name": "La Salina"
+                    }
+                ]
+            },
+            {
+                "region": "Cauca",
+                "cities": [
+                    {
+                        "name": "Popayán"
+                    },
+                    {
+                        "name": "Santander de Quilichao"
+                    },
+                    {
+                        "name": "Cajibío"
+                    },
+                    {
+                        "name": "El Tambo"
+                    },
+                    {
+                        "name": "Guapí"
+                    },
+                    {
+                        "name": "Patía"
+                    },
+                    {
+                        "name": "Páez"
+                    }
+                ]
+            },
+            {
+                "region": "Cesar",
+                "cities": [
+                    {
+                        "name": "Valledupar"
+                    },
+                    {
+                        "name": "Aguachica"
+                    },
+                    {
+                        "name": "Chimichagua"
+                    },
+                    {
+                        "name": "Codazzi"
+                    },
+                    {
+                        "name": "La Paz"
+                    },
+                    {
+                        "name": "San Diego"
+                    }
+                ]
+            },
+            {
+                "region": "Chocó",
+                "cities": [
+                    {
+                        "name": "Quibdó"
+                    },
+                    {
+                        "name": "Acandí"
+                    },
+                    {
+                        "name": "Istmina"
+                    },
+                    {
+                        "name": "Tadó"
+                    },
+                    {
+                        "name": "Carmen del Darién"
+                    }
+                ]
+            },
+            {
+                "region": "Córdoba",
+                "cities": [
+                    {
+                        "name": "Montería"
+                    },
+                    {
+                        "name": "Cereté"
+                    },
+                    {
+                        "name": "Lorica"
+                    },
+                    {
+                        "name": "Sahagún"
+                    },
+                    {
+                        "name": "Planeta Rica"
+                    }
+                ]
+            },
+            {
+                "region": "Guaviare",
+                "cities": [
+                    {
+                        "name": "San José del Guaviare"
+                    },
+                    {
+                        "name": "Calamar"
+                    },
+                    {
+                        "name": "Miraflores"
+                    },
+                    {
+                        "name": "El Retorno"
+                    }
+                ]
+            },
+            {
+                "region": "Guainía",
+                "cities": [
+                    {
+                        "name": "Inírida"
+                    },
+                    {
+                        "name": "Barranco Minas"
+                    },
+                    {
+                        "name": "La Guadalupe"
+                    },
+                    {
+                        "name": "San Felipe"
+                    }
+                ]
+            },
+            {
+                "region": "Huila",
+                "cities": [
+                    {
+                        "name": "Neiva"
+                    },
+                    {
+                        "name": "Pitalito"
+                    },
+                    {
+                        "name": "La Plata"
+                    },
+                    {
+                        "name": "Teruel"
+                    },
+                    {
+                        "name": "Garzón"
+                    }
+                ]
+            },
+            {
+                "region": "La Guajira",
+                "cities": [
+                    {
+                        "name": "Riohacha"
+                    },
+                    {
+                        "name": "Maicao"
+                    },
+                    {
+                        "name": "Uribia"
+                    },
+                    {
+                        "name": "Manaure"
+                    },
+                    {
+                        "name": "Barrancas"
+                    }
+                ]
+            },
+            {
+                "region": "Magdalena",
+                "cities": [
+                    {
+                        "name": "Santa Marta"
+                    },
+                    {
+                        "name": "Ciénaga"
+                    },
+                    {
+                        "name": "Fundación"
+                    },
+                    {
+                        "name": "El Banco"
+                    },
+                    {
+                        "name": "Aracataca"
+                    }
+                ]
+            },
+            {
+                "region": "Meta",
+                "cities": [
+                    {
+                        "name": "Villavicencio"
+                    },
+                    {
+                        "name": "Acacías"
+                    },
+                    {
+                        "name": "Restrepo"
+                    },
+                    {
+                        "name": "Cumaral"
+                    },
+                    {
+                        "name": "San Martín"
+                    }
+                ]
+            },
+            {
+                "region": "Nariño",
+                "cities": [
+                    {
+                        "name": "Pasto"
+                    },
+                    {
+                        "name": "Tumaco"
+                    },
+                    {
+                        "name": "Ipiales"
+                    },
+                    {
+                        "name": "Puerres"
+                    },
+                    {
+                        "name": "Buesaco"
+                    }
+                ]
+            },
+            {
+                "region": "Norte de Santander",
+                "cities": [
+                    {
+                        "name": "Cúcuta"
+                    },
+                    {
+                        "name": "Pamplona"
+                    },
+                    {
+                        "name": "Ocaña"
+                    },
+                    {
+                        "name": "Villa de Rosario"
+                    },
+                    {
+                        "name": "Los Patios"
+                    }
+                ]
+            },
+            {
+                "region": "Putumayo",
+                "cities": [
+                    {
+                        "name": "Mocoa"
+                    },
+                    {
+                        "name": "Orito"
+                    },
+                    {
+                        "name": "Puerto Asís"
+                    },
+                    {
+                        "name": "San Francisco"
+                    },
+                    {
+                        "name": "Santiago"
+                    }
+                ]
+            },
+            {
+                "region": "Quindío",
+                "cities": [
+                    {
+                        "name": "Armenia"
+                    },
+                    {
+                        "name": "Circasia"
+                    },
+                    {
+                        "name": "Salento"
+                    },
+                    {
+                        "name": "Quimbaya"
+                    },
+                    {
+                        "name": "La Tebaida"
+                    }
+                ]
+            },
+            {
+                "region": "Risaralda",
+                "cities": [
+                    {
+                        "name": "Pereira"
+                    },
+                    {
+                        "name": "Dosquebradas"
+                    },
+                    {
+                        "name": "Santa Rosa de Cabal"
+                    },
+                    {
+                        "name": "La Virginia"
+                    },
+                    {
+                        "name": "Marsella"
+                    }
+                ]
+            },
+            {
+                "region": "San Andrés y Providencia",
+                "cities": [
+                    {
+                        "name": "San Andrés"
+                    },
+                    {
+                        "name": "Providencia"
+                    }
+                ]
+            },
+            {
+                "region": "Santander",
+                "cities": [
+                    {
+                        "name": "Bucaramanga"
+                    },
+                    {
+                        "name": "Floridablanca"
+                    },
+                    {
+                        "name": "Barrancabermeja"
+                    },
+                    {
+                        "name": "Girón"
+                    },
+                    {
+                        "name": "Piedecuesta"
+                    },
+                    {
+                        "name": "Matanza"
+                    },
+                    {
+                        "name": "San Gil"
+                    },
+                    {
+                        "name": "Socorro"
+                    },
+                    {
+                        "name": "Zapatoca"
+                    },
+                    {
+                        "name": "Palmar"
+                    },
+                    {
+                        "name": "Barichara"
+                    }
+                ]
+            },
+            {
+                "region": "Sucre",
+                "cities": [
+                    {
+                        "name": "Sincelejo"
+                    },
+                    {
+                        "name": "Corozal"
+                    },
+                    {
+                        "name": "Sampués"
+                    },
+                    {
+                        "name": "Sincé"
+                    },
+                    {
+                        "name": "Sucre"
+                    },
+                    {
+                        "name": "Caimito"
+                    },
+                    {
+                        "name": "San Onofre"
+                    }
+                ]
+            },
+            {
+                "region": "Tolima",
+                "cities": [
+                    {
+                        "name": "Ibagué"
+                    },
+                    {
+                        "name": "Espinal"
+                    },
+                    {
+                        "name": "Honda"
+                    },
+                    {
+                        "name": "Melgar"
+                    },
+                    {
+                        "name": "Lérida"
+                    },
+                    {
+                        "name": "El Espinal"
+                    },
+                    {
+                        "name": "Saldaña"
+                    }
+                ]
+            },
+            {
+                "region": "Valle del Cauca",
+                "cities": [
+                    {
+                        "name": "Cali"
+                    },
+                    {
+                        "name": "Palmira"
+                    },
+                    {
+                        "name": "Buenaventura"
+                    },
+                    {
+                        "name": "Tuluá"
+                    },
+                    {
+                        "name": "Buga"
+                    },
+                    {
+                        "name": "Candelaria"
+                    },
+                    {
+                        "name": "Yumbo"
+                    },
+                    {
+                        "name": "Roldanillo"
+                    },
+                    {
+                        "name": "Santiago de Cali"
+                    }
+                ]
+            },
+            {
+                "region": "Vaupés",
+                "cities": [
+                    {
+                        "name": "Mitú"
+                    },
+                    {
+                        "name": "Carurú"
+                    },
+                    {
+                        "name": "Papunaua"
+                    },
+                    {
+                        "name": "Taraira"
+                    }
+                ]
+            },
+            {
+                "region": "Vichada",
+                "cities": [
+                    {
+                        "name": "Puerto Carreño"
+                    },
+                    {
+                        "name": "La Primavera"
+                    },
+                    {
+                        "name": "Santa Rosalía"
+                    },
+                    {
+                        "name": "Cumaribo"
+                    }
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Comoros",
+        "regions": [
+            {
+                "name": "Ngazidja",
+                "cities": [
+                    {"name": "Moroni"},
+                    {"name": "Moutsamoudou"},
+                    {"name": "Mitsamiouli"},
+                    {"name": "Iconi"},
+                    {"name": "Moutsamoudou"}
+                ]
+            },
+            {
+                "name": "Ndzuwani",
+                "cities": [
+                    {"name": "Mitsamihuli"},
+                    {"name": "Fomboni"},
+                    {"name": "Sima"},
+                    {"name": "Oichili"},
+                    {"name": "Dzaoudzi"}
+                ]
+            },
+            {
+                "name": "Moheli",
+                "cities": [
+                    {"name": "Fomboni"},
+                    {"name": "Nioumachoua"},
+                    {"name": "Mramani"},
+                    {"name": "Dembeni"},
+                    {"name": "Moutsamoudou"}
+                ]
+            }
+        ]
+    },
+
+    {
+        "country": "Democratic Republic of the Congo",
+        "regions": [
+            {
+                "name": "Kinshasa",
+                "cities": [
+                    {"name": "Kinshasa"}
+                ]
+            },
+            {
+                "name": "Bas-Uele",
+                "cities": [
+                    {"name": "Buta"},
+                    {"name": "Aketi"},
+                    {"name": "Bondo"},
+                    {"name": "Libenge"}
+                ]
+            },
+            {
+                "name": "Haut-Uele",
+                "cities": [
+                    {"name": "Isiro"},
+                    {"name": "Durba"},
+                    {"name": "Watsa"},
+                    {"name": "Bafwasende"}
+                ]
+            },
+            {
+                "name": "Tshuapa",
+                "cities": [
+                    {"name": "Gemena"},
+                    {"name": "Bozene"},
+                    {"name": "Zongo"}
+                ]
+            },
+            {
+                "name": "Équateur",
+                "cities": [
+                    {"name": "Mbandaka"},
+                    {"name": "Libenge"},
+                    {"name": "Bikoro"}
+                ]
+            },
+            {
+                "name": "Tshuapa",
+                "cities": [
+                    {"name": "Gemena"},
+                    {"name": "Bozene"},
+                    {"name": "Zongo"}
+                ]
+            },
+            {
+                "name": "Maï-Ndombe",
+                "cities": [
+                    {"name": "Inongo"},
+                    {"name": "Kisangani"},
+                    {"name": "Mbandaka"}
+                ]
+            },
+            {
+                "name": "Kasaï",
+                "cities": [
+                    {"name": "Lusambo"},
+                    {"name": "Kananga"},
+                    {"name": "Mbuji-Mayi"}
+                ]
+            },
+            {
+                "name": "Kasaï-Central",
+                "cities": [
+                    {"name": "Kananga"},
+                    {"name": "Mbuji-Mayi"}
+                ]
+            },
+            {
+                "name": "Kasaï-Oriental",
+                "cities": [
+                    {"name": "Mbuji-Mayi"},
+                    {"name": "Kamina"},
+                    {"name": "Lusambo"}
+                ]
+            },
+            {
+                "name": "Sankuru",
+                "cities": [
+                    {"name": "Kamina"},
+                    {"name": "Kasaï"},
+                    {"name": "Kisangani"}
+                ]
+            },
+            {
+                "name": "Sud-Ubangi",
+                "cities": [
+                    {"name": "Gbadolite"},
+                    {"name": "Zongo"}
+                ]
+            },
+            {
+                "name": "Uele",
+                "cities": [
+                    {"name": "Aketi"},
+                    {"name": "Buta"},
+                    {"name": "Bondo"}
+                ]
+            },
+            {
+                "name": "Ituri",
+                "cities": [
+                    {"name": "Bunia"},
+                    {"name": "Mongbwalu"}
+                ]
+            },
+            {
+                "name": "Haut-Lomami",
+                "cities": [
+                    {"name": "Kamina"},
+                    {"name": "Lubumbashi"}
+                ]
+            },
+            {
+                "name": "Lualaba",
+                "cities": [
+                    {"name": "Kolwezi"},
+                    {"name": "Likasi"}
+                ]
+            },
+            {
+                "name": "Tanganyika",
+                "cities": [
+                    {"name": "Kalemie"},
+                    {"name": "Manono"},
+                    {"name": "Moba"}
+                ]
+            },
+            {
+                "name": "South Kivu",
+                "cities": [
+                    {"name": "Bukavu"},
+                    {"name": "Uvira"},
+                    {"name": "Fizi"}
+                ]
+            },
+            {
+                "name": "North Kivu",
+                "cities": [
+                    {"name": "Goma"},
+                    {"name": "Beni"},
+                    {"name": "Butembo"}
+                ]
+            }
+        ]
+    },
+
+
+
+
+
+]

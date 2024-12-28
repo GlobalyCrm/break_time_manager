@@ -25,9 +25,6 @@ class BreakLogsController extends Controller
         $this->title = $this->getTableTitle('Settings');
     }
     public function index(){
-//        Artisan::call('config:clear');
-//        Artisan::call('config:cache');
-//        Artisan::call('optimize');
         $employees = User::all();
         date_default_timezone_set("Asia/Tashkent");
         $today_hour = date('H');

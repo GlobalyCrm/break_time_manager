@@ -154,9 +154,8 @@ class HomeController extends Controller
             $next_month_start = date('Y-m-01 00:00:00', strtotime('+1 month'));
             $breakMonthlyLogs = DailyBreakLogs::where('day', '>=', $this_month_start)->where('day', '<', $next_month_start)->where('user_id', $employee->id)->get();
             $interval_month = 0;
-            $this_month_working_seconds = 0;
+            $this_month_working_seconds = 9*28*3600;
             foreach($breakMonthlyLogs as $breakMonthlyLog){
-                $this_month_working_seconds = $this_month_working_seconds + 8*3600;
                 $interval_month = $interval_month + (int)$breakMonthlyLog->seconds;
             }
             $formatted_monthly_time = $this->getFormattedSeconds((int)$interval_month);

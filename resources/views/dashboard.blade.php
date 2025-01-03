@@ -94,7 +94,7 @@
             function r(){}
             r.prototype.respChart=function(r,o,a,e){
                 Chart.defaults.global.defaultFontColor="#6c7897",
-                    Chart.defaults.scale.gridLines.color="rgba(108, 120, 151, 0.1)";
+                Chart.defaults.scale.gridLines.color="rgba(108, 120, 151, 0.1)";
                 // Canvas kontekstini olish va tekshirish
                 var t = r.get(0); // DOM elementni olish
                 if (t) {
@@ -150,14 +150,14 @@
                     this.respChart(s("#pie_{{$key}}"),"Pie",{
                         labels:["{{translate_title('Working hours')}}","{{translate_title('Break hours')}}"],
                         datasets:[{
-                            data:[{{$dailyDate['eight_hour']}}, {{$dailyDate['interval_day']}}],backgroundColor:["#13C12D","#F0090D"],
+                            data:["{{$dailyDate['eight_hour']}}", "{{$dailyDate['interval_day']}}"], backgroundColor:["#13C12D","#F0090D"],
                             hoverBackgroundColor:["#13C12D","#F0090D"],hoverBorderColor:"#fff"
                         }]
                     });
                     this.respChart(s("#pie_monthly_{{$key}}"),"Pie",{
-                        labels:["Desktops","Tablets","Mobiles"],
+                        labels:["Desktops","Tablets"],
                         datasets:[{
-                            data:[{{$dailyDate['this_month_working_seconds']}}, {{$dailyDate['interval_month']}}],backgroundColor:["#13C12D","#F0090D"],
+                            data:["{{$dailyDate['this_month_working_seconds']}}", "{{$dailyDate['interval_month']}}"], backgroundColor:["#13C12D","#F0090D"],
                             hoverBackgroundColor:["#13C12D","#F0090D"],hoverBorderColor:"#fff"
                         }]
                     });
@@ -169,5 +169,4 @@
 
     </script>
     <!-- Init js -->
-    <script src="{{ asset('js/pages/chartjs.init.js') }}"></script>
 @endsection

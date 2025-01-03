@@ -467,7 +467,6 @@
             setDarkContainer(modal_content)
         }
     }
-
     function removeDarkContainer(modal_container){
         if(modal_container != undefined && modal_container != null){
             if(modal_container.classList.contains('back_dark')){

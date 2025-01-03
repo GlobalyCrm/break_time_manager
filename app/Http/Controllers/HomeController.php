@@ -166,14 +166,14 @@ class HomeController extends Controller
             }
             $formatted_time = $this->getFormattedSeconds($the_seconds);
 
-            $eight_hour = 8*3600;
+            $nine_hour = 9*3600;
             $daily_data[] = [
                 'employee'=>$employee_data,
                 'break_time'=>$formatted_time,
                 'break_month_time'=>$formatted_monthly_time,
                 'interval_day'=>$the_seconds,
                 'interval_month'=>$interval_month,
-                'eight_hour'=>$eight_hour,
+                'nine_hour'=>$nine_hour,
                 'this_month_working_seconds'=>$this_month_working_seconds
             ];
         }

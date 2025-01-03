@@ -150,7 +150,7 @@
                     this.respChart(s("#pie_{{$key}}"),"Pie",{
                         labels:["{{translate_title('Working hours')}}","{{translate_title('Break hours')}}"],
                         datasets:[{
-                            data:["{{$dailyDate['eight_hour']}}", "{{$dailyDate['interval_day']}}"], backgroundColor:["#13C12D","#F0090D"],
+                            data:["{{$dailyDate['nine_hour']}}", "{{$dailyDate['interval_day']}}"], backgroundColor:["#13C12D","#F0090D"],
                             hoverBackgroundColor:["#13C12D","#F0090D"],hoverBorderColor:"#fff"
                         }]
                     });

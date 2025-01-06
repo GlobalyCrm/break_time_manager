@@ -33,7 +33,7 @@ class BreakLogsController extends Controller
         if((int)$today_hour>=7 && (int)$today_hour<=23){
             $from_time = date('Y-m-d', strtotime('yesterday 6:30'));
             $to_time = date('Y-m-d 06:30:00');
-        }elseif((int)$today_hour>=0 && (int)$today_hour<5){
+        }elseif((int)$today_hour>=0 && (int)$today_hour<6){
             $from_time = date('Y-m-d', strtotime('before yesterday 6:30'));
             $to_time = date('Y-m-d', strtotime('yesterday 6:30'));
         }
@@ -92,9 +92,6 @@ class BreakLogsController extends Controller
                     $left_daily_break_logs->save();
                 }
             }
-
-
-
         }
 
         $user = Auth::user();

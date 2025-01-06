@@ -338,14 +338,13 @@ class HomeController extends Controller
                 $this_month_start = date('Y-12-01 00:00:00');
                 $next_month_start = date('Y-01-02 00:00:00', strtotime('+1 year'));
                 break;
-            $breakMonthlyLogs = DailyBreakLogs::where('day', '>=', $this_month_start)->where('day', '<', $next_month_start)->where('user_id', $employee_id)->get();
-            dd($breakMonthlyLogs);
-            $interval_month = 0;
-            foreach($breakMonthlyLogs as $breakMonthlyLog){
-                $interval_month = $interval_month + (int)$breakMonthlyLog->seconds;
-            }
-            return $interval_month;
         }
+        $breakMonthlyLogs = DailyBreakLogs::where('day', '>=', $this_month_start)->where('day', '<', $next_month_start)->where('user_id', $employee_id)->get();
+        $interval_month = 0;
+        foreach($breakMonthlyLogs as $breakMonthlyLog){
+            $interval_month = $interval_month + (int)$breakMonthlyLog->seconds;
+        }
+        return $interval_month;
     }
 
 

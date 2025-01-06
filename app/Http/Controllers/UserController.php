@@ -185,23 +185,23 @@ class UserController extends Controller
     public function update(Request $request, string $id)
     {
         $users = User::find($id);
-//        if ($request->password && $request->new_password && $request->password_confirmation) {
-//            if($request->email){
-//                if (Hash::check($request->password, $users->password) && $request->new_password == $request->password_confirmation) {
-//                    $users->password = Hash::make($request->new_password);
-//                }else{
-//                    if(!Hash::check($request->password, $users->password)){
-//                        return redirect()->back()->with('error', translate_title('Your password is incorrect'));
-//                    }elseif($request->new_password != $request->password_confirmation){
-//                        return redirect()->back()->with('error', translate_title('Your new password confirmation is incorrect'));
-//                    }
-//                }
-//            }else{
-//                return redirect()->back()->with('error', translate_title('Your don\'t have email'));
-//            }
-//        }elseif($request->password && $request->new_password && !$request->password_confirmation){
-//            return redirect()->back()->with('error', translate_title('Your new password confirmation is incorrect'));
-//        }
+        if ($request->password && $request->new_password && $request->password_confirmation) {
+            if($request->email){
+                if (Hash::check($request->password, $users->password) && $request->new_password == $request->password_confirmation) {
+                    $users->password = Hash::make($request->new_password);
+                }else{
+                    if(!Hash::check($request->password, $users->password)){
+                        return redirect()->back()->with('error', translate_title('Your password is incorrect'));
+                    }elseif($request->new_password != $request->password_confirmation){
+                        return redirect()->back()->with('error', translate_title('Your new password confirmation is incorrect'));
+                    }
+                }
+            }else{
+                return redirect()->back()->with('error', translate_title('Your don\'t have email'));
+            }
+        }elseif($request->password && $request->new_password && !$request->password_confirmation){
+            return redirect()->back()->with('error', translate_title('Your new password confirmation is incorrect'));
+        }
         $users->password = Hash::make($request->new_password);
         if($users->address){
             $address = $users->address;

@@ -50,29 +50,36 @@
                                         <div class="card">
                                             <div class="card-body">
                                                 <div class="d-flex justify-content-around width_100_percent">
-                                                    <h4>{{$dailyDate['break_month_time']}}</h4>
+                                                    <h4>{{$dailyDate['formatted_this_month_break_time']}}</h4>
                                                     <h4 class="header-title mt-0 mb-3">{{translate_title('This month break time')}}</h4>
                                                 </div>
                                                 <div class="chartjs-chart">
                                                     <canvas id="pie_monthly_{{$key}}" height="300"></canvas>
                                                 </div>
-
                                             </div>
                                         </div>
-
                                     </div><!-- end col-->
                                     <div class="width_540_pixel">
                                         <div class="card">
                                             <div class="card-body">
-                                                <h4 class="header-title mt-0 mb-3">Line Chart</h4>
-
-                                                <div class="chartjs-chart">
-                                                    <canvas id="lineChart_{{$key}}" height="300"></canvas>
-                                                </div>
-
+                                                <table class="tablesaw table mb-0" data-tablesaw-mode="stack">
+                                                    <thead>
+                                                        <tr>
+                                                            <th scope="col" data-tablesaw-sortable-col data-tablesaw-priority="persist">{{translate_title('Month')}}</th>
+                                                            <th scope="col" data-tablesaw-sortable-col data-tablesaw-sortable-default-col data-tablesaw-priority="3">{{translate_title('Break time')}}</th>
+                                                        </tr>
+                                                    </thead>
+                                                    <tbody>
+                                                    @foreach($dailyDate['months'] as $daily_date_month)
+                                                        <tr>
+                                                            <td>{{$daily_date_month['name']}}</td>
+                                                            <td>{{$daily_date_month['break_time']}}</td>
+                                                        </tr>
+                                                    @endforeach
+                                                    </tbody>
+                                                </table>
                                             </div>
                                         </div>
-
                                     </div><!-- end col-->
                                 </div>
                             </div>
@@ -127,26 +134,6 @@
                 s(window).resize(i),i()
             },r.prototype.init=function(){
                 @foreach($daily_data as $key => $dailyDate)
-                    this.respChart(s("#lineChart_{{$key}}"),"Line",{
-                        labels:["January","February","March","April","May","June","July","August","September"],
-                        datasets:[{label:"Sales Analytics",fill:!1,lineTension:.1,backgroundColor:"#039cfd",
-                            borderColor:"#10c469",borderCapStyle:"butt",borderDash:[],borderDashOffset:0,
-                            borderJoinStyle:"miter",pointBorderColor:"#039cfd",pointBackgroundColor:"#fff",pointBorderWidth:1,
-                            pointHoverRadius:5,pointHoverBackgroundColor:"#039cfd",pointHoverBorderColor:"#eef0f2",
-                            pointHoverBorderWidth:2,pointRadius:1,pointHitRadius:10,
-                            data:[65,59,80,81,56,55,40,35,30]
-                        }]
-                    },{
-                        scales:{
-                            yAxes:[
-                                {
-                                    ticks:{
-                                        max:100,min:20,stepSize:10
-                                    }
-                                }
-                            ]
-                        }
-                    });
                     this.respChart(s("#pie_{{$key}}"),"Pie",{
                         labels:["{{translate_title('Working hours')}}","{{translate_title('Break hours')}}"],
                         datasets:[{
@@ -157,7 +144,7 @@
                     this.respChart(s("#pie_monthly_{{$key}}"),"Pie",{
                         labels:["Desktops","Tablets"],
                         datasets:[{
-                            data:["{{$dailyDate['this_month_working_seconds']}}", "{{$dailyDate['interval_month']}}"], backgroundColor:["#13C12D","#F0090D"],
+                            data:["{{$dailyDate['month_time']}}", "{{$dailyDate['this_month_break_time_seconds']}}"], backgroundColor:["#13C12D","#F0090D"],
                             hoverBackgroundColor:["#13C12D","#F0090D"],hoverBorderColor:"#fff"
                         }]
                     });

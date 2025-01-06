@@ -148,17 +148,34 @@ class HomeController extends Controller
                 }
             }
 
-            // O'tgan oyning boshini olish
-            $this_month_start = date('Y-m-01 00:00:00');
-            // Hozirgi oyning boshini olish
-            $next_month_start = date('Y-m-01 00:00:00', strtotime('+1 month'));
-            $breakMonthlyLogs = DailyBreakLogs::where('day', '>=', $this_month_start)->where('day', '<', $next_month_start)->where('user_id', $employee->id)->get();
-            $interval_month = 0;
-            $this_month_working_seconds = 9*28*3600;
-            foreach($breakMonthlyLogs as $breakMonthlyLog){
-                $interval_month = $interval_month + (int)$breakMonthlyLog->seconds;
-            }
-            $formatted_monthly_time = $this->getFormattedSeconds((int)$interval_month);
+            $this_month_break_time_seconds = $this->getMonthBreakTime('this month', $employee->id);
+
+            $formatted_this_month_break_time = $this->getFormattedSeconds((int)$this_month_break_time_seconds);
+
+            $january_break_time_seconds = $this->getMonthBreakTime('January', $employee->id);
+            $formatted_january_break_time = $this->getFormattedSeconds((int)$january_break_time_seconds);
+            $february_break_time_seconds = $this->getMonthBreakTime('February', $employee->id);
+            $formatted_february_break_time = $this->getFormattedSeconds((int)$february_break_time_seconds);
+            $march_break_time_seconds = $this->getMonthBreakTime('March', $employee->id);
+            $formatted_march_break_time = $this->getFormattedSeconds((int)$march_break_time_seconds);
+            $april_break_time_seconds = $this->getMonthBreakTime('April', $employee->id);
+            $formatted_april_break_time = $this->getFormattedSeconds((int)$april_break_time_seconds);
+            $may_break_time_seconds = $this->getMonthBreakTime('May', $employee->id);
+            $formatted_may_break_time = $this->getFormattedSeconds((int)$may_break_time_seconds);
+            $june_break_time_seconds = $this->getMonthBreakTime('June', $employee->id);
+            $formatted_june_break_time = $this->getFormattedSeconds((int)$june_break_time_seconds);
+            $july_break_time_seconds = $this->getMonthBreakTime('July', $employee->id);
+            $formatted_july_break_time = $this->getFormattedSeconds((int)$july_break_time_seconds);
+            $august_break_time_seconds = $this->getMonthBreakTime('August', $employee->id);
+            $formatted_august_break_time = $this->getFormattedSeconds((int)$august_break_time_seconds);
+            $september_break_time_seconds = $this->getMonthBreakTime('September', $employee->id);
+            $formatted_september_break_time = $this->getFormattedSeconds((int)$september_break_time_seconds);
+            $october_break_time_seconds = $this->getMonthBreakTime('October', $employee->id);
+            $formatted_october_break_time = $this->getFormattedSeconds((int)$october_break_time_seconds);
+            $november_break_time_seconds = $this->getMonthBreakTime('November', $employee->id);
+            $formatted_november_break_time = $this->getFormattedSeconds((int)$november_break_time_seconds);
+            $december_break_time_seconds = $this->getMonthBreakTime('December', $employee->id);
+            $formatted_december_break_time = $this->getFormattedSeconds((int)$december_break_time_seconds);
 
             $the_seconds = 0;
             if($yesterday_daily_break_logs){
@@ -167,14 +184,65 @@ class HomeController extends Controller
             $formatted_time = $this->getFormattedSeconds($the_seconds);
 
             $nine_hour = 9*3600;
+            $month_time = 9*28*3600;
             $daily_data[] = [
                 'employee'=>$employee_data,
                 'break_time'=>$formatted_time,
-                'break_month_time'=>$formatted_monthly_time,
+                'month_time'=>$month_time,
                 'interval_day'=>$the_seconds,
-                'interval_month'=>$interval_month,
+                'formatted_this_month_break_time'=>$formatted_this_month_break_time,
                 'nine_hour'=>$nine_hour,
-                'this_month_working_seconds'=>$this_month_working_seconds
+                'this_month_break_time_seconds'=>$this_month_break_time_seconds,
+                'months'=>[
+                    [
+                      'name'=>translate_title('January'),
+                      'break_time'=>$formatted_january_break_time,
+                    ],
+                    [
+                      'name'=>translate_title('February'),
+                      'break_time'=>$formatted_february_break_time,
+                    ],
+                    [
+                      'name'=>translate_title('March'),
+                      'break_time'=>$formatted_march_break_time,
+                    ],
+                    [
+                      'name'=>translate_title('April'),
+                      'break_time'=>$formatted_april_break_time,
+                    ],
+                    [
+                      'name'=>translate_title('May'),
+                      'break_time'=>$formatted_may_break_time,
+                    ],
+                    [
+                      'name'=>translate_title('June'),
+                      'break_time'=>$formatted_june_break_time,
+                    ],
+                    [
+                      'name'=>translate_title('July'),
+                      'break_time'=>$formatted_july_break_time,
+                    ],
+                    [
+                      'name'=>translate_title('August'),
+                      'break_time'=>$formatted_august_break_time,
+                    ],
+                    [
+                      'name'=>translate_title('September'),
+                      'break_time'=>$formatted_september_break_time,
+                    ],
+                    [
+                      'name'=>translate_title('October'),
+                      'break_time'=>$formatted_october_break_time,
+                    ],
+                    [
+                      'name'=>translate_title('November'),
+                      'break_time'=>$formatted_november_break_time,
+                    ],
+                    [
+                      'name'=>translate_title('December'),
+                      'break_time'=>$formatted_december_break_time,
+                    ],
+                ]
             ];
         }
         return view('dashboard', [
@@ -213,6 +281,73 @@ class HomeController extends Controller
         }
         return $hour.':'.$minute.':'.$second;
     }
+
+    function getMonthBreakTime($month, $employee_id){
+        $this_month_start = '';
+        $next_month_start = '';
+        switch($month){
+            case 'this month':
+                $this_month_start = date('Y-m-01 00:00:00');
+                $next_month_start = date('Y-m-01 00:00:00', strtotime('+1 month'));
+                break;
+            case 'January':
+                $this_month_start = date('Y-01-01 00:00:00');
+                $next_month_start = date('Y-02-01 00:00:00');
+                break;
+            case 'February':
+                $this_month_start = date('Y-02-01 00:00:00');
+                $next_month_start = date('Y-03-01 00:00:00');
+                break;
+            case 'March':
+                $this_month_start = date('Y-03-01 00:00:00');
+                $next_month_start = date('Y-04-02 00:00:00');
+                break;
+            case 'April':
+                $this_month_start = date('Y-04-01 00:00:00');
+                $next_month_start = date('Y-05-02 00:00:00');
+                break;
+            case 'May':
+                $this_month_start = date('Y-05-01 00:00:00');
+                $next_month_start = date('Y-06-02 00:00:00');
+                break;
+            case 'June':
+                $this_month_start = date('Y-06-01 00:00:00');
+                $next_month_start = date('Y-07-02 00:00:00');
+                break;
+            case 'July':
+                $this_month_start = date('Y-07-01 00:00:00');
+                $next_month_start = date('Y-08-02 00:00:00');
+                break;
+            case 'August':
+                $this_month_start = date('Y-08-01 00:00:00');
+                $next_month_start = date('Y-09-02 00:00:00');
+                break;
+            case 'September':
+                $this_month_start = date('Y-09-01 00:00:00');
+                $next_month_start = date('Y-10-02 00:00:00');
+                break;
+            case 'October':
+                $this_month_start = date('Y-10-01 00:00:00');
+                $next_month_start = date('Y-11-02 00:00:00');
+                break;
+            case 'November':
+                $this_month_start = date('Y-11-01 00:00:00');
+                $next_month_start = date('Y-12-02 00:00:00');
+                break;
+            case 'December':
+                $this_month_start = date('Y-12-01 00:00:00');
+                $next_month_start = date('Y-01-02 00:00:00', strtotime('+1 year'));
+                break;
+            $breakMonthlyLogs = DailyBreakLogs::where('day', '>=', $this_month_start)->where('day', '<', $next_month_start)->where('user_id', $employee_id)->get();
+            dd($breakMonthlyLogs);
+            $interval_month = 0;
+            foreach($breakMonthlyLogs as $breakMonthlyLog){
+                $interval_month = $interval_month + (int)$breakMonthlyLog->seconds;
+            }
+            return $interval_month;
+        }
+    }
+
 
     public function welcome(){
 

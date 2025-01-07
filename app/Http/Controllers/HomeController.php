@@ -55,7 +55,7 @@ class HomeController extends Controller
             $unuse_break_log->delete();
         }
 
-        $too_long_break_logs = BreakLogs::whereNull('break_start', '<', date('Y-m-d H:i:s', strtotime('-4 hours')))->get();
+        $too_long_break_logs = BreakLogs::where('break_start', '<', date('Y-m-d H:i:s', strtotime('-4 hours')))->get();
         foreach($too_long_break_logs as $too_long_break_log){
             $too_long_break_log->delete();
         }

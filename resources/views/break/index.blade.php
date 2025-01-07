@@ -8,21 +8,21 @@
             height: 100%;
         }
 
-        .video-background {
-            position: fixed;
-            top: 0;
-            left: 0;
-            width: 100%;
-            height: 100%;
-            overflow: hidden;
-            z-index: -1; /* Video orqada qoladi */
-        }
+        /*.video-background {*/
+        /*    position: fixed;*/
+        /*    top: 0;*/
+        /*    left: 0;*/
+        /*    width: 100%;*/
+        /*    height: 100%;*/
+        /*    overflow: hidden;*/
+        /*    z-index: -1; !* Video orqada qoladi *!*/
+        /*}*/
 
-        .video-background video {
-            min-width: 100%;
-            min-height: 100%;
-            object-fit: cover; /* Video kattalashib, joyni to‘ldiradi */
-        }
+        /*.video-background video {*/
+        /*    min-width: 100%;*/
+        /*    min-height: 100%;*/
+        /*    object-fit: cover; !* Video kattalashib, joyni to‘ldiradi *!*/
+        /*}*/
 
         .break_time_page a[type='button']{
             z-index: 6;
@@ -53,11 +53,11 @@
                 <h1 id="timer">00:00:00</h1>
             </div>
         </div>
-        <div class="video-background">
-            <video autoplay loop muted playsinline>
-                <source src="{{asset('images/back/christmas_tree.mp4')}}" type="video/mp4">
-            </video>
-        </div>
+{{--        <div class="video-background">--}}
+{{--            <video autoplay loop muted playsinline>--}}
+{{--                <source src="{{asset('images/back/christmas_tree.mp4')}}" type="video/mp4">--}}
+{{--            </video>--}}
+{{--        </div>--}}
     </div>
 
     <script>

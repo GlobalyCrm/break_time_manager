@@ -244,6 +244,7 @@ class HomeController extends Controller
                     ],
                 ]
             ];
+
         }
         return view('dashboard', [
             'title'=>$this->title,

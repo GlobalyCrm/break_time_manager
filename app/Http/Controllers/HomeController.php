@@ -54,10 +54,17 @@ class HomeController extends Controller
         foreach($unuse_break_logs as $unuse_break_log){
             $unuse_break_log->delete();
         }
-
-        $too_long_break_logs = BreakLogs::where('break_start', '<', date('Y-m-d H:i:s', strtotime('-4 hours')))->get();
-        foreach($too_long_break_logs as $too_long_break_log){
-            $too_long_break_log->delete();
+        $started_break_logs = BreakLogs::whereNotNull('break_start')->where('break_start', '<', date('Y-m-d H:i:s', strtotime('-4 hours')))->get();
+        foreach($started_break_logs as $started_break_log){
+            if(!$started_break_log->getBreakEnd){
+                $started_break_log->delete();
+            }
+        }
+        $ended_break_logs = BreakLogs::whereNotNull('break_end')->get();
+        foreach($ended_break_logs as $ended_break_log){
+            if(!$ended_break_log->getBreakStart){
+                $ended_break_log->delete();
+            }
         }
 
         foreach($employees as $employee){

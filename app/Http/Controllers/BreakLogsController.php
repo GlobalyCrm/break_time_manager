@@ -107,23 +107,6 @@ class BreakLogsController extends Controller
             }
         }
 
-//        if((int)$today_hour>=20 && (int)$today_hour<=23){
-//            $from_time = date('Y-m-d H:i:s', strtotime('today'));
-//            $to_time = date('Y-m-d H:i:s', strtotime('tomorrow 6:00'));
-//        }elseif((int)$today_hour>=0 && (int)$today_hour<7){
-//            $from_time = date('Y-m-d H:i:s', strtotime('yesterday 20:00'));
-//            $to_time = date('Y-m-d 05:00:00', strtotime('today'));
-//        }else{
-//            return [];
-//        }
-//        $breakLogsTodayStarted = BreakLogs::where('created_at', '>=', $from_time)->where('created_at', '<', $to_time)->whereNull('break_end')->latest('created_at')->first();
-//        if($breakLogsTodayStarted){
-//            if(!$breakLogsTodayStarted->getBreakEnd){
-//                $today_now_strtotime = strtotime($now);
-//                $today_start_strtotime = strtotime($breakLogsTodayStarted->break_start);
-//                $interval_day = $interval_day + $today_now_strtotime - $today_start_strtotime;
-//            }
-//        }
         if($user->images) {
             $images_ = json_decode($user->images);
             $is_image = 0;

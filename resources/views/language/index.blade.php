@@ -19,32 +19,6 @@
                 <div class="card-body">
                     <div class="tab-content" id="myTabContent">
                         <div class="tab-pane fade show active" id="language" role="tabpanel" aria-labelledby="language-tab">
-                            <form class="parsley-examples" action="{{ route('env_key_update.update') }}" method="POST">
-                                @csrf
-                                <div class="row">
-                                    <div class="col-md-4">
-                                        <h2>{{ translate_title('Default language') }}</h2>
-                                    </div>
-                                    <div class="col-md-2 ">
-                                        <div class=" mt-2">
-                                            <input type="hidden" name="types[]" value="DEFAULT_LANGUAGE">
-                                            <select  class="form-select"    id="country" name="DEFAULT_LANGUAGE">
-                                                @foreach ($languages as $key => $language)
-                                                    <option value="{{ $language->code??'' }}" <?php if (env('DEFAULT_LANGUAGE') == $language->code??'') {
-                                                        echo 'selected';
-                                                    } ?>>
-                                                        {{ $language->name??'' }}
-                                                    </option>
-                                                @endforeach
-                                            </select>
-                                        </div>
-                                    </div>
-                                    <div class="col-md-3">
-                                        <button type="submit" class="btn edit_button mt-2">{{ translate_title('Save') }}</button>
-                                    </div>
-                                </div>
-
-                            </form>
                             <table class="table mt-2" style="text-align:center !important">
                                 <thead class="table-light">
                                     <tr>
@@ -66,19 +40,15 @@
                                             <td> {{ $value->name??'' }}</td>
                                             <td>{{ $value->code??'' }}</td>
                                             <td>
-                                                <a href="{{ route('language.show', $value->id) }}"
+                                                <a class="btn edit_button" href="{{ route('language.show', $value->id) }}"
                                                    title="{{ translate_title('Translation') }}"  >
-                                                    <button type="button" class="btn edit_button waves-effect waves-light">
-                                                        <i class="fa fa-language"></i>
-                                                    </button>
+                                                   <i class="fa fa-eye"></i>
                                                 </a>
-                                                <a href="{{ route('language.edit', encrypt($value->id)) }}">
-                                                    <button type="button" class="btn edit_button waves-effect waves-light">
-                                                        <img src="{{asset('img/edit_icon.png')}}" alt="" height="18px">
-                                                    </button>
+                                                <a class="btn edit_button" href="{{ route('language.edit', encrypt($value->id)) }}">
+                                                   <img src="{{asset('img/edit_icon.png')}}" alt="" height="18px">
                                                 </a>
                                                 @if ($value->code != 'en')
-                                                    <button type="button" class="btn delete_button" data-bs-toggle="modal" data-bs-target="#delete_modal" data-url="{{ route('language.destroy', $language->id) }}">
+                                                    <button type="button" class="btn delete_button" data-bs-toggle="modal" data-bs-target="#delete_modal" data-url="{{ route('language.destroy', $value->id) }}">
                                                         <img src="{{asset('img/trash_icon.png')}}" alt="" height="18px">
                                                     </button>
                                                 @endif
@@ -112,7 +82,9 @@
             </div>
         </div>
     </div>
-
+    <script>
+        let language_update_url = "{{route('languages.update_value')}}"
+    </script>
     <script src="{{ asset('js/language.js') }}"></script>
 
 @endsection

@@ -59,6 +59,9 @@
     </div>
 
 
+    <script>
+        let language_update_url = "{{route('languages.update_value')}}"
+    </script>
 <script src="{{ asset('js/language.js') }}"></script>
 
 @endsection

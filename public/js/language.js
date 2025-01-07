@@ -1,9 +1,7 @@
-let languages_url="/language/language/update/value"
 function copyTranslation() {
     $('.lang_key').each(function(index) {
             var _this = $(this)
-
-            $.post(languages_url, {
+            $.post(language_update_url, {
                 _token: $('input[name=_token]').val(),
                 id: index,
                 code: document.getElementById("language_code").value,

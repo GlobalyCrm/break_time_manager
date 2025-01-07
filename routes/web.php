@@ -29,6 +29,7 @@ Route::group(['middleware'=>['isEmployee', 'language']], function(){
     Route::get('/break-logs', [BreakLogsController::class, 'index'])->name('break_logs');
 });
 
+Route::post('/language/change/', [LanguageController::class, 'changeLanguage'])->name('language.change');
 Route::group(['middleware'=>['isAdmin', 'language'], 'prefix'=>'admin'], function(){
 
     Route::get('/', [HomeController::class, 'dashboard'])->name('dashboard');
@@ -47,7 +48,6 @@ Route::group(['middleware'=>['isAdmin', 'language'], 'prefix'=>'admin'], functio
         Route::get('/', [LanguageController::class, 'index'])->name('language.index');
         Route::get('/language/show/{id}', [LanguageController::class, 'show'])->name('language.show');
         Route::post('/translation/save/', [LanguageController::class, 'translation_save'])->name('translation.save');
-        Route::post('/language/change/', [LanguageController::class, 'changeLanguage'])->name('language.change');
         Route::post('/env_key_update', [LanguageController::class, 'env_key_update'])->name('env_key_update.update');
         Route::get('/language/create/', [LanguageController::class, 'create'])->name('languages.create');
         Route::post('/language/added/', [LanguageController::class, 'store'])->name('languages.store');

@@ -56,7 +56,8 @@ class User extends Authenticatable
             $from_time = date('Y-m-d H:i:s', strtotime('yesterday 20:00'));
             $to_time = date('Y-m-d 05:00:00', strtotime('today'));
         }else{
-            return $this->hasMany(BreakLogs::class, 'user_id', 'id')->whereRaw('1 = 0');
+            $from_time = date('y-m-d 23:00:00');
+            $to_time = date('y-m-d 22:00:00');
         }
         return $this->hasMany(BreakLogs::class, 'user_id', 'id')->where('created_at', '>=', $from_time)->where('created_at', '<', $to_time)->whereNULL('break_start');
     }

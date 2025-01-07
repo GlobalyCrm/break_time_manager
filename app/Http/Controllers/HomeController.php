@@ -50,7 +50,8 @@ class HomeController extends Controller
             $to_time = date('Y-m-d', strtotime('yesterday 6:30'));
         }
 
-        $unuse_break_logs = BreakLogs::whereNull('break_start')->whereNull('break_start_id')->get();
+
+        $unuse_break_logs = BreakLogs::whereNull('break_start', '<', date('Y-m-d H:i:s', strtotime('-4 hours')))->whereNull('break_start_id')->get();
         foreach($unuse_break_logs as $unuse_break_log){
             $unuse_break_log->delete();
         }

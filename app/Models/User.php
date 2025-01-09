@@ -62,6 +62,32 @@ class User extends Authenticatable
         return $this->hasMany(BreakLogs::class, 'user_id', 'id')->where('created_at', '>=', $from_time)->where('created_at', '<', $to_time)->whereNULL('break_start');
     }
 
+    public function breakLogsTodayStartedLast()
+    {
+        date_default_timezone_set("Asia/Tashkent");
+
+        $today_hour = date('H');
+
+        if ((int)$today_hour >= 20 && (int)$today_hour <= 23) {
+            $from_time = date('Y-m-d H:i:s', strtotime('today'));
+            $to_time = date('Y-m-d H:i:s', strtotime('tomorrow 6:00'));
+        } elseif ((int)$today_hour >= 0 && (int)$today_hour < 7) {
+            $from_time = date('Y-m-d H:i:s', strtotime('yesterday 20:00'));
+            $to_time = date('Y-m-d 05:00:00', strtotime('today'));
+        } else {
+            // This condition seems incorrect; check if this logic is right
+            $from_time = date('Y-m-d 23:00:00');
+            $to_time = date('Y-m-d 22:00:00');
+        }
+
+        // Return the relationship without the first() method
+        return $this->hasOne(BreakLogs::class, 'user_id', 'id')
+            ->where('created_at', '>=', $from_time)
+            ->where('created_at', '<', $to_time)
+            ->whereNotNull('break_start')
+            ->orderBy('created_at', 'desc');
+    }
+
     public function breakLogsYesterday(){
         date_default_timezone_set("Asia/Tashkent");
         $today_hour = date('H');

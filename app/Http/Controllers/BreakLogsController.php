@@ -106,7 +106,12 @@ class BreakLogsController extends Controller
                 $interval_day = $interval_day + $today_end_strtotime - $today_start_strtotime;
             }
         }
-
+        $breakLogsTodayStartedLast = $user->breakLogsTodayStartedLast;
+        if($breakLogsTodayStartedLast){
+            if(!$breakLogsTodayStartedLast->getBreakEnd){
+                $interval_day = $interval_day + strtotime($now) - strtotime($breakLogsTodayStartedLast->break_start);
+            }
+        }
         if($user->images) {
             $images_ = json_decode($user->images);
             $is_image = 0;
@@ -193,5 +198,53 @@ class BreakLogsController extends Controller
             'status_activate_text'=>$status_activate_text,
             'status_disactivate_text'=>$status_disactivate_text,
         ]);
+    }
+
+    function getCorrectSeconds(Request $request){
+        date_default_timezone_set("Asia/Tashkent");
+        $user = '';
+        $now = date('Y-m-d H:i:s');
+        if($request->user_id){
+            $user = User::where('id', $request->user_id)->first();
+        }
+        $interval_day = 0;
+        $last_break_log = '';
+        if($user){
+            $get_break_logs_today = $user->breakLogsToday;
+            foreach($get_break_logs_today as $get_break_log){
+                $today_end_strtotime = strtotime($get_break_log->break_end);
+                $get_break_start = $get_break_log->getBreakStart;
+                if($get_break_start){
+                    $today_start_strtotime = strtotime($get_break_start->break_start);
+                    $interval_day = $interval_day + $today_end_strtotime - $today_start_strtotime;
+                }
+                $last_break_log = $get_break_log->getBreakStart;
+            }
+            $breakLogsTodayStartedLast = $user->breakLogsTodayStartedLast;
+            if($breakLogsTodayStartedLast){
+                if(!$breakLogsTodayStartedLast->getBreakEnd){
+                    $interval_day = $interval_day + strtotime($now) - strtotime($breakLogsTodayStartedLast->break_start);
+                    return response()->json([strtotime($now), strtotime($breakLogsTodayStartedLast->break_start)]);
+                }
+            }
+        }
+        $status = '';
+        if($last_break_log){
+            if($last_break_log){
+                $status = 'active';
+            }
+        }elseif($last_break_log != ''){
+            $status = 'not_active';
+        }else{
+            $status = 'no';
+        }
+        $response = [
+            'status'=>true,
+            'seconds'=>$interval_day,
+            'break_status'=>$status
+        ];
+
+        return response()->json($response);
+
     }
 }

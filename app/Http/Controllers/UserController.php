@@ -324,16 +324,14 @@ class UserController extends Controller
     public function changeStatus(Request $request){
         $user = User::find($request->user_id);
         $user->status = $request->status;
+        $status = '';
         $user->save();
-        $response = [
-            'status'=>true,
-            'message'=>'Success'
-        ];
         $break_logs = new BreakLogs();
         $break_logs->user_id = $user->id;
         $break_logs_last = BreakLogs::where('user_id', $user->id)->orderBy('created_at', 'desc')->first();
         if((int)$user->status == Constants::ACTIVE){
             $break_logs->break_start = date('Y-m-d H:i:s');
+            $status = 'active';
         }elseif((int)$user->status == Constants::NOT_ACTIVE){
             $break_logs->break_end = date('Y-m-d H:i:s');
             if($break_logs_last){
@@ -341,7 +339,13 @@ class UserController extends Controller
                     $break_logs->break_start_id = $break_logs_last->id;
                 }
             }
+            $status = 'not_active';
         }
+        $response = [
+            'status'=>true,
+            'message'=>'Success',
+            'break_status'=>$status
+        ];
         $break_logs->save();
         return response()->json($response);
     }

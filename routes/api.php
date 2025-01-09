@@ -19,6 +19,8 @@ use Illuminate\Support\Facades\Route;
 
 Route::get('get-districts', [HomeController::class, 'getCities']);
 
+Route::get('get-correct-seconds', [\App\Http\Controllers\BreakLogsController::class, 'getCorrectSeconds'])->name('getCorrectSeconds');
+
 Route::post('/user-store', [UserController::class, 'userStore'])->name('user_store');
 
 Route::post('delete-product', [UserController::class, 'deleteProductImage']);

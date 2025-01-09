@@ -66,17 +66,63 @@
         let disactive_status_content = document.getElementById('disactive_status_content')
         let selected_status = "{{$user_self['status_']}}"
         let user_id = "{{$user_self['id']}}"
+        let isPlayed = selected_status
+
 
         let disactivate = "{{\App\Constants::NOT_ACTIVE}}"
 
         let timer;
+
+
+        function getCorrectSeconds(param_user_id){
+            let response_data = ''
+            // AJAX so'rovini yuborish
+            $.ajax({
+                url: "/../api/get-correct-seconds",
+                method: 'GET',
+                data: {
+                    'user_id':param_user_id
+                },
+                success: function (data) {
+                    console.log(data)
+                    response_data = data
+                    if(response_data.status == true){
+                        seconds = parseInt(data.seconds)
+                        if(data.break_status == 'active'){
+                            isPlayed = true
+                        }else if(data.break_status == 'not_active'){
+                            isPlayed = false
+                        }else{
+                            isPlayed = false
+                        }
+                        clearInterval(timer);
+                        startTimer()
+                    }
+                },
+                error: function (xhr, status, error) {
+                    // Xatolarni qayta ishlash
+                    console.log(xhr.responseText);
+                    console.log(error)
+                    toastr.error('An error occurred: ' + xhr.status + ' ' + error);
+                }
+            });
+        }
+        if(isPlayed){
+            setInterval(function () {
+                if(isPlayed){
+                    getCorrectSeconds(user_id)
+                }
+            }, 30000)
+        }
         let seconds = parseInt('{{$interval_day}}');
         const timerDisplay = document.getElementById("timer");
         if(selected_status == "{{\App\Constants::ACTIVE}}"){
             isPlayed = true
+            clearInterval(timer);
             startTimer();
         }else if(selected_status == "{{\App\Constants::NOT_ACTIVE}}"){
             isPlayed = false
+            clearInterval(timer);
             startTimer();
         }
 
@@ -93,6 +139,7 @@
                 statusText = "{{translate_title('Break has begun')}}"
                 isPlayed = true;
                 console.log('yondi')
+                clearInterval(timer);
                 startTimer()
             }else if(selectedStatus == '{{\App\Constants::NOT_ACTIVE}}'){
                 if(active_status_content.classList.contains('d-none')){
@@ -104,11 +151,19 @@
                 statusText = "{{translate_title('Break has stopped')}}"
                 isPlayed = false;
                 console.log("o'chdi")
+                clearInterval(timer);
                 startTimer()
             }
         }
         function activateOrDisactivate(status) {
             changeStatus(status, user_id)
+            if(isPlayed){
+                setInterval(function () {
+                    if(isPlayed){
+                        getCorrectSeconds(user_id)
+                    }
+                }, 30000)
+            }
         }
 
         function changeStatus(selectedStatus, userId){
@@ -125,7 +180,11 @@
                     response_data = data
                     if(response_data.status == true){
                         changeButtons(selectedStatus)
-                        toastr.success(statusText);
+                        if(data.break_status = 'active'){
+                            toastr.success(statusText);
+                        }else{
+                            toastr.warning(statusText);
+                        }
                     }else{
                         toastr.error('Something got wrong! try again');
                     }
@@ -149,6 +208,7 @@
         // Timer boshlash funksiyasi
         function startTimer() {
             if (isPlayed) { // Agar pause qilinmagan bo'lsa
+                clearInterval(timer);
                 timer = setInterval(() => {
                     seconds++;
                     displayTime();

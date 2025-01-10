@@ -26,6 +26,9 @@ Route::group(['middleware'=>['isEmployee', 'language']], function(){
     Route::get('/', function (){
         return redirect()->route('break_logs');
     });
+    Route::get('/home', function (){
+        return redirect()->route('break_logs');
+    });
     Route::get('/break-logs', [BreakLogsController::class, 'index'])->name('break_logs');
 });
 

@@ -79,7 +79,7 @@
         <div class="main_menu col-1">
             <div class="d-flex flex-column justify-content-between">
                 <div class="main-menu-top_buttons">
-                    <a class="main-menu-top-buttons-link-main" href="{{route('users.index')}}">
+                    <a class="main-menu-top-buttons-link-main" href="{{route('dashboard')}}">
                         <img class="main-menu-top-buttons_logo" src="{{asset('img/break.jpg')}}" alt="">
                     </a>
                     <a class="main-menu-top-buttons_link" href="{{route('users.index')}}">
@@ -92,6 +92,20 @@
                                 @endif
                             @else
                                 <img src="{{asset('menubar/client.png')}}" alt="">
+                            @endif
+                        </div>
+                        <span class="main-menu-top-buttons-link_text @if(isset($current_page)) {{$current_page == 'users'?'active':''}} @endif">{{translate_title('Users')}}</span>
+                    </a>
+                    <a class="main-menu-top-buttons_link" href="{{route('break_logs')}}">
+                        <div class="main-menu-buttons_link-img">
+                            @if(isset($current_page))
+                                @if($current_page == 'break-logs')
+                                    <img src="{{asset('menubar/employee_active.png')}}" alt="">
+                                @else
+                                    <img src="{{asset('menubar/employee.png')}}" alt="">
+                                @endif
+                            @else
+                                <img src="{{asset('menubar/employee.png')}}" alt="">
                             @endif
                         </div>
                         <span class="main-menu-top-buttons-link_text @if(isset($current_page)) {{$current_page == 'users'?'active':''}} @endif">{{translate_title('Users')}}</span>

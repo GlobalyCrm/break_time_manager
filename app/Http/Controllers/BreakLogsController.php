@@ -18,6 +18,7 @@ class BreakLogsController extends Controller
      * Display a listing of the resource.
      */
     public $userService;
+    public $current_page = 'break-logs';
 
     public function __construct(UserService $userService)
     {
@@ -194,6 +195,7 @@ class BreakLogsController extends Controller
         return view('break.index', [
             'user_self'=>$user_self,
             'title'=>$this->title,
+            'current_page'=>$this->current_page,
             'interval_day'=>$interval_day,
             'status_activate_text'=>$status_activate_text,
             'status_disactivate_text'=>$status_disactivate_text,

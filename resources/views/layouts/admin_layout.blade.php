@@ -108,7 +108,7 @@
                                 <img src="{{asset('menubar/employee.png')}}" alt="">
                             @endif
                         </div>
-                        <span class="main-menu-top-buttons-link_text @if(isset($current_page)) {{$current_page == 'users'?'active':''}} @endif">{{translate_title('Users')}}</span>
+                        <span class="main-menu-top-buttons-link_text @if(isset($current_page)) {{$current_page == 'users'?'active':''}} @endif">{{translate_title('Taking a break')}}</span>
                     </a>
                     <a class="main-menu-top-buttons_link mb-1" href="{{route('language.index')}}">
                         <div class="main-menu-buttons_link-img">
